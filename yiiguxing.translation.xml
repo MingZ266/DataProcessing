@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="m Semi Transparent Status Bar Color" />
+      <item value="Bad notification posted from package com.tai.api19test: Couldn't expand RemoteViews" />
+      <item value="set Custom Content View" />
+      <item value="Remote Views" />
+      <item value="customize" />
+      <item value="custom" />
+      <item value="notify" />
+      <item value="Diverse Notify" />
+      <item value="diverse Notify" />
+      <item value="Notify" />
+      <item value="diverse" />
+      <item value="sundry" />
+      <item value="多样的" />
+      <item value="ZEN MODE PRIORITY SETTINGS" />
+      <item value="MANAGE WRITE SETTINGS" />
+      <item value="MANAGE UNKNOWN APP SOURCES" />
+      <item value="MANAGE OVERLAY PERMISSION" />
+      <item value="Activity Not Found Exception" />
+      <item value="APPLICATION DETAILS SETTINGS" />
+      <item value="APPLICATION DEVELOPMENT SETTINGS" />
+      <item value="EXTRA AUTHORITIES" />
+      <item value="ACTION APPLICATION DEVELOPMENT SETTINGS" />
+      <item value="ACTION APPLICATION SETTINGS" />
+      <item value="ACTION HARD KEYBOARD SETTINGS" />
+      <item value="ACTION CAST SETTINGS" />
+      <item value="ACTION FINGERPRINT ENROLL" />
+      <item value="ACTION ASSIST GESTURE SETTINGS" />
+      <item value="ACTION PRIVACY SETTINGS" />
+      <item value="ACTION MONITORING CERT INFO" />
+      <item value="ACTION TRUSTED CREDENTIALS USER" />
+      <item value="ACTION APP OPEN BY DEFAULT SETTINGS" />
+      <item value="ACTION MANAGE UNKNOWN APP SOURCES" />
+      <item value="ACTION SECURITY SETTINGS" />
+      <item value="METADATA USAGE ACCESS REASON" />
+      <item value="INTENT CATEGORY USAGE ACCESS CONFIG" />
+      <item value="ACTION USAGE ACCESS SETTINGS" />
+      <item value="ACTION ACCESSIBILITY SETTINGS" />
+      <item value="ACTION VOICE CONTROL AIRPLANE MODE" />
+      <item value="EXTRA SUB ID" />
+      <item value="EXTRA NETWORK TEMPLATE" />
+      <item value="ACTION MOBILE DATA USAGE" />
+      <item value="ACTION AIRPLANE MODE SETTINGS" />
+      <item value="ACTION TETHER PROVISIONING" />
+      <item value="ACTION WIRELESS SETTINGS" />
+      <item value="ACTION USER SETTINGS" />
+      <item value="ACTION LOCATION SCANNING SETTINGS" />
+      <item value="ACTION LOCATION CONTROLLER EXTRA PACKAGE SETTINGS" />
+      <item value="ACTION LOCATION SOURCE SETTINGS" />
+      <item value="ACTION APN SETTINGS" />
+      <item value="ACTION CHANNEL NOTIFICATION SETTINGS" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
+        <entry key="BENGALI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200918000568375" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="2f2d5e6a9f7e1244" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
