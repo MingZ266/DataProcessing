@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="裁剪" />
+      <item value="Head Portrait Cut" />
       <item value="m Semi Transparent Status Bar Color" />
       <item value="Bad notification posted from package com.tai.api19test: Couldn't expand RemoteViews" />
       <item value="set Custom Content View" />
@@ -49,13 +51,11 @@
       <item value="ACTION LOCATION SCANNING SETTINGS" />
       <item value="ACTION LOCATION CONTROLLER EXTRA PACKAGE SETTINGS" />
       <item value="ACTION LOCATION SOURCE SETTINGS" />
-      <item value="ACTION APN SETTINGS" />
-      <item value="ACTION CHANNEL NOTIFICATION SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="96" />
         <entry key="BENGALI" value="1" />
       </map>
     </option>
@@ -67,7 +67,7 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
