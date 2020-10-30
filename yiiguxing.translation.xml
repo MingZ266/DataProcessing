@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bitmap" />
       <item value="Apps may not have filesystem permissions to directly * access this path. Instead of trying to open this path * directly, apps should use * {@link ContentResolver#openFileDescriptor(Uri, String)} * to gain access." />
       <item value="show After Cut" />
       <item value="BSD, BSD License," />
@@ -50,12 +51,11 @@
       <item value="ACTION APP OPEN BY DEFAULT SETTINGS" />
       <item value="ACTION MANAGE UNKNOWN APP SOURCES" />
       <item value="ACTION SECURITY SETTINGS" />
-      <item value="METADATA USAGE ACCESS REASON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
