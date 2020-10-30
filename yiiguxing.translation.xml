@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle Image On Kit Kat" />
+      <item value="selection" />
+      <item value="to System Pic Album" />
+      <item value="my Listener" />
+      <item value="my Affairs" />
+      <item value="PERMISSION GRANTED" />
       <item value="The direction to wind the rectangle's contour" />
       <item value="裁剪" />
       <item value="Head Portrait Cut" />
@@ -45,17 +51,11 @@
       <item value="EXTRA SUB ID" />
       <item value="EXTRA NETWORK TEMPLATE" />
       <item value="ACTION MOBILE DATA USAGE" />
-      <item value="ACTION AIRPLANE MODE SETTINGS" />
-      <item value="ACTION TETHER PROVISIONING" />
-      <item value="ACTION WIRELESS SETTINGS" />
-      <item value="ACTION USER SETTINGS" />
-      <item value="ACTION LOCATION SCANNING SETTINGS" />
-      <item value="ACTION LOCATION CONTROLLER EXTRA PACKAGE SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="BENGALI" value="1" />
       </map>
     </option>
