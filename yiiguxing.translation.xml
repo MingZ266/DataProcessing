@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show After Cut" />
       <item value="BSD, BSD License," />
       <item value="AL, Apache License," />
       <item value="GPL, GNU General Public License," />
@@ -50,12 +51,11 @@
       <item value="ACTION SECURITY SETTINGS" />
       <item value="METADATA USAGE ACCESS REASON" />
       <item value="INTENT CATEGORY USAGE ACCESS CONFIG" />
-      <item value="ACTION USAGE ACCESS SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
