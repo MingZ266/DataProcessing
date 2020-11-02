@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Font asset not found fonts/FZMWFont.ttf" />
       <item value="Return the {@link ClipData} associated with this Intent. If there is * none, returns null. See {@link #setClipData} for more information." />
       <item value="Attempt to invoke virtual method 'java.lang.String android.net.Uri.getPath()' on a null object reference" />
       <item value="on a null object reference" />
@@ -50,12 +51,11 @@
       <item value="MANAGE UNKNOWN APP SOURCES" />
       <item value="MANAGE OVERLAY PERMISSION" />
       <item value="Activity Not Found Exception" />
-      <item value="APPLICATION DETAILS SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
