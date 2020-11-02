@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the {@link ClipData} associated with this Intent. If there is * none, returns null. See {@link #setClipData} for more information." />
+      <item value="Attempt to invoke virtual method 'java.lang.String android.net.Uri.getPath()' on a null object reference" />
+      <item value="on a null object reference" />
+      <item value="Failure delivering result ResultInfo" />
       <item value="restart watching" />
       <item value="EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean" />
       <item value="EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000" />
@@ -47,15 +51,11 @@
       <item value="MANAGE OVERLAY PERMISSION" />
       <item value="Activity Not Found Exception" />
       <item value="APPLICATION DETAILS SETTINGS" />
-      <item value="APPLICATION DEVELOPMENT SETTINGS" />
-      <item value="EXTRA AUTHORITIES" />
-      <item value="ACTION APPLICATION DEVELOPMENT SETTINGS" />
-      <item value="ACTION APPLICATION SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
