@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activity Department Select" />
       <item value="to Login" />
       <item value="宣传" />
       <item value="publicity" />
@@ -50,12 +51,11 @@
       <item value="notify" />
       <item value="Diverse Notify" />
       <item value="diverse Notify" />
-      <item value="Notify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
