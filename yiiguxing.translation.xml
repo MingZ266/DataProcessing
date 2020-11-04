@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Department Select" />
+      <item value="department" />
+      <item value="部门" />
+      <item value="部门选择" />
       <item value="Font asset not found fonts/FZMWFont.ttf" />
       <item value="Return the {@link ClipData} associated with this Intent. If there is * none, returns null. See {@link #setClipData} for more information." />
       <item value="Attempt to invoke virtual method 'java.lang.String android.net.Uri.getPath()' on a null object reference" />
@@ -47,15 +51,11 @@
       <item value="sundry" />
       <item value="多样的" />
       <item value="ZEN MODE PRIORITY SETTINGS" />
-      <item value="MANAGE WRITE SETTINGS" />
-      <item value="MANAGE UNKNOWN APP SOURCES" />
-      <item value="MANAGE OVERLAY PERMISSION" />
-      <item value="Activity Not Found Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="129" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
