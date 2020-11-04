@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Login" />
+      <item value="宣传" />
+      <item value="publicity" />
+      <item value="science" />
       <item value="Department Select" />
       <item value="department" />
       <item value="部门" />
@@ -47,15 +51,11 @@
       <item value="Diverse Notify" />
       <item value="diverse Notify" />
       <item value="Notify" />
-      <item value="diverse" />
-      <item value="sundry" />
-      <item value="多样的" />
-      <item value="ZEN MODE PRIORITY SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
