@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="callback" />
+      <item value="send Request" />
+      <item value="Net" />
+      <item value="Net Request" />
+      <item value="网络请求" />
       <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and * write Java objects directly." />
       <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and" />
       <item value="Implement Serializable Judiciously&lt;/h3&gt; * Refer to &lt;i&gt;Effective Java&lt;/i&gt;'s chapter on serialization for thorough * coverage of the serialization API. The book explains how to use this * interface without harming your application's maintainability." />
@@ -46,16 +51,11 @@
       <item value="restart watching" />
       <item value="EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean" />
       <item value="EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000" />
-      <item value="removeInvalidNode all the node in jank list is out of time" />
-      <item value="EXTRA OUTPUT" />
-      <item value="exposed beyond app through ClipData.Item.getUri()" />
-      <item value="File Uri Exposed Exception" />
-      <item value="FATAL EXCEPTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
