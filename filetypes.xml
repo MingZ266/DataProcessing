@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="附加说明" type="PLAIN_TEXT" />
       <mapping pattern="DataCache" type="PLAIN_TEXT" />
       <mapping pattern="AAA" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
