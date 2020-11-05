@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simple Name" />
+      <item value="whole Name" />
+      <item value="integral" />
+      <item value="complete" />
+      <item value="whole" />
       <item value="Activity Department Select" />
       <item value="to Login" />
       <item value="宣传" />
@@ -46,16 +51,11 @@
       <item value="Bad notification posted from package com.tai.api19test: Couldn't expand RemoteViews" />
       <item value="set Custom Content View" />
       <item value="Remote Views" />
-      <item value="customize" />
-      <item value="custom" />
-      <item value="notify" />
-      <item value="Diverse Notify" />
-      <item value="diverse Notify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
