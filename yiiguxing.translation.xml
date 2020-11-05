@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and * write Java objects directly." />
+      <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and" />
+      <item value="Implement Serializable Judiciously&lt;/h3&gt; * Refer to &lt;i&gt;Effective Java&lt;/i&gt;'s chapter on serialization for thorough * coverage of the serialization API. The book explains how to use this * interface without harming your application's maintainability." />
+      <item value="Android implementation of serialVersionUID computation will change slightly * for some classes if you're targeting android N. In order to preserve compatibility, * this change is only enabled is the application target SDK version is set to * 24 or higher. It is highly recommended to use an explicit serialVersionUID * field to avoid compatibility issues." />
+      <item value="If a serializable class does not explicitly declare a serialVersionUID, then * the serialization runtime will calculate a default serialVersionUID value * for that class based on various aspects of the class, as described in the * Java(TM) Object Serialization Specification. However, it is &lt;em&gt;strongly * recommended&lt;/em&gt; that all serializable classes explicitly declare * serialVersionUID values, since the default serialVersionUID computation is * highly sensitive to class details that may vary depending on compiler * implementations, and can thus result in unexpected * &lt;code&gt;InvalidClassException&lt;/code&gt;s during deserialization. Therefore, to * guarantee a consistent serialVersionUID value across different java compiler * implementations, a serializable class must declare an explicit * serialVersionUID value. It is also strongly advised that explicit * serialVersionUID declarations use the &lt;code&gt;private&lt;/code&gt; modifier where * possible, since such declarations apply only to the immediately declaring * class--serialVersionUID fields are not useful as inherited members. Array * classes cannot declare an explicit serialVersionUID, so they always have * the default computed value, but the requirement for matching * serialVersionUID values is waived for array classes." />
+      <item value="The serialization runtime associates with each serializable class a version * number, called a serialVersionUID, which is used during deserialization to * verify that the sender and receiver of a serialized object have loaded * classes for that object that are compatible with respect to serialization. * If the receiver has loaded a class for the object that has a different * serialVersionUID than that of the corresponding sender's class, then * deserialization will result in an {@link InvalidClassException}. A * serializable class can declare its own serialVersionUID explicitly by * declaring a field named &lt;code&gt;&quot;serialVersionUID&quot;&lt;/code&gt; that must be static, * final, and of type &lt;code&gt;long&lt;/code&gt;:" />
+      <item value="Classes that need to designate a replacement when an instance of it * is read from the stream should implement this special method with the * exact signature. *" />
+      <item value="This writeReplace method is invoked by serialization if the method * exists and it would be accessible from a method defined within the * class of the object being serialized. Thus, the method can have private, * protected and package-private access. Subclass access to this method * follows java accessibility rules. &lt;p&gt;" />
+      <item value="ANY-ACCESS-MODIFIER Object writeReplace() throws ObjectStreamException;" />
+      <item value="&gt;Serializable classes that need to designate an alternative object to be * used when writing an object to the stream should implement this * special method with the exact signature:" />
+      <item value="The readObjectNoData method is responsible for initializing the state of * the object for its particular class in the event that the serialization * stream does not list the given class as a superclass of the object being * deserialized. This may occur in cases where the receiving party uses a * different version of the deserialized instance's class than the sending * party, and the receiver's version extends classes that are not extended by * the sender's version. This may also occur if the serialization stream has * been tampered; hence, readObjectNoData is useful for initializing * deserialized objects properly despite a &quot;hostile&quot; or incomplete source * stream." />
+      <item value="The readObject method is responsible for reading from the stream and * restoring the classes fields. It may call in.defaultReadObject to invoke * the default mechanism for restoring the object's non-static and * non-transient fields. The defaultReadObject method uses information in * the stream to assign the fields of the object saved in the stream with the * correspondingly named fields in the current object. This handles the case * when the class has evolved to add new fields. The method does not need to * concern itself with the state belonging to its superclasses or subclasses. * State is saved by writing the individual fields to the * ObjectOutputStream using the writeObject method or by using the * methods for primitive data types supported by DataOutput." />
+      <item value="The writeObject method is responsible for writing the state of the * object for its particular class so that the corresponding * readObject method can restore it. The default mechanism for saving * the Object's fields can be invoked by calling * out.defaultWriteObject. The method does not need to concern * itself with the state belonging to its superclasses or subclasses. * State is saved by writing the individual fields to the * ObjectOutputStream using the writeObject method or by using the * methods for primitive data types supported by DataOutput." />
+      <item value="Classes that require special handling during the serialization and * deserialization process must implement special methods with these exact * signatures:" />
+      <item value="When traversing a graph, an object may be encountered that does not * support the Serializable interface. In this case the * NotSerializableException will be thrown and will identify the class * of the non-serializable object." />
+      <item value="During deserialization, the fields of non-serializable classes will * be initialized using the public or protected no-arg constructor of * the class. A no-arg constructor must be accessible to the subclass * that is serializable. The fields of serializable subclasses will * be restored from the stream." />
+      <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields. The subtype may assume this responsibility only if * the class it extends has an accessible no-arg constructor to * initialize the class's state. It is an error to declare a class * Serializable if this is not the case. The error will be detected at * runtime." />
+      <item value="Serializability of a class is enabled by the class implementing the * java.io.Serializable interface. Classes that do not implement this * interface will not have any of their state serialized or * deserialized. All subtypes of a serializable class are themselves * serializable. The serialization interface has no methods or fields * and serves only to identify the semantics of being serializable." />
+      <item value="Android-added: Notes about serialVersionUID, using serialization judiciously, JSON." />
+      <item value="Interface for classes whose instances can be written to * and restored from a {@link Parcel}. Classes implementing the Parcelable * interface must also have a non-null static field called &lt;code&gt;CREATOR&lt;/code&gt; * of a type that implements the {@link Parcelable.Creator} interface. * * &lt;p&gt;A typical implementation of Parcelable is:&lt;/p&gt;" />
       <item value="密码" />
       <item value="remember Password" />
       <item value="Psw" />
@@ -31,31 +51,11 @@
       <item value="exposed beyond app through ClipData.Item.getUri()" />
       <item value="File Uri Exposed Exception" />
       <item value="FATAL EXCEPTION" />
-      <item value="ACTION IMAGE CAPTURE" />
-      <item value="ACTION CAMERA BUTTON" />
-      <item value="Bitmap" />
-      <item value="Apps may not have filesystem permissions to directly * access this path. Instead of trying to open this path * directly, apps should use * {@link ContentResolver#openFileDescriptor(Uri, String)} * to gain access." />
-      <item value="show After Cut" />
-      <item value="BSD, BSD License," />
-      <item value="AL, Apache License," />
-      <item value="GPL, GNU General Public License," />
-      <item value="LGPL, GNU Lesser General Public License" />
-      <item value="EPL, Eclipse Public License, V1.0 or later" />
-      <item value="handle Image On Kit Kat" />
-      <item value="selection" />
-      <item value="to System Pic Album" />
-      <item value="my Listener" />
-      <item value="my Affairs" />
-      <item value="PERMISSION GRANTED" />
-      <item value="The direction to wind the rectangle's contour" />
-      <item value="裁剪" />
-      <item value="Head Portrait Cut" />
-      <item value="m Semi Transparent Status Bar Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
