@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to start monitoring emulator-5554" />
       <item value="The logging tag can be at most 23 characters, was 27 (ActivityDepartmentSelectTAG)" />
       <item value="Resource IDs will be non-final in Android Gradle Plugin version 5.0, avoid using them in switch case statements" />
       <item value="Plugin &quot;GsonFormat4DataBinding&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;stackoverflow&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;All Format&quot; is incompatible (supported only in IntelliJ IDEA)." />
@@ -50,12 +51,11 @@
       <item value="部门选择" />
       <item value="Font asset not found fonts/FZMWFont.ttf" />
       <item value="Return the {@link ClipData} associated with this Intent. If there is * none, returns null. See {@link #setClipData} for more information." />
-      <item value="Attempt to invoke virtual method 'java.lang.String android.net.Uri.getPath()' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>

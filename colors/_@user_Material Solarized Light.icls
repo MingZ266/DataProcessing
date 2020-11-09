@@ -3,7 +3,7 @@
     <property name="created">2020-09-18T13:01:40</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-09-30T21:07:11</property>
+    <property name="modified">2020-11-09T20:36:10</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <colors>
@@ -195,7 +195,7 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="5b6e75" />
         <option name="BACKGROUND" value="d4cebf" />
       </value>
     </option>
@@ -3930,7 +3930,7 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="2b36" />
+        <option name="FOREGROUND" value="acb9" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
