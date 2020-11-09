@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE. Release Notes" />
+      <item value="The latest stable release of Android Studio is now available for download. Android Studio 4.1 is a major new release and includes performance improvements, bug fixes and new features. Database Inspector for querying application databases Studio templates now use Material Design Components and Themes Ability to run Android Emulator inside of Android Studio Support for Dagger Navigation library Support for TensorFlow Lite models All improvements from IntelliJ IDEA 2020.1.4 Support for foldables in the Android emulator Faster Builds using Apply Changes for devices running Android 11 or higher Ability to export C/C++ dependencies from AARs Improvements to System Trace UI and Native Memory Profiling" />
       <item value="callback" />
       <item value="send Request" />
       <item value="Net" />
@@ -49,12 +51,10 @@
       <item value="on a null object reference" />
       <item value="Failure delivering result ResultInfo" />
       <item value="restart watching" />
-      <item value="EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean" />
-      <item value="EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
+        <entry key="CHINESE" value="165" />
         <entry key="ENGLISH" value="165" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
