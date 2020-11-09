@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows 复制" parent="$default">
+  <action id="OpenCodotaSearch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
+</keymap>

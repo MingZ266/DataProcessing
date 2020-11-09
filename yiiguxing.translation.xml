@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The logging tag can be at most 23 characters, was 27 (ActivityDepartmentSelectTAG)" />
+      <item value="Resource IDs will be non-final in Android Gradle Plugin version 5.0, avoid using them in switch case statements" />
+      <item value="Plugin &quot;GsonFormat4DataBinding&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;stackoverflow&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;All Format&quot; is incompatible (supported only in IntelliJ IDEA)." />
       <item value="Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE. Release Notes" />
       <item value="The latest stable release of Android Studio is now available for download. Android Studio 4.1 is a major new release and includes performance improvements, bug fixes and new features. Database Inspector for querying application databases Studio templates now use Material Design Components and Themes Ability to run Android Emulator inside of Android Studio Support for Dagger Navigation library Support for TensorFlow Lite models All improvements from IntelliJ IDEA 2020.1.4 Support for foldables in the Android emulator Faster Builds using Apply Changes for devices running Android 11 or higher Ability to export C/C++ dependencies from AARs Improvements to System Trace UI and Native Memory Profiling" />
       <item value="callback" />
@@ -48,14 +51,11 @@
       <item value="Font asset not found fonts/FZMWFont.ttf" />
       <item value="Return the {@link ClipData} associated with this Intent. If there is * none, returns null. See {@link #setClipData} for more information." />
       <item value="Attempt to invoke virtual method 'java.lang.String android.net.Uri.getPath()' on a null object reference" />
-      <item value="on a null object reference" />
-      <item value="Failure delivering result ResultInfo" />
-      <item value="restart watching" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="166" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
