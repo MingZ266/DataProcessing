@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serves" />
       <item value="set Black Word On Action Bar" />
       <item value="get Support Action Bar" />
       <item value="unascribed" />
@@ -50,11 +51,10 @@
       <item value="science" />
       <item value="Department Select" />
       <item value="department" />
-      <item value="部门" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
+        <entry key="CHINESE" value="170" />
         <entry key="ENGLISH" value="170" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
