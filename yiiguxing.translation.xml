@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Support Action Bar" />
+      <item value="unascribed" />
       <item value="Failed to start monitoring emulator-5554" />
       <item value="The logging tag can be at most 23 characters, was 27 (ActivityDepartmentSelectTAG)" />
       <item value="Resource IDs will be non-final in Android Gradle Plugin version 5.0, avoid using them in switch case statements" />
@@ -49,13 +51,11 @@
       <item value="department" />
       <item value="部门" />
       <item value="部门选择" />
-      <item value="Font asset not found fonts/FZMWFont.ttf" />
-      <item value="Return the {@link ClipData} associated with this Intent. If there is * none, returns null. See {@link #setClipData} for more information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
