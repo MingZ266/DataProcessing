@@ -3,7 +3,7 @@
     <property name="created">2020-09-18T13:01:40</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-11-10T13:05:41</property>
+    <property name="modified">2020-11-10T17:28:16</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <colors>
@@ -28,16 +28,16 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_MERGED" value="6c71c4" />
-    <option name="FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="FILESTATUS_MODIFIED" value="39dd79" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
     <option name="FILESTATUS_OBSOLETE" value="b58900" />
     <option name="FILESTATUS_RENAMED" value="6c71c4" />
     <option name="FILESTATUS_SWITCHED" value="268bd2" />
-    <option name="FILESTATUS_UNKNOWN" value="d33682" />
+    <option name="FILESTATUS_UNKNOWN" value="ff48f5" />
     <option name="FILESTATUS_addedOutside" value="d33682" />
     <option name="FILESTATUS_changelistConflict" value="cb4b16" />
-    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
+    <option name="FILESTATUS_modifiedOutside" value="39dd79" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="b0eecd" />
     <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
@@ -190,7 +190,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="73642" />
+        <option name="ERROR_STRIPE_COLOR" value="b0eecd" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
