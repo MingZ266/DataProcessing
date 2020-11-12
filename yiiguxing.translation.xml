@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Customize your theme here." />
+      <item value="Secondary brand color." />
+      <item value="Primary brand color" />
+      <item value="Secondary brand color" />
       <item value="SEGMENTS" />
       <item value="SCAN RESULT ERROR CORRECTION LEVEL" />
       <item value="SCAN RESULT FORMAT" />
@@ -47,15 +51,11 @@
       <item value="Psw" />
       <item value="simple Name" />
       <item value="whole Name" />
-      <item value="integral" />
-      <item value="complete" />
-      <item value="whole" />
-      <item value="Activity Department Select" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
