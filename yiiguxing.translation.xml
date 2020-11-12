@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should not be called without setting the encryption mode and padding" />
       <item value="color Primary" />
       <item value="color Primary Dark" />
       <item value="list Choice Background Indicator" />
@@ -50,11 +51,10 @@
       <item value="Classes that require special handling during the serialization and * deserialization process must implement special methods with these exact * signatures:" />
       <item value="When traversing a graph, an object may be encountered that does not * support the Serializable interface. In this case the * NotSerializableException will be thrown and will identify the class * of the non-serializable object." />
       <item value="During deserialization, the fields of non-serializable classes will * be initialized using the public or protected no-arg constructor of * the class. A no-arg constructor must be accessible to the subclass * that is serializable. The fields of serializable subclasses will * be restored from the stream." />
-      <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields. The subtype may assume this responsibility only if * the class it extends has an accessible no-arg constructor to * initialize the class's state. It is an error to declare a class * Serializable if this is not the case. The error will be detected at * runtime." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
+        <entry key="CHINESE" value="188" />
         <entry key="ENGLISH" value="188" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
