@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="color Primary" />
+      <item value="color Primary Dark" />
+      <item value="list Choice Background Indicator" />
+      <item value="action Bar Theme" />
+      <item value="action Bar Widget Theme" />
+      <item value="action Bar Popup Theme" />
       <item value="on Request Permissions Result" />
       <item value="On Request Permissions Result Callback" />
       <item value="Customize your theme here." />
@@ -45,17 +51,11 @@
       <item value="When traversing a graph, an object may be encountered that does not * support the Serializable interface. In this case the * NotSerializableException will be thrown and will identify the class * of the non-serializable object." />
       <item value="During deserialization, the fields of non-serializable classes will * be initialized using the public or protected no-arg constructor of * the class. A no-arg constructor must be accessible to the subclass * that is serializable. The fields of serializable subclasses will * be restored from the stream." />
       <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields. The subtype may assume this responsibility only if * the class it extends has an accessible no-arg constructor to * initialize the class's state. It is an error to declare a class * Serializable if this is not the case. The error will be detected at * runtime." />
-      <item value="Serializability of a class is enabled by the class implementing the * java.io.Serializable interface. Classes that do not implement this * interface will not have any of their state serialized or * deserialized. All subtypes of a serializable class are themselves * serializable. The serialization interface has no methods or fields * and serves only to identify the semantics of being serializable." />
-      <item value="Android-added: Notes about serialVersionUID, using serialization judiciously, JSON." />
-      <item value="Interface for classes whose instances can be written to * and restored from a {@link Parcel}. Classes implementing the Parcelable * interface must also have a non-null static field called &lt;code&gt;CREATOR&lt;/code&gt; * of a type that implements the {@link Parcelable.Creator} interface. * * &lt;p&gt;A typical implementation of Parcelable is:&lt;/p&gt;" />
-      <item value="密码" />
-      <item value="remember Password" />
-      <item value="Psw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
