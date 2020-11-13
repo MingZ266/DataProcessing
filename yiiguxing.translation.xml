@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mark In Here" />
+      <item value="Mark It S Here" />
+      <item value="Symbol Here" />
+      <item value="Sign In" />
+      <item value="Activity Sign In" />
       <item value="ACTION SHOW SUSPENDED APP DETAILS" />
       <item value="GET SERVICES" />
       <item value="GET RECEIVERS" />
@@ -46,15 +51,10 @@
       <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and * write Java objects directly." />
       <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and" />
       <item value="Implement Serializable Judiciously&lt;/h3&gt; * Refer to &lt;i&gt;Effective Java&lt;/i&gt;'s chapter on serialization for thorough * coverage of the serialization API. The book explains how to use this * interface without harming your application's maintainability." />
-      <item value="Android implementation of serialVersionUID computation will change slightly * for some classes if you're targeting android N. In order to preserve compatibility, * this change is only enabled is the application target SDK version is set to * 24 or higher. It is highly recommended to use an explicit serialVersionUID * field to avoid compatibility issues." />
-      <item value="If a serializable class does not explicitly declare a serialVersionUID, then * the serialization runtime will calculate a default serialVersionUID value * for that class based on various aspects of the class, as described in the * Java(TM) Object Serialization Specification. However, it is &lt;em&gt;strongly * recommended&lt;/em&gt; that all serializable classes explicitly declare * serialVersionUID values, since the default serialVersionUID computation is * highly sensitive to class details that may vary depending on compiler * implementations, and can thus result in unexpected * &lt;code&gt;InvalidClassException&lt;/code&gt;s during deserialization. Therefore, to * guarantee a consistent serialVersionUID value across different java compiler * implementations, a serializable class must declare an explicit * serialVersionUID value. It is also strongly advised that explicit * serialVersionUID declarations use the &lt;code&gt;private&lt;/code&gt; modifier where * possible, since such declarations apply only to the immediately declaring * class--serialVersionUID fields are not useful as inherited members. Array * classes cannot declare an explicit serialVersionUID, so they always have * the default computed value, but the requirement for matching * serialVersionUID values is waived for array classes." />
-      <item value="The serialization runtime associates with each serializable class a version * number, called a serialVersionUID, which is used during deserialization to * verify that the sender and receiver of a serialized object have loaded * classes for that object that are compatible with respect to serialization. * If the receiver has loaded a class for the object that has a different * serialVersionUID than that of the corresponding sender's class, then * deserialization will result in an {@link InvalidClassException}. A * serializable class can declare its own serialVersionUID explicitly by * declaring a field named &lt;code&gt;&quot;serialVersionUID&quot;&lt;/code&gt; that must be static, * final, and of type &lt;code&gt;long&lt;/code&gt;:" />
-      <item value="Classes that need to designate a replacement when an instance of it * is read from the stream should implement this special method with the * exact signature. *" />
-      <item value="This writeReplace method is invoked by serialization if the method * exists and it would be accessible from a method defined within the * class of the object being serialized. Thus, the method can have private, * protected and package-private access. Subclass access to this method * follows java accessibility rules. &lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
+        <entry key="CHINESE" value="196" />
         <entry key="ENGLISH" value="196" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
