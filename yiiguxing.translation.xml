@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scan History" />
       <item value="Do not place Android context classes in static fields; this is a memory leak" />
       <item value="o not place Android context classes in static fields; this is a memory leak" />
       <item value="scan Next" />
@@ -50,11 +51,10 @@
       <item value="Primary brand color" />
       <item value="Secondary brand color" />
       <item value="SEGMENTS" />
-      <item value="SCAN RESULT ERROR CORRECTION LEVEL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
+        <entry key="CHINESE" value="224" />
         <entry key="ENGLISH" value="224" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
