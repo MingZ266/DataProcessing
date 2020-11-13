@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACTION SHOW SUSPENDED APP DETAILS" />
+      <item value="GET SERVICES" />
+      <item value="GET RECEIVERS" />
+      <item value="GET ACTIVITIES" />
+      <item value="On Permissions Changed Listener" />
+      <item value="APPLY DEFAULT TO DEVICE PROTECTED STORAGE" />
+      <item value="PERMISSION GRANTED" />
       <item value="send Key" />
       <item value="should not be called without setting the encryption mode and padding" />
       <item value="color Primary" />
@@ -44,18 +51,11 @@
       <item value="The serialization runtime associates with each serializable class a version * number, called a serialVersionUID, which is used during deserialization to * verify that the sender and receiver of a serialized object have loaded * classes for that object that are compatible with respect to serialization. * If the receiver has loaded a class for the object that has a different * serialVersionUID than that of the corresponding sender's class, then * deserialization will result in an {@link InvalidClassException}. A * serializable class can declare its own serialVersionUID explicitly by * declaring a field named &lt;code&gt;&quot;serialVersionUID&quot;&lt;/code&gt; that must be static, * final, and of type &lt;code&gt;long&lt;/code&gt;:" />
       <item value="Classes that need to designate a replacement when an instance of it * is read from the stream should implement this special method with the * exact signature. *" />
       <item value="This writeReplace method is invoked by serialization if the method * exists and it would be accessible from a method defined within the * class of the object being serialized. Thus, the method can have private, * protected and package-private access. Subclass access to this method * follows java accessibility rules. &lt;p&gt;" />
-      <item value="ANY-ACCESS-MODIFIER Object writeReplace() throws ObjectStreamException;" />
-      <item value="&gt;Serializable classes that need to designate an alternative object to be * used when writing an object to the stream should implement this * special method with the exact signature:" />
-      <item value="The readObjectNoData method is responsible for initializing the state of * the object for its particular class in the event that the serialization * stream does not list the given class as a superclass of the object being * deserialized. This may occur in cases where the receiving party uses a * different version of the deserialized instance's class than the sending * party, and the receiver's version extends classes that are not extended by * the sender's version. This may also occur if the serialization stream has * been tampered; hence, readObjectNoData is useful for initializing * deserialized objects properly despite a &quot;hostile&quot; or incomplete source * stream." />
-      <item value="The readObject method is responsible for reading from the stream and * restoring the classes fields. It may call in.defaultReadObject to invoke * the default mechanism for restoring the object's non-static and * non-transient fields. The defaultReadObject method uses information in * the stream to assign the fields of the object saved in the stream with the * correspondingly named fields in the current object. This handles the case * when the class has evolved to add new fields. The method does not need to * concern itself with the state belonging to its superclasses or subclasses. * State is saved by writing the individual fields to the * ObjectOutputStream using the writeObject method or by using the * methods for primitive data types supported by DataOutput." />
-      <item value="The writeObject method is responsible for writing the state of the * object for its particular class so that the corresponding * readObject method can restore it. The default mechanism for saving * the Object's fields can be invoked by calling * out.defaultWriteObject. The method does not need to concern * itself with the state belonging to its superclasses or subclasses. * State is saved by writing the individual fields to the * ObjectOutputStream using the writeObject method or by using the * methods for primitive data types supported by DataOutput." />
-      <item value="Classes that require special handling during the serialization and * deserialization process must implement special methods with these exact * signatures:" />
-      <item value="When traversing a graph, an object may be encountered that does not * support the Serializable interface. In this case the * NotSerializableException will be thrown and will identify the class * of the non-serializable object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
