@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scan Request Code" />
       <item value="color On Secondary" />
       <item value="color Secondary Variant" />
       <item value="color Secondary" />
@@ -50,12 +51,11 @@
       <item value="SCAN RESULT BYTE SEGMENTS_0" />
       <item value="SCAN RESULT" />
       <item value="Serves" />
-      <item value="set Black Word On Action Bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="222" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
