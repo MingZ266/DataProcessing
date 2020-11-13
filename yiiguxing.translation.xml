@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="color On Secondary" />
+      <item value="color Secondary Variant" />
+      <item value="color Secondary" />
+      <item value="Primary brand color." />
+      <item value="color Primary" />
+      <item value="color On Primary" />
+      <item value="color Primary Variant" />
+      <item value="action Bar Divider" />
+      <item value="scan Code" />
       <item value="Components: Android Emulator, Google USB Driver, Android SDK Platform-Tools, Google APIs Intel x86 Atom System Image" />
       <item value="The latest stable release of Android Studio is now available for download." />
       <item value="Registration" />
@@ -23,7 +32,6 @@
       <item value="PERMISSION GRANTED" />
       <item value="send Key" />
       <item value="should not be called without setting the encryption mode and padding" />
-      <item value="color Primary" />
       <item value="color Primary Dark" />
       <item value="list Choice Background Indicator" />
       <item value="action Bar Theme" />
@@ -43,19 +51,11 @@
       <item value="SCAN RESULT" />
       <item value="Serves" />
       <item value="set Black Word On Action Bar" />
-      <item value="get Support Action Bar" />
-      <item value="unascribed" />
-      <item value="Failed to start monitoring emulator-5554" />
-      <item value="The logging tag can be at most 23 characters, was 27 (ActivityDepartmentSelectTAG)" />
-      <item value="Resource IDs will be non-final in Android Gradle Plugin version 5.0, avoid using them in switch case statements" />
-      <item value="Plugin &quot;GsonFormat4DataBinding&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;stackoverflow&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;All Format&quot; is incompatible (supported only in IntelliJ IDEA)." />
-      <item value="Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE. Release Notes" />
-      <item value="The latest stable release of Android Studio is now available for download. Android Studio 4.1 is a major new release and includes performance improvements, bug fixes and new features. Database Inspector for querying application databases Studio templates now use Material Design Components and Themes Ability to run Android Emulator inside of Android Studio Support for Dagger Navigation library Support for TensorFlow Lite models All improvements from IntelliJ IDEA 2020.1.4 Support for foldables in the Android emulator Faster Builds using Apply Changes for devices running Android 11 or higher Ability to export C/C++ dependencies from AARs Improvements to System Trace UI and Native Memory Profiling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="221" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
