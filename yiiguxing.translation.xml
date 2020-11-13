@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Components: Android Emulator, Google USB Driver, Android SDK Platform-Tools, Google APIs Intel x86 Atom System Image" />
+      <item value="The latest stable release of Android Studio is now available for download." />
       <item value="Registration" />
       <item value="activity registration" />
       <item value="签到" />
@@ -49,8 +51,6 @@
       <item value="Plugin &quot;GsonFormat4DataBinding&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;stackoverflow&quot; is incompatible (supported only in IntelliJ IDEA). Plugin &quot;All Format&quot; is incompatible (supported only in IntelliJ IDEA)." />
       <item value="Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE. Release Notes" />
       <item value="The latest stable release of Android Studio is now available for download. Android Studio 4.1 is a major new release and includes performance improvements, bug fixes and new features. Database Inspector for querying application databases Studio templates now use Material Design Components and Themes Ability to run Android Emulator inside of Android Studio Support for Dagger Navigation library Support for TensorFlow Lite models All improvements from IntelliJ IDEA 2020.1.4 Support for foldables in the Android emulator Faster Builds using Apply Changes for devices running Android 11 or higher Ability to export C/C++ dependencies from AARs Improvements to System Trace UI and Native Memory Profiling" />
-      <item value="callback" />
-      <item value="send Request" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,6 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
