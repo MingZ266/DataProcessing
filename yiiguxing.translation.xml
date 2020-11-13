@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Registration" />
+      <item value="activity registration" />
+      <item value="签到" />
+      <item value="check-ins" />
+      <item value="check ins" />
+      <item value="check in" />
       <item value="Mark In Here" />
       <item value="Mark It S Here" />
       <item value="Symbol Here" />
@@ -45,19 +51,13 @@
       <item value="The latest stable release of Android Studio is now available for download. Android Studio 4.1 is a major new release and includes performance improvements, bug fixes and new features. Database Inspector for querying application databases Studio templates now use Material Design Components and Themes Ability to run Android Emulator inside of Android Studio Support for Dagger Navigation library Support for TensorFlow Lite models All improvements from IntelliJ IDEA 2020.1.4 Support for foldables in the Android emulator Faster Builds using Apply Changes for devices running Android 11 or higher Ability to export C/C++ dependencies from AARs Improvements to System Trace UI and Native Memory Profiling" />
       <item value="callback" />
       <item value="send Request" />
-      <item value="Net" />
-      <item value="Net Request" />
-      <item value="网络请求" />
-      <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and * write Java objects directly." />
-      <item value="&lt;h3&gt;Recommended Alternatives&lt;/h3&gt; * &lt;strong&gt;JSON&lt;/strong&gt; is concise, human-readable and efficient. Android * includes both a {@link android.util.JsonReader streaming API} and a {@link * org.json.JSONObject tree API} to read and write JSON. Use a binding library * like &lt;a href=&quot;http://code.google.com/p/google-gson/&quot;&gt;GSON&lt;/a&gt; to read and" />
-      <item value="Implement Serializable Judiciously&lt;/h3&gt; * Refer to &lt;i&gt;Effective Java&lt;/i&gt;'s chapter on serialization for thorough * coverage of the serialization API. The book explains how to use this * interface without harming your application's maintainability." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="212" />
         <entry key="BENGALI" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
@@ -69,6 +69,7 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
