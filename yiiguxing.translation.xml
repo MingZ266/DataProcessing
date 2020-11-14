@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VIBRATE" />
+      <item value="Requires VIBRATE permission" />
+      <item value="Both dimensions must be greater than 0" />
       <item value="Scan QR Code" />
       <item value="inactivity Timer" />
       <item value="qrcode scan" />
@@ -48,14 +51,11 @@
       <item value="align End" />
       <item value="layout align End" />
       <item value="There are changes in signature but nothing can be updated in usages" />
-      <item value="Registration Info" />
-      <item value="Scan History" />
-      <item value="Do not place Android context classes in static fields; this is a memory leak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
