@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No view found for id 0x7f0800b2 (com.tdsata.show:id/fl_zxing_container) for fragment CaptureFragment{67f669e (734605f1-7d98-4514-885d-155ea3a02349) id=0x7f0800b2}" />
       <item value="VIBRATE" />
       <item value="Requires VIBRATE permission" />
       <item value="Both dimensions must be greater than 0" />
@@ -50,12 +51,11 @@
       <item value="status" />
       <item value="align End" />
       <item value="layout align End" />
-      <item value="There are changes in signature but nothing can be updated in usages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>

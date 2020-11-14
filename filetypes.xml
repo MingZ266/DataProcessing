@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ogg" type="Native" />
       <mapping pattern="附加说明" type="PLAIN_TEXT" />
       <mapping pattern="DataCache" type="PLAIN_TEXT" />
       <mapping pattern="AAA" type="PLAIN_TEXT" />
