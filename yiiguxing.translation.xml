@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Blending mode used to apply the compound (left, top, etc.) drawables tint." />
+      <item value="Tint to apply to the compound (left, top, etc.) drawables." />
+      <item value="drawable Tint" />
+      <item value="Tint" />
+      <item value="The drawable to be drawn to the start of the text." />
+      <item value="If set, specifies that this TextView has a numeric input method and that these specific characters are the ones that it will accept. If this is set, numeric is implied to be true. The default is false" />
+      <item value="digits" />
+      <item value="TextView-7 can overlap @id/name if @id/name, TextView-7 grow due to localized text expansion" />
+      <item value="This tag and its children can be replaced by one &lt;TextView/&gt; and a compound drawable" />
+      <item value="status" />
+      <item value="align End" />
+      <item value="layout align End" />
       <item value="There are changes in signature but nothing can be updated in usages" />
       <item value="Registration Info" />
       <item value="Scan History" />
@@ -39,23 +51,11 @@
       <item value="On Permissions Changed Listener" />
       <item value="APPLY DEFAULT TO DEVICE PROTECTED STORAGE" />
       <item value="PERMISSION GRANTED" />
-      <item value="send Key" />
-      <item value="should not be called without setting the encryption mode and padding" />
-      <item value="color Primary Dark" />
-      <item value="list Choice Background Indicator" />
-      <item value="action Bar Theme" />
-      <item value="action Bar Widget Theme" />
-      <item value="action Bar Popup Theme" />
-      <item value="on Request Permissions Result" />
-      <item value="On Request Permissions Result Callback" />
-      <item value="Customize your theme here." />
-      <item value="Secondary brand color." />
-      <item value="Primary brand color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="231" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
