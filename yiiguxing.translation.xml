@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Flight" />
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="Calculates the framing rect which the UI should draw to show the user where to place the barcode. This target helps with alignment as well as forces the user to hold the device far enough away to ensure the image will be in focus." />
       <item value="Avoid object allocations during draw/layout operations (preallocate and reuse instead)" />
@@ -50,12 +51,11 @@
       <item value="drawable Tint" />
       <item value="Tint" />
       <item value="The drawable to be drawn to the start of the text." />
-      <item value="If set, specifies that this TextView has a numeric input method and that these specific characters are the ones that it will accept. If this is set, numeric is implied to be true. The default is false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
