@@ -1,6 +1,38 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scan QR Code" />
+      <item value="inactivity Timer" />
+      <item value="qrcode scan" />
+      <item value="draw Custom View" />
+      <item value="add Possible Result Point" />
+      <item value="draw Scan Line" />
+      <item value="possible Result Points" />
+      <item value="scanner Alpha" />
+      <item value="result Point Color" />
+      <item value="laser Color" />
+      <item value="mask Color" />
+      <item value="RECTANGLE EDGE OFFSET" />
+      <item value="CORNER RECTANGLE LENGTH" />
+      <item value="CORNER RECTANGLE WIDTH" />
+      <item value="POINT SIZE" />
+      <item value="MAX RESULT POINTS" />
+      <item value="CURRENT POINT OPACITY" />
+      <item value="ANIMATION DELAY" />
+      <item value="SCANNER ALPHA" />
+      <item value="Viewfinder View" />
+      <item value="draw Viewfinder" />
+      <item value="reset Status View" />
+      <item value="Unexpected error initializing camera" />
+      <item value="initCamera() while already open -- late SurfaceView callback?" />
+      <item value="Illegal State Exception" />
+      <item value="No SurfaceHolder provided" />
+      <item value="surface Created" />
+      <item value="Capture Activity" />
+      <item value="surface" />
+      <item value="surface Changed" />
+      <item value="Pause" />
+      <item value="Resume" />
       <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path" />
       <item value="member" />
       <item value="Blending mode used to apply the compound (left, top, etc.) drawables tint." />
@@ -19,43 +51,11 @@
       <item value="Registration Info" />
       <item value="Scan History" />
       <item value="Do not place Android context classes in static fields; this is a memory leak" />
-      <item value="o not place Android context classes in static fields; this is a memory leak" />
-      <item value="scan Next" />
-      <item value="扫描" />
-      <item value="return Last" />
-      <item value="scan Request Code" />
-      <item value="color On Secondary" />
-      <item value="color Secondary Variant" />
-      <item value="color Secondary" />
-      <item value="Primary brand color." />
-      <item value="color Primary" />
-      <item value="color On Primary" />
-      <item value="color Primary Variant" />
-      <item value="action Bar Divider" />
-      <item value="scan Code" />
-      <item value="Components: Android Emulator, Google USB Driver, Android SDK Platform-Tools, Google APIs Intel x86 Atom System Image" />
-      <item value="The latest stable release of Android Studio is now available for download." />
-      <item value="Registration" />
-      <item value="activity registration" />
-      <item value="签到" />
-      <item value="check-ins" />
-      <item value="check ins" />
-      <item value="check in" />
-      <item value="Mark In Here" />
-      <item value="Mark It S Here" />
-      <item value="Symbol Here" />
-      <item value="Sign In" />
-      <item value="Activity Sign In" />
-      <item value="ACTION SHOW SUSPENDED APP DETAILS" />
-      <item value="GET SERVICES" />
-      <item value="GET RECEIVERS" />
-      <item value="GET ACTIVITIES" />
-      <item value="On Permissions Changed Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
