@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Torch for camera &quot;0&quot; is not available due to an existing camera user" />
+      <item value="System services not available to Activities before onCreate()" />
+      <item value="Unable to instantiate activity ComponentInfo" />
       <item value="start Flight" />
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="Calculates the framing rect which the UI should draw to show the user where to place the barcode. This target helps with alignment as well as forces the user to hold the device far enough away to ensure the image will be in focus." />
@@ -48,14 +51,11 @@
       <item value="member" />
       <item value="Blending mode used to apply the compound (left, top, etc.) drawables tint." />
       <item value="Tint to apply to the compound (left, top, etc.) drawables." />
-      <item value="drawable Tint" />
-      <item value="Tint" />
-      <item value="The drawable to be drawn to the start of the text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
