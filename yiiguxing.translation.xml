@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="viewfinder view" />
+      <item value="preview view" />
       <item value="No view found for id 0x7f0800b2 (com.tdsata.show:id/fl_zxing_container) for fragment CaptureFragment{67f669e (734605f1-7d98-4514-885d-155ea3a02349) id=0x7f0800b2}" />
       <item value="VIBRATE" />
       <item value="Requires VIBRATE permission" />
@@ -49,13 +51,11 @@
       <item value="TextView-7 can overlap @id/name if @id/name, TextView-7 grow due to localized text expansion" />
       <item value="This tag and its children can be replaced by one &lt;TextView/&gt; and a compound drawable" />
       <item value="status" />
-      <item value="align End" />
-      <item value="layout align End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="BENGALI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
