@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="running Next" />
+      <item value="is Running" />
+      <item value="the Is Over" />
       <item value="Called when something has changed which has invalidated the layout of a child of this view parent. This will schedule a layout pass of the view tree." />
       <item value="Plugin &quot;Rainbow Brackets&quot; is incompatible (until build 193.SNAPSHOT &lt; AI-201.8743.12)." />
       <item value="Execution failed for task ':app:lintVitalRelease'." />
@@ -48,14 +51,11 @@
       <item value="possible Result Points" />
       <item value="scanner Alpha" />
       <item value="result Point Color" />
-      <item value="laser Color" />
-      <item value="mask Color" />
-      <item value="RECTANGLE EDGE OFFSET" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="GERMAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
