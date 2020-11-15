@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TextView-1 can overlap TextView-3 if TextView-1 grows due to localized text expansion" />
       <item value="running Next" />
       <item value="is Running" />
       <item value="the Is Over" />
@@ -50,11 +51,10 @@
       <item value="draw Scan Line" />
       <item value="possible Result Points" />
       <item value="scanner Alpha" />
-      <item value="result Point Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
+        <entry key="CHINESE" value="297" />
         <entry key="ENGLISH" value="297" />
         <entry key="GERMAN" value="3" />
         <entry key="BENGALI" value="1" />
