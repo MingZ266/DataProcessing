@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="one Data Time" />
+      <item value="one Data Timing" />
+      <item value="upload One Data Timing" />
+      <item value="interrupt Timing" />
+      <item value="upload One Data Is Over" />
       <item value="export Record" />
       <item value="export Notes" />
       <item value="TextView-1 can overlap TextView-3 if TextView-1 grows due to localized text expansion" />
@@ -46,16 +51,11 @@
       <item value="VIBRATE" />
       <item value="Requires VIBRATE permission" />
       <item value="Both dimensions must be greater than 0" />
-      <item value="Scan QR Code" />
-      <item value="inactivity Timer" />
-      <item value="qrcode scan" />
-      <item value="draw Custom View" />
-      <item value="draw Scan Line" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="GERMAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
