@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSIDE" />
+      <item value="EXTERNAL" />
+      <item value="on Item Selected" />
+      <item value="on Nothing Selected" />
       <item value="get Drop Down View" />
       <item value="unregister Data Set Observer" />
       <item value="register Data Set Observer" />
@@ -47,15 +51,11 @@
       <item value="tag Time" />
       <item value="time Tag" />
       <item value="'com.uuzuche.lib_zxing.activity.CaptureFragment.CameraInitCallBack' is not public in 'com.uuzuche.lib_zxing.activity.CaptureFragment'. Cannot be accessed from outside package" />
-      <item value="Torch for camera &quot;0&quot; is not available due to an existing camera user" />
-      <item value="System services not available to Activities before onCreate()" />
-      <item value="Unable to instantiate activity ComponentInfo" />
-      <item value="start Flight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="GERMAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
