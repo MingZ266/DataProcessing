@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WRITE_EXTERNAL_STORAGE no longer provides write access when targeting Android 10, unless you use requestLegacyExternalStorage" />
       <item value="Unboxing of 'barColor.get(getWindow().getDecorView())' may produce 'NullPointerException'" />
       <item value="Package-local class Tools will no longer be accessible from method" />
       <item value="The path 'C:\Users\HRL\AppData\Local\Android\Sdk' does not belong to a directory. Android Studio will use this Android SDK instead: 'D:\AppData\Local\Android\Sdk' and will modify the project's local.properties file." />
@@ -50,7 +51,6 @@
       <item value="Draw the exterior (i.e. outside the framing rect) darkened" />
       <item value="Calculates the framing rect which the UI should draw to show the user where to place the barcode. This target helps with alignment as well as forces the user to hold the device far enough away to ensure the image will be in focus." />
       <item value="Avoid object allocations during draw/layout operations (preallocate and reuse instead)" />
-      <item value="add Possible Result Point" />
     </histories>
     <option name="languageScores">
       <map>
