@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="activity file" />
       <item value="简单" />
       <item value="destroy Item" />
       <item value="instantiate Item" />
@@ -50,12 +51,11 @@
       <item value="non Init Time" />
       <item value="alter Time" />
       <item value="&gt;elapsedRealtime() and elapsedRealtimeNanos() return the time since the system was booted, &gt; and include deep sleep. This clock is guaranteed to be monotonic, and continues to tick &gt;even when the CPU is in power saving modes, so is the recommend basis for general purpose &gt; interval timing." />
-      <item value="mark Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="GERMAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
