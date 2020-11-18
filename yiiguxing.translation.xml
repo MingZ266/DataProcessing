@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unknown bits set in runtime_flags: 0x8000" />
+      <item value="Access denied finding property &quot;runtime.mmitest.isrunning&quot;" />
       <item value="Attempt to invoke virtual method 'void androidx.appcompat.widget.Toolbar.setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)' on a null object reference" />
       <item value="dropdown" />
       <item value="Illegal type: 'void'" />
@@ -49,13 +51,11 @@
       <item value="Lint found fatal errors while assembling a release target." />
       <item value="show Tip Popups With Two Button" />
       <item value="no Upload Count" />
-      <item value="no Upload Num" />
-      <item value="already Upload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="GERMAN" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
