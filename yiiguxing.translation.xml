@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get Instance" />
+      <item value="ECB encryption mode should not be used (was &quot;AES/ECB&quot;)" />
+      <item value="CB encryption mode should not be used" />
+      <item value="should not be called without setting the encryption mode and padding" />
+      <item value="ciphertext" />
+      <item value="Cipher.getInstance should not be called without setting the encryption mode and padding" />
       <item value="launcher" />
       <item value="Fixed Value" />
       <item value="Workspace associated with branch '后端' has been restored" />
@@ -45,17 +51,11 @@
       <item value="run Over" />
       <item value="running Over" />
       <item value="one Data Time" />
-      <item value="one Data Timing" />
-      <item value="upload One Data Timing" />
-      <item value="interrupt Timing" />
-      <item value="upload One Data Is Over" />
-      <item value="export Record" />
-      <item value="export Notes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -70,7 +70,6 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
