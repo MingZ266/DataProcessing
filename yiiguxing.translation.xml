@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no Init Connection" />
+      <item value="Local.is Already Connection" />
+      <item value="Local.is Already Connection()" />
+      <item value="is Already Connection" />
+      <item value="is Success" />
       <item value="on Failure" />
       <item value="on Response" />
       <item value="Response" />
@@ -46,16 +51,11 @@
       <item value="get Drop Down View" />
       <item value="unregister Data Set Observer" />
       <item value="register Data Set Observer" />
-      <item value="WRITE_EXTERNAL_STORAGE no longer provides write access when targeting Android 10, unless you use requestLegacyExternalStorage" />
-      <item value="Unboxing of 'barColor.get(getWindow().getDecorView())' may produce 'NullPointerException'" />
-      <item value="Package-local class Tools will no longer be accessible from method" />
-      <item value="The path 'C:\Users\HRL\AppData\Local\Android\Sdk' does not belong to a directory. Android Studio will use this Android SDK instead: 'D:\AppData\Local\Android\Sdk' and will modify the project's local.properties file." />
-      <item value="Forgot to register a type adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
