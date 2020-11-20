@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Connection" />
       <item value="Get Instance" />
       <item value="ECB encryption mode should not be used (was &quot;AES/ECB&quot;)" />
       <item value="CB encryption mode should not be used" />
@@ -50,12 +51,11 @@
       <item value="over Running" />
       <item value="run Over" />
       <item value="running Over" />
-      <item value="one Data Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
