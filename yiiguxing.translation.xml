@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Black Word On Action Bar" />
+      <item value="remove Status Shadow" />
+      <item value="m Semi Transparent Status Bar Color" />
       <item value="no Init Connection" />
       <item value="Local.is Already Connection" />
       <item value="Local.is Already Connection()" />
@@ -48,14 +51,11 @@
       <item value="EXTERNAL" />
       <item value="on Item Selected" />
       <item value="on Nothing Selected" />
-      <item value="get Drop Down View" />
-      <item value="unregister Data Set Observer" />
-      <item value="register Data Set Observer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
