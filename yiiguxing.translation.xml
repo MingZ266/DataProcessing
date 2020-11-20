@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="surplus Time" />
+      <item value="surplus" />
+      <item value="起始时间" />
+      <item value="time Consuming" />
       <item value="set Black Word On Action Bar" />
       <item value="remove Status Shadow" />
       <item value="m Semi Transparent Status Bar Color" />
@@ -47,15 +51,11 @@
       <item value="简单" />
       <item value="destroy Item" />
       <item value="instantiate Item" />
-      <item value="INSIDE" />
-      <item value="EXTERNAL" />
-      <item value="on Item Selected" />
-      <item value="on Nothing Selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
