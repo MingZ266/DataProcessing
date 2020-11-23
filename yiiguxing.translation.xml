@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Keccak Encrypt" />
       <item value="Assign your dependency to a configuration by selecting one of the configurations below." />
       <item value="Provide a path to the library file or directory to add." />
       <item value="Show in Project Structure dialog" />
@@ -50,12 +51,11 @@
       <item value="get Internal Cache" />
       <item value="Unknown bits set in runtime_flags: 0x8000" />
       <item value="Access denied finding property &quot;runtime.mmitest.isrunning&quot;" />
-      <item value="Attempt to invoke virtual method 'void androidx.appcompat.widget.Toolbar.setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
