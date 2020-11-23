@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Show in Project Structure dialog" />
+      <item value="Failed to resolve" />
+      <item value="Affected Modules" />
       <item value="Create an ActivityOptions to transition between Activities using cross-Activity scene animations. This method carries the position of multiple shared elements to the started Activity. The position of the first element in sharedElements will be used as the epicenter for the exit Transition. The position of the associated shared element in the launched Activity will be the epicenter of its entering Transition. This requires Window.FEATURE_ACTIVITY_TRANSITIONS to be enabled on the calling Activity to cause an exit transition. The same must be in the called Activity to get an entering transition." />
       <item value="use Qualified Module Names" />
       <item value="Returns milliseconds since boot, including time spent in sleep." />
@@ -48,14 +51,11 @@
       <item value="Attempt to invoke virtual method 'void androidx.appcompat.widget.Toolbar.setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)' on a null object reference" />
       <item value="dropdown" />
       <item value="Illegal type: 'void'" />
-      <item value="DIRECTORY PODCASTS" />
-      <item value="DIRECTORY RINGTONES" />
-      <item value="DIRECTORY MOVIES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
