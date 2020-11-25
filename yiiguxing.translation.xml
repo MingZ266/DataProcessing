@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cancel the dialog. This is essentially the same as calling dismiss(), but it will also call your DialogInterface.OnCancelListener (if registered)." />
+      <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
       <item value="overlap Anchor" />
       <item value="login End" />
       <item value="end Login" />
@@ -49,12 +51,10 @@
       <item value="is Success" />
       <item value="on Failure" />
       <item value="on Response" />
-      <item value="Response" />
-      <item value="Response Body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="386" />
+        <entry key="CHINESE" value="387" />
         <entry key="ENGLISH" value="387" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
