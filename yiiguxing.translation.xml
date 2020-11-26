@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Launch a new activity. You will not receive any information about when the activity exits. This implementation overrides the base version, providing information about the activity performing the launch. Because of this additional information, the Intent.FLAG_ACTIVITY_NEW_TASK launch flag is not required; if not specified, the new activity will be added to the task of the caller. This method throws android.content.ActivityNotFoundException if there was no Activity found to run the given Intent." />
+      <item value="Same as startActivities(Intent[], Bundle) with no options specified." />
+      <item value="manual Login" />
+      <item value="Exception 'java.util.MissingFormatArgumentException' has already been caught" />
+      <item value="if this enum type has no constant with the specified name" />
       <item value="Illegal Block Size Exception" />
       <item value="last block incomplete in decryption" />
       <item value="Cancel the dialog. This is essentially the same as calling dismiss(), but it will also call your DialogInterface.OnCancelListener (if registered)." />
@@ -46,16 +51,11 @@
       <item value="set Black Word On Action Bar" />
       <item value="remove Status Shadow" />
       <item value="m Semi Transparent Status Bar Color" />
-      <item value="no Init Connection" />
-      <item value="Local.is Already Connection" />
-      <item value="Local.is Already Connection()" />
-      <item value="is Already Connection" />
-      <item value="is Success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="390" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
