@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior. This flag can not be used when the caller is requesting a result from the activity being launched." />
+      <item value="FLAG ACTIVITY NEW TASK" />
+      <item value="MULTIPLE" />
+      <item value="MULTIPLE_" />
+      <item value="If set in an Intent passed to Context.startActivity(), this flag will cause any existing task that would be associated with the activity to be cleared before the activity is started. That is, the activity becomes the new root of an otherwise empty task, and any old activities are finished. This can only be used in conjunction with FLAG_ACTIVITY_NEW_TASK." />
+      <item value="This flag is used to create a new task and launch an activity into it. This flag is always paired with either FLAG_ACTIVITY_NEW_DOCUMENT or FLAG_ACTIVITY_NEW_TASK. In both cases these flags alone would search through existing tasks for ones matching this Intent. Only if no such task is found would a new task be created. When paired with FLAG_ACTIVITY_MULTIPLE_TASK both of these behaviors are modified to skip the search for a matching task and unconditionally start a new task. When used with FLAG_ACTIVITY_NEW_TASK do not use this flag unless you are implementing your own top-level application launcher. Used in conjunction with FLAG_ACTIVITY_NEW_TASK to disable the behavior of bringing an existing task to the foreground. When set, a new task is always started to host the Activity for the Intent, regardless of whether there is already an existing task running the same thing. Because the default system does not include graphical task management, you should not use this flag unless you provide some way for a user to return back to the tasks you have launched. See FLAG_ACTIVITY_NEW_DOCUMENT for details of this flag's use for creating new document tasks. This flag is ignored if one of FLAG_ACTIVITY_NEW_TASK or FLAG_ACTIVITY_NEW_DOCUMENT is not also set." />
+      <item value="FLAG ACTIVITY MULTIPLE TASK" />
+      <item value="FLAG ACTIVITY CLEAR TASK" />
       <item value="no Trying" />
       <item value="try Connection" />
       <item value="Launch a new activity. You will not receive any information about when the activity exits. This implementation overrides the base version, providing information about the activity performing the launch. Because of this additional information, the Intent.FLAG_ACTIVITY_NEW_TASK launch flag is not required; if not specified, the new activity will be added to the task of the caller. This method throws android.content.ActivityNotFoundException if there was no Activity found to run the given Intent." />
@@ -43,19 +51,11 @@
       <item value="period" />
       <item value="poll Time" />
       <item value="poll" />
-      <item value="get Request Result" />
-      <item value="method Name" />
-      <item value="OkHttp Dispatcher" />
-      <item value="surplus Time" />
-      <item value="surplus" />
-      <item value="起始时间" />
-      <item value="time Consuming" />
-      <item value="set Black Word On Action Bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="396" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
