@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ignore Case" />
+      <item value="Case" />
+      <item value="verification Input" />
+      <item value="correct Input" />
+      <item value="Creates a new random number generator using a single long seed. The seed is the initial value of the internal state of the pseudorandom number generator which is maintained by method next. The invocation new Random(seed) is equivalent to:" />
+      <item value="Creates a new random number generator. This constructor sets the seed of the random number generator to a value very likely to be distinct from any other invocation of this constructor" />
+      <item value="remove Chars" />
+      <item value="remove Small Letter" />
+      <item value="remove Capital Letter" />
       <item value="Image Captcha" />
       <item value="This can only be used in conjunction with FLAG_ACTIVITY_NEW_TASK." />
       <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior. This flag can not be used when the caller is requesting a result from the activity being launched." />
@@ -42,20 +51,11 @@
       <item value="Account NOT EXIST" />
       <item value="get Keccak Encrypt" />
       <item value="Assign your dependency to a configuration by selecting one of the configurations below." />
-      <item value="Provide a path to the library file or directory to add." />
-      <item value="Show in Project Structure dialog" />
-      <item value="Failed to resolve" />
-      <item value="Affected Modules" />
-      <item value="Create an ActivityOptions to transition between Activities using cross-Activity scene animations. This method carries the position of multiple shared elements to the started Activity. The position of the first element in sharedElements will be used as the epicenter for the exit Transition. The position of the associated shared element in the launched Activity will be the epicenter of its entering Transition. This requires Window.FEATURE_ACTIVITY_TRANSITIONS to be enabled on the calling Activity to cause an exit transition. The same must be in the called Activity to get an entering transition." />
-      <item value="use Qualified Module Names" />
-      <item value="Returns milliseconds since boot, including time spent in sleep." />
-      <item value="Fixed Value" />
-      <item value="period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
