@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="login Core" />
+      <item value="core Login" />
+      <item value="main Login" />
       <item value="reconnecting" />
       <item value="available Heartbeat" />
       <item value="available" />
@@ -48,14 +51,11 @@
       <item value="over Login" />
       <item value="set Login Status And Message" />
       <item value="logging In" />
-      <item value="do Thing If No Timeout" />
-      <item value="do Thing If Fail" />
-      <item value="do Thing If Success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="BENGALI" value="1" />
