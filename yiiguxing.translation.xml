@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the rectangle's height. This does not check for a valid rectangle (i.e. top &lt;= bottom) so the result may be negative." />
+      <item value="measure Text Offset" />
+      <item value="Set the paint's text alignment. This controls how the text is positioned relative to its origin. LEFT align means that all of the text will be drawn to the right of its origin (i.e. the origin specifieds the LEFT edge of the text) and so on." />
+      <item value="set Text Align" />
+      <item value="Helper for setFlags(), setting or clearing the ANTI_ALIAS_FLAG bit AntiAliasing smooths out the edges of what is being drawn, but is has no impact on the interior of the shape. See setDither() and setFilterBitmap() to affect how colors are treated." />
+      <item value="set Anti Alias" />
       <item value="set Now Serial Number" />
       <item value="invalidate" />
       <item value="request Layout" />
@@ -45,23 +51,17 @@
       <item value="Case" />
       <item value="verification Input" />
       <item value="correct Input" />
-      <item value="Creates a new random number generator using a single long seed. The seed is the initial value of the internal state of the pseudorandom number generator which is maintained by method next. The invocation new Random(seed) is equivalent to:" />
-      <item value="Creates a new random number generator. This constructor sets the seed of the random number generator to a value very likely to be distinct from any other invocation of this constructor" />
-      <item value="remove Chars" />
-      <item value="remove Small Letter" />
-      <item value="remove Capital Letter" />
-      <item value="Image Captcha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="440" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
