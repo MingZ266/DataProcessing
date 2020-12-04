@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Now Serial Number" />
+      <item value="invalidate" />
+      <item value="request Layout" />
+      <item value="Forces this view to be laid out during the next layout pass. This method does not call requestLayout() or forceLayout() on the parent." />
+      <item value="force Layout" />
       <item value="ompletions Amount" />
       <item value="completions Amount" />
       <item value="Completions Amount" />
@@ -46,16 +51,11 @@
       <item value="remove Small Letter" />
       <item value="remove Capital Letter" />
       <item value="Image Captcha" />
-      <item value="This can only be used in conjunction with FLAG_ACTIVITY_NEW_TASK." />
-      <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior. This flag can not be used when the caller is requesting a result from the activity being launched." />
-      <item value="FLAG ACTIVITY NEW TASK" />
-      <item value="MULTIPLE" />
-      <item value="MULTIPLE_" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="438" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
