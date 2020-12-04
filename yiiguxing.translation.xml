@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Draw the specified circle using the specified paint. If radius is &lt;= 0, then nothing will be drawn. The circle will be filled or framed based on the Style in the paint." />
+      <item value="serial Number" />
+      <item value="Assigns the specified Object reference to each element of the specified range of the specified array of Objects. The range to be filled extends from index fromIndex, inclusive, to index toIndex, exclusive. (If fromIndex==toIndex, the range to be filled is empty.)" />
       <item value="node Texts" />
       <item value="node Amount" />
       <item value="node Num" />
@@ -48,14 +51,11 @@
       <item value="Exception 'java.util.MissingFormatArgumentException' has already been caught" />
       <item value="if this enum type has no constant with the specified name" />
       <item value="Illegal Block Size Exception" />
-      <item value="last block incomplete in decryption" />
-      <item value="Cancel the dialog. This is essentially the same as calling dismiss(), but it will also call your DialogInterface.OnCancelListener (if registered)." />
-      <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="420" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
@@ -72,6 +72,7 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
