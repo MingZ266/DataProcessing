@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Problem decoding into existing bitmap" />
+      <item value="Synonym for decodeResource(Resources, int, BitmapFactory.Options) with null Options." />
+      <item value="Attempt to invoke virtual method 'boolean android.graphics.Bitmap.isRecycled()' on a null object reference" />
       <item value="the rectangle's height. This does not check for a valid rectangle (i.e. top &lt;= bottom) so the result may be negative." />
       <item value="measure Text Offset" />
       <item value="Set the paint's text alignment. This controls how the text is positioned relative to its origin. LEFT align means that all of the text will be drawn to the right of its origin (i.e. the origin specifieds the LEFT edge of the text) and so on." />
@@ -48,14 +51,11 @@
       <item value="elapsed nanoseconds since boot." />
       <item value="If set, and the activity being launched is already running in the current task, then instead of launching a new instance of that activity, all of the other activities on top of it will be closed and this Intent will be delivered to the (now on top) old activity as a new Intent. For example, consider a task consisting of the activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then C and D will be finished and B receive the given Intent, resulting in the stack now being: A, B. The currently running instance of activity B in the above example will either receive the new intent you are starting here in its onNewIntent() method, or be itself finished and restarted with the new intent. If it has declared its launch mode to be &quot;multiple&quot; (the default) and you have not set FLAG_ACTIVITY_SINGLE_TOP in the same intent, then it will be finished and re-created; for all other launch modes or if FLAG_ACTIVITY_SINGLE_TOP is set then this Intent will be delivered to the current instance's onNewIntent(). This launch mode can also be used to good effect in conjunction with FLAG_ACTIVITY_NEW_TASK: if used to start the root activity of a task, it will bring any currently running instance of that task to the foreground, and then clear it to its root state. This is especially useful, for example, when launching an activity from the notification manager." />
       <item value="ignore Case" />
-      <item value="Case" />
-      <item value="verification Input" />
-      <item value="correct Input" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
