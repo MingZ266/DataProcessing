@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts an unpacked complex data value holding a dimension to its final floating point value. The two parameters unit and value are as in TYPE_DIMENSION." />
+      <item value="Progress Bar" />
       <item value="Form Body" />
       <item value="require Non Null" />
       <item value="login Core" />
@@ -49,12 +51,10 @@
       <item value="login End" />
       <item value="end Login" />
       <item value="endlogin" />
-      <item value="logging Over" />
-      <item value="over Login" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
+        <entry key="CHINESE" value="415" />
         <entry key="ENGLISH" value="415" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
