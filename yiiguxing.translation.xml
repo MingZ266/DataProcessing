@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="node Texts" />
+      <item value="node Amount" />
+      <item value="node Num" />
+      <item value="结点" />
       <item value="Converts an unpacked complex data value holding a dimension to its final floating point value. The two parameters unit and value are as in TYPE_DIMENSION." />
       <item value="Progress Bar" />
       <item value="Form Body" />
@@ -47,17 +51,14 @@
       <item value="last block incomplete in decryption" />
       <item value="Cancel the dialog. This is essentially the same as calling dismiss(), but it will also call your DialogInterface.OnCancelListener (if registered)." />
       <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
-      <item value="overlap Anchor" />
-      <item value="login End" />
-      <item value="end Login" />
-      <item value="endlogin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
+        <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="INDONESIAN" value="2" />
