@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="text Success" />
+      <item value="text Verify Code" />
+      <item value="text Setting" />
+      <item value="text Verify" />
+      <item value="Verify" />
+      <item value="test And Verify" />
+      <item value="page Progress Bar" />
+      <item value="Pager" />
+      <item value="Pager Progress Bar" />
+      <item value="pager Progress Bar" />
+      <item value="Useless Leaf" />
       <item value="darker gray" />
       <item value="dialog input captcha" />
       <item value="text Email Address" />
@@ -40,22 +51,11 @@
       <item value="node Num" />
       <item value="结点" />
       <item value="Converts an unpacked complex data value holding a dimension to its final floating point value. The two parameters unit and value are as in TYPE_DIMENSION." />
-      <item value="Progress Bar" />
-      <item value="Form Body" />
-      <item value="require Non Null" />
-      <item value="login Core" />
-      <item value="core Login" />
-      <item value="main Login" />
-      <item value="reconnecting" />
-      <item value="available Heartbeat" />
-      <item value="available" />
-      <item value="fail" />
-      <item value="filed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
