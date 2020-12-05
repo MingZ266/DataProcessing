@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dialog input captcha" />
+      <item value="text Email Address" />
       <item value="safety verification" />
       <item value="fragment" />
       <item value="Problem decoding into existing bitmap" />
@@ -49,13 +51,11 @@
       <item value="fail" />
       <item value="filed" />
       <item value="heartbeat Connection" />
-      <item value="Returns nanoseconds since boot, including time spent in sleep." />
-      <item value="elapsed nanoseconds since boot." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="443" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
