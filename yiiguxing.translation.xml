@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify Right" />
       <item value="Count Down Timer" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set." />
@@ -50,12 +51,11 @@
       <item value="Amount" />
       <item value="set Completions Amount" />
       <item value="completions" />
-      <item value="line Height" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="462" />
+        <entry key="ENGLISH" value="463" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
