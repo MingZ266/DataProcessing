@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Schedules a commit of this transaction. The commit does not happen immediately; it will be scheduled as work on the main thread to be done the next time that thread is ready. A transaction can only be committed with this method prior to its containing activity saving its state. If the commit is attempted after that point, an exception will be thrown. This is because the state after the commit can be lost if the activity needs to be restored from its state. See commitAllowingStateLoss() for situations where it may be okay to lose the commit." />
+      <item value="Like commit but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
       <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
       <item value="attach To Root" />
       <item value="Called to have the fragment instantiate its user interface view. This is optional, and non-graphical fragments can return null. This will be called between onCreate(Bundle) and onActivityCreated(Bundle). A default View can be returned by calling Fragment(int) in your constructor. Otherwise, this method returns null. It is recommended to only inflate the layout in this method and move logic that operates on the returned View to onViewCreated(View, Bundle). If you return a View from here, you will later be called in onDestroyView when the view is being released." />
@@ -49,8 +51,6 @@
       <item value="bar Height" />
       <item value="all Width" />
       <item value="full Width" />
-      <item value="full Length" />
-      <item value="Draw the specified circle using the specified paint. If radius is &lt;= 0, then nothing will be drawn. The circle will be filled or framed based on the Style in the paint." />
     </histories>
     <option name="languageScores">
       <map>
