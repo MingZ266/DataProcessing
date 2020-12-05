@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="darker gray" />
       <item value="dialog input captcha" />
       <item value="text Email Address" />
       <item value="safety verification" />
@@ -50,12 +51,11 @@
       <item value="available" />
       <item value="fail" />
       <item value="filed" />
-      <item value="heartbeat Connection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
