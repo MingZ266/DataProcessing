@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set." />
       <item value="Sets whether this dialog is cancelable with the BACK key." />
       <item value="Schedules a commit of this transaction. The commit does not happen immediately; it will be scheduled as work on the main thread to be done the next time that thread is ready. A transaction can only be committed with this method prior to its containing activity saving its state. If the commit is attempted after that point, an exception will be thrown. This is because the state after the commit can be lost if the activity needs to be restored from its state. See commitAllowingStateLoss() for situations where it may be okay to lose the commit." />
@@ -50,12 +51,11 @@
       <item value="completions" />
       <item value="line Height" />
       <item value="bar" />
-      <item value="bar Height" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
