@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shared Preferences" />
       <item value="commit already called" />
       <item value="confirm New Password" />
       <item value="input New Password" />
@@ -50,12 +51,11 @@
       <item value="request Layout" />
       <item value="Forces this view to be laid out during the next layout pass. This method does not call requestLayout() or forceLayout() on the parent." />
       <item value="force Layout" />
-      <item value="ompletions Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
