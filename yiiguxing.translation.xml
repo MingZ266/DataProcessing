@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACCOUNT NO EXIST" />
       <item value="verify Right" />
       <item value="Count Down Timer" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
@@ -50,12 +51,11 @@
       <item value="Completions Amount" />
       <item value="Amount" />
       <item value="set Completions Amount" />
-      <item value="completions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="464" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
