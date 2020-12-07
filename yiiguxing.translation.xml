@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type No" />
+      <item value="type Count" />
+      <item value="effective" />
       <item value="/** * Calls this view's OnLongClickListener, if it is defined. Invokes the * context menu if the OnLongClickListener did not consume the event, * optionally anchoring it to an (x,y) coordinate. * * @param x x coordinate of the anchoring touch event, or {@link Float#NaN} * to disable anchoring * @param y y coordinate of the anchoring touch event, or {@link Float#NaN} * to disable anchoring * @return {@code true} if one of the above receivers consumed the event, * {@code false} otherwise */" />
       <item value="commit already called" />
       <item value="Do not place Android context classes in static fields (static reference to SafetyVerifyFragment which has field context pointing to Context); this is a memory leak" />
@@ -48,14 +51,11 @@
       <item value="Set the paint's text alignment. This controls how the text is positioned relative to its origin. LEFT align means that all of the text will be drawn to the right of its origin (i.e. the origin specifieds the LEFT edge of the text) and so on." />
       <item value="set Text Align" />
       <item value="Helper for setFlags(), setting or clearing the ANTI_ALIAS_FLAG bit AntiAliasing smooths out the edges of what is being drawn, but is has no impact on the interior of the shape. See setDither() and setFilterBitmap() to affect how colors are treated." />
-      <item value="set Anti Alias" />
-      <item value="set Now Serial Number" />
-      <item value="invalidate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="476" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
