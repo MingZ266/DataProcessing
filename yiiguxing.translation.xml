@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true if this task is scheduled for one-time execution and has not yet run, or this task is scheduled for repeated execution. Returns false if the task was scheduled for one-time execution and has already run, or if the task was never scheduled, or if the task was already cancelled. (Loosely speaking, this method returns true if it prevents one or more scheduled executions from taking place.)" />
       <item value="type No" />
       <item value="type Count" />
       <item value="effective" />
@@ -50,11 +51,10 @@
       <item value="measure Text Offset" />
       <item value="Set the paint's text alignment. This controls how the text is positioned relative to its origin. LEFT align means that all of the text will be drawn to the right of its origin (i.e. the origin specifieds the LEFT edge of the text) and so on." />
       <item value="set Text Align" />
-      <item value="Helper for setFlags(), setting or clearing the ANTI_ALIAS_FLAG bit AntiAliasing smooths out the edges of what is being drawn, but is has no impact on the interior of the shape. See setDither() and setFilterBitmap() to affect how colors are treated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="475" />
+        <entry key="CHINESE" value="476" />
         <entry key="ENGLISH" value="476" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
