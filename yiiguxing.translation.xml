@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to invoke virtual method 'void android.os.CountDownTimer.cancel()' on a null object reference" />
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Alter Success" />
       <item value="Alert" />
       <item value="Alert Success" />
@@ -49,13 +51,11 @@
       <item value="safety verification" />
       <item value="Problem decoding into existing bitmap" />
       <item value="Synonym for decodeResource(Resources, int, BitmapFactory.Options) with null Options." />
-      <item value="Attempt to invoke virtual method 'boolean android.graphics.Bitmap.isRecycled()' on a null object reference" />
-      <item value="the rectangle's height. This does not check for a valid rectangle (i.e. top &lt;= bottom) so the result may be negative." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
