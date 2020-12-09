@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Class referenced in the layout file, androidx.cardview.widget.CardView, was not found in the project or the libraries" />
+      <item value="selector another button" />
       <item value="use Qualified Module Names" />
       <item value="All files changed during 'Apply Patch' action were rolled back" />
       <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
@@ -49,12 +51,10 @@
       <item value="Verify" />
       <item value="test And Verify" />
       <item value="page Progress Bar" />
-      <item value="Pager" />
-      <item value="Pager Progress Bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
+        <entry key="CHINESE" value="487" />
         <entry key="ENGLISH" value="487" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
