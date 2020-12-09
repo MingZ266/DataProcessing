@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alert Dialog" />
+      <item value="on Alert Dialog" />
+      <item value="on Ok Button" />
+      <item value="Control Dialog" />
+      <item value="Dialog Operate" />
+      <item value="show Dialog Only Ok Button" />
+      <item value="WARNING" />
+      <item value="on Ok" />
+      <item value="Sure" />
+      <item value="on Cancel" />
+      <item value="on Sure" />
       <item value="dialog only one button" />
       <item value="dialog with two buttons" />
       <item value="dialog with two button" />
@@ -40,22 +51,11 @@
       <item value="Count Down Timer" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set." />
-      <item value="Sets whether this dialog is cancelable with the BACK key." />
-      <item value="Schedules a commit of this transaction. The commit does not happen immediately; it will be scheduled as work on the main thread to be done the next time that thread is ready. A transaction can only be committed with this method prior to its containing activity saving its state. If the commit is attempted after that point, an exception will be thrown. This is because the state after the commit can be lost if the activity needs to be restored from its state. See commitAllowingStateLoss() for situations where it may be okay to lose the commit." />
-      <item value="Like commit but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
-      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
-      <item value="attach To Root" />
-      <item value="Called to have the fragment instantiate its user interface view. This is optional, and non-graphical fragments can return null. This will be called between onCreate(Bundle) and onActivityCreated(Bundle). A default View can be returned by calling Fragment(int) in your constructor. Otherwise, this method returns null. It is recommended to only inflate the layout in this method and move logic that operates on the returned View to onViewCreated(View, Bundle). If you return a View from here, you will later be called in onDestroyView when the view is being released." />
-      <item value="Called immediately after onCreateView(LayoutInflater, ViewGroup, Bundle) has returned, but before any saved state has been restored in to the view. This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point." />
-      <item value="fragment safety verify" />
-      <item value="fragment" />
-      <item value="Transaction" />
-      <item value="Fragment Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
