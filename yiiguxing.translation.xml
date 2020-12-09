@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="center Vertical" />
+      <item value="head Portrait" />
       <item value="network" />
       <item value="division Head" />
       <item value="Class referenced in the layout file, androidx.cardview.widget.CardView, was not found in the project or the libraries" />
@@ -49,13 +51,11 @@
       <item value="text Success" />
       <item value="text Verify Code" />
       <item value="text Setting" />
-      <item value="text Verify" />
-      <item value="Verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
