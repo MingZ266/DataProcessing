@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
       <item value="on Start Command" />
       <item value="set Content Title" />
       <item value="importance Reason Component" />
@@ -50,11 +51,10 @@
       <item value="Pager Progress Bar" />
       <item value="pager Progress Bar" />
       <item value="Useless Leaf" />
-      <item value="darker gray" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
+        <entry key="CHINESE" value="486" />
         <entry key="ENGLISH" value="486" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
