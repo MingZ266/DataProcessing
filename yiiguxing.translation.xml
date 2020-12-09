@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dialog only one button" />
+      <item value="dialog with two buttons" />
+      <item value="dialog with two button" />
       <item value="center Vertical" />
       <item value="head Portrait" />
       <item value="network" />
@@ -48,13 +51,10 @@
       <item value="fragment" />
       <item value="Transaction" />
       <item value="Fragment Transaction" />
-      <item value="text Success" />
-      <item value="text Verify Code" />
-      <item value="text Setting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
+        <entry key="CHINESE" value="491" />
         <entry key="ENGLISH" value="491" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
