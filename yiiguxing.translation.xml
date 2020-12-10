@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called getWidth() on a recycle()'d bitmap! This is undefined behavior!" />
       <item value="Failed to find configured root that contains /data/20201210_23_40_22.jpg" />
       <item value="Missing android.support.FILE_PROVIDER_PATHS meta-data" />
       <item value="The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
@@ -50,12 +51,11 @@
       <item value="true if this task is scheduled for one-time execution and has not yet run, or this task is scheduled for repeated execution. Returns false if the task was scheduled for one-time execution and has already run, or if the task was never scheduled, or if the task was already cancelled. (Loosely speaking, this method returns true if it prevents one or more scheduled executions from taking place.)" />
       <item value="type No" />
       <item value="type Count" />
-      <item value="effective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
