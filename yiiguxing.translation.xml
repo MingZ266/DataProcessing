@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Missing android.support.FILE_PROVIDER_PATHS meta-data" />
+      <item value="The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
+      <item value="Installation did not succeed." />
+      <item value="WRITE_EXTERNAL_STORAGE no longer provides write access when targeting Android 10, unless you use requestLegacyExternalStorage" />
+      <item value="Couldn't find meta-data for provider with authority com.tai.api19test.fileProvider" />
+      <item value="handleInit switch not opened pid=15662" />
       <item value="Cannot parse build output metadata file, please run a clean build" />
       <item value="Expected a string but was BOOLEAN at line 16 column 22 path $.elements[0].enabled" />
       <item value="Operation succeeded" />
@@ -45,17 +51,11 @@
       <item value="type Count" />
       <item value="effective" />
       <item value="/** * Calls this view's OnLongClickListener, if it is defined. Invokes the * context menu if the OnLongClickListener did not consume the event, * optionally anchoring it to an (x,y) coordinate. * * @param x x coordinate of the anchoring touch event, or {@link Float#NaN} * to disable anchoring * @param y y coordinate of the anchoring touch event, or {@link Float#NaN} * to disable anchoring * @return {@code true} if one of the above receivers consumed the event, * {@code false} otherwise */" />
-      <item value="commit already called" />
-      <item value="Do not place Android context classes in static fields (static reference to SafetyVerifyFragment which has field context pointing to Context); this is a memory leak" />
-      <item value="External" />
-      <item value="Shared Preferences" />
-      <item value="confirm New Password" />
-      <item value="input New Password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="512" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
