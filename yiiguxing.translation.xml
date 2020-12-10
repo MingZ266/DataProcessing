@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot parse build output metadata file, please run a clean build" />
+      <item value="Expected a string but was BOOLEAN at line 16 column 22 path $.elements[0].enabled" />
+      <item value="Operation succeeded" />
       <item value="center Crop" />
       <item value="Crop" />
       <item value="Inside" />
@@ -48,13 +51,10 @@
       <item value="Shared Preferences" />
       <item value="confirm New Password" />
       <item value="input New Password" />
-      <item value="confirm" />
-      <item value="ACCOUNT NO EXIST" />
-      <item value="verify Right" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
+        <entry key="CHINESE" value="507" />
         <entry key="ENGLISH" value="507" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
