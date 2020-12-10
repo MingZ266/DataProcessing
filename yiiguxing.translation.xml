@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to find configured root that contains /data/20201210_23_40_22.jpg" />
       <item value="Missing android.support.FILE_PROVIDER_PATHS meta-data" />
       <item value="The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
       <item value="Installation did not succeed." />
@@ -50,12 +51,11 @@
       <item value="type No" />
       <item value="type Count" />
       <item value="effective" />
-      <item value="/** * Calls this view's OnLongClickListener, if it is defined. Invokes the * context menu if the OnLongClickListener did not consume the event, * optionally anchoring it to an (x,y) coordinate. * * @param x x coordinate of the anchoring touch event, or {@link Float#NaN} * to disable anchoring * @param y y coordinate of the anchoring touch event, or {@link Float#NaN} * to disable anchoring * @return {@code true} if one of the above receivers consumed the event, * {@code false} otherwise */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
