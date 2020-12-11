@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crop Frame Rect F" />
       <item value="Clickable View Accessibility" />
       <item value="perform" />
       <item value="performClick" />
@@ -50,12 +51,11 @@
       <item value="on Cancel" />
       <item value="on Sure" />
       <item value="dialog only one button" />
-      <item value="dialog with two buttons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="531" />
+        <entry key="ENGLISH" value="532" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
