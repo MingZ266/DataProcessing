@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Crop Pic Bitmap" />
+      <item value="Crop Picture View" />
+      <item value="Crop" />
+      <item value="get Crop Bitmap" />
+      <item value="Corp" />
       <item value="crop Frame Rect F" />
       <item value="Clickable View Accessibility" />
       <item value="perform" />
@@ -23,7 +28,6 @@
       <item value="// This should generate the hash code by performing some arithmetic operation on all // the matrix elements -- our equals() does an element-by-element comparison, and we // need to ensure that the hash code for two equal objects is the same. We're not // really using this at the moment, so we take the easy way out." />
       <item value="use with getValues/setValues" />
       <item value="The Matrix class holds a 3x3 matrix for transforming coordinates." />
-      <item value="Crop Picture View" />
       <item value="Crop Picture" />
       <item value="Called getWidth() on a recycle()'d bitmap! This is undefined behavior!" />
       <item value="Failed to find configured root that contains /data/20201210_23_40_22.jpg" />
@@ -37,7 +41,6 @@
       <item value="Expected a string but was BOOLEAN at line 16 column 22 path $.elements[0].enabled" />
       <item value="Operation succeeded" />
       <item value="center Crop" />
-      <item value="Crop" />
       <item value="Inside" />
       <item value="Alert Dialog" />
       <item value="on Alert Dialog" />
@@ -48,14 +51,11 @@
       <item value="WARNING" />
       <item value="on Ok" />
       <item value="Sure" />
-      <item value="on Cancel" />
-      <item value="on Sure" />
-      <item value="dialog only one button" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="531" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
