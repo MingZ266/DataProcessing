@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Switch label 'MotionEvent.ACTION_POINTER_2_DOWN' is unreachable" />
+      <item value="MASK:" />
+      <item value="Use ACTION_POINTER_INDEX_MASK to retrieve the data index associated with ACTION_POINTER_DOWN." />
       <item value="POINTER" />
       <item value="ACTION POINTER UP" />
       <item value="get Draw Filter" />
@@ -48,14 +51,11 @@
       <item value="Operation succeeded" />
       <item value="center Crop" />
       <item value="Inside" />
-      <item value="Alert Dialog" />
-      <item value="on Alert Dialog" />
-      <item value="on Ok Button" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="543" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
