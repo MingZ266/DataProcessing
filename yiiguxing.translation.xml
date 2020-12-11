@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve Uri" />
       <item value="is Mutable" />
       <item value="only mutable bitmaps may be reconfigured" />
       <item value="to Custom View" />
@@ -50,14 +51,14 @@
       <item value="use Qualified Module Names" />
       <item value="All files changed during 'Apply Patch' action were rolled back" />
       <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
-      <item value="on Start Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
+        <entry key="CHINESE" value="523" />
         <entry key="ENGLISH" value="523" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
