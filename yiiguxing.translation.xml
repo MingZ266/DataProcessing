@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Mutable" />
+      <item value="only mutable bitmaps may be reconfigured" />
+      <item value="to Custom View" />
+      <item value="wide Pic" />
+      <item value="image Higher" />
+      <item value="image Wider" />
       <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
       <item value="// This should generate the hash code by performing some arithmetic operation on all // the matrix elements -- our equals() does an element-by-element comparison, and we // need to ensure that the hash code for two equal objects is the same. We're not // really using this at the moment, so we take the easy way out." />
       <item value="use with getValues/setValues" />
@@ -45,17 +51,11 @@
       <item value="All files changed during 'Apply Patch' action were rolled back" />
       <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
       <item value="on Start Command" />
-      <item value="set Content Title" />
-      <item value="importance Reason Component" />
-      <item value="Not yet implemented" />
-      <item value="Return the communication channel to the service." />
-      <item value="Attempt to invoke virtual method 'void android.os.CountDownTimer.cancel()' on a null object reference" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="MALAYALAM" value="1" />
