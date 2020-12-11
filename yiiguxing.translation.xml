@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="perform" />
+      <item value="performClick" />
+      <item value="Custom view CropPictureView overrides onTouchEvent but not performClick" />
       <item value="reset Draw Tools" />
       <item value="draw Pic Height" />
       <item value="draw Pic Width" />
@@ -48,13 +51,10 @@
       <item value="dialog only one button" />
       <item value="dialog with two buttons" />
       <item value="dialog with two button" />
-      <item value="center Vertical" />
-      <item value="head Portrait" />
-      <item value="network" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="529" />
+        <entry key="CHINESE" value="530" />
         <entry key="ENGLISH" value="530" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
