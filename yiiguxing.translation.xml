@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last Two Point Distance" />
+      <item value="get Two Point Distance" />
+      <item value="get Two Finger Point Distance" />
       <item value="reset" />
       <item value="Finger Point" />
       <item value="dash Path Effect" />
@@ -48,14 +51,11 @@
       <item value="The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
       <item value="Installation did not succeed." />
       <item value="WRITE_EXTERNAL_STORAGE no longer provides write access when targeting Android 10, unless you use requestLegacyExternalStorage" />
-      <item value="Couldn't find meta-data for provider with authority com.tai.api19test.fileProvider" />
-      <item value="handleInit switch not opened pid=15662" />
-      <item value="Cannot parse build output metadata file, please run a clean build" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
