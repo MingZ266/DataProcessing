@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offset" />
+      <item value="read From Parcel" />
+      <item value="convert" />
+      <item value="two Finger Mid X" />
       <item value="last Two Point Distance" />
       <item value="get Two Point Distance" />
       <item value="get Two Finger Point Distance" />
@@ -47,15 +51,11 @@
       <item value="Crop Picture" />
       <item value="Called getWidth() on a recycle()'d bitmap! This is undefined behavior!" />
       <item value="Failed to find configured root that contains /data/20201210_23_40_22.jpg" />
-      <item value="Missing android.support.FILE_PROVIDER_PATHS meta-data" />
-      <item value="The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
-      <item value="Installation did not succeed." />
-      <item value="WRITE_EXTERNAL_STORAGE no longer provides write access when targeting Android 10, unless you use requestLegacyExternalStorage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="549" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="CHINESE" value="553" />
+        <entry key="ENGLISH" value="554" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
