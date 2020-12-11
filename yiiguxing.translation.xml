@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw Pic Height" />
+      <item value="draw Pic Width" />
+      <item value="draw Pic Weight" />
       <item value="get Dimension Pixel Size" />
       <item value="Crop Frame" />
       <item value="resolve Uri" />
@@ -48,14 +51,11 @@
       <item value="head Portrait" />
       <item value="network" />
       <item value="division Head" />
-      <item value="Class referenced in the layout file, androidx.cardview.widget.CardView, was not found in the project or the libraries" />
-      <item value="selector another button" />
-      <item value="use Qualified Module Names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="525" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
