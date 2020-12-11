@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finger Point" />
       <item value="dash Path Effect" />
       <item value="redraw Pic" />
       <item value="Switch label 'MotionEvent.ACTION_POINTER_2_DOWN' is unreachable" />
@@ -50,12 +51,11 @@
       <item value="handleInit switch not opened pid=15662" />
       <item value="Cannot parse build output metadata file, please run a clean build" />
       <item value="Expected a string but was BOOLEAN at line 16 column 22 path $.elements[0].enabled" />
-      <item value="Operation succeeded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="546" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
