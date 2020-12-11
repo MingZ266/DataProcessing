@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reset Draw Tools" />
       <item value="draw Pic Height" />
       <item value="draw Pic Width" />
       <item value="draw Pic Weight" />
@@ -50,12 +51,11 @@
       <item value="center Vertical" />
       <item value="head Portrait" />
       <item value="network" />
-      <item value="division Head" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="529" />
+        <entry key="ENGLISH" value="530" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
