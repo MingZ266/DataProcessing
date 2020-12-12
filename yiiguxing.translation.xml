@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Focus" />
+      <item value="last Two Point Distance" />
+      <item value="set Zoom Mid Point" />
+      <item value="frame Moving" />
+      <item value="double Finger Moving" />
       <item value="set Transition Alpha" />
       <item value="Duplicate resources" />
       <item value="request" />
@@ -20,7 +25,6 @@
       <item value="read From Parcel" />
       <item value="convert" />
       <item value="two Finger Mid X" />
-      <item value="last Two Point Distance" />
       <item value="get Two Point Distance" />
       <item value="get Two Finger Point Distance" />
       <item value="reset" />
@@ -47,15 +51,11 @@
       <item value="performClick" />
       <item value="Custom view CropPictureView overrides onTouchEvent but not performClick" />
       <item value="reset Draw Tools" />
-      <item value="draw Pic Height" />
-      <item value="draw Pic Width" />
-      <item value="draw Pic Weight" />
-      <item value="get Dimension Pixel Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="574" />
+        <entry key="ENGLISH" value="575" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
