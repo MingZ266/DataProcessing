@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="turn Do" />
+      <item value="turn" />
+      <item value="alternate Execution" />
       <item value="request Focus" />
       <item value="last Two Point Distance" />
       <item value="set Zoom Mid Point" />
@@ -48,14 +51,11 @@
       <item value="crop Frame Rect F" />
       <item value="Clickable View Accessibility" />
       <item value="perform" />
-      <item value="performClick" />
-      <item value="Custom view CropPictureView overrides onTouchEvent but not performClick" />
-      <item value="reset Draw Tools" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="578" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
