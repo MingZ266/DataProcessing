@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDENTITY MATRIX" />
+      <item value="Matrix can not be modified" />
       <item value="Create drawable from a bitmap, setting initial target density based on * the display metrics of the resources. */" />
       <item value="extract Alpha" />
       <item value="Static member 'android.graphics.Bitmap.createBitmap(int, int, android.graphics.Bitmap.Config)' accessed via instance reference" />
@@ -49,13 +51,11 @@
       <item value="wide Pic" />
       <item value="image Higher" />
       <item value="image Wider" />
-      <item value="Measure specification mode: The child can be as large as it wants up to the specified size." />
-      <item value="// This should generate the hash code by performing some arithmetic operation on all // the matrix elements -- our equals() does an element-by-element comparison, and we // need to ensure that the hash code for two equal objects is the same. We're not // really using this at the moment, so we take the easy way out." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
