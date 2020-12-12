@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request" />
       <item value="success Alter" />
       <item value="over" />
       <item value="Alter" />
@@ -50,12 +51,11 @@
       <item value="get Dimension Pixel Size" />
       <item value="Crop Frame" />
       <item value="resolve Uri" />
-      <item value="is Mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="568" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
