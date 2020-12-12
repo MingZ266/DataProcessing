@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate resources" />
       <item value="request" />
       <item value="success Alter" />
       <item value="over" />
@@ -50,12 +51,11 @@
       <item value="draw Pic Weight" />
       <item value="get Dimension Pixel Size" />
       <item value="Crop Frame" />
-      <item value="resolve Uri" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="569" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
