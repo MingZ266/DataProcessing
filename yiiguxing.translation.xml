@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="success Alter" />
+      <item value="over" />
+      <item value="Alter" />
+      <item value="over Alter" />
       <item value="ic successful" />
       <item value="IDENTITY MATRIX" />
       <item value="Matrix can not be modified" />
@@ -47,17 +51,13 @@
       <item value="Crop Frame" />
       <item value="resolve Uri" />
       <item value="is Mutable" />
-      <item value="only mutable bitmaps may be reconfigured" />
-      <item value="to Custom View" />
-      <item value="wide Pic" />
-      <item value="image Higher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="4" />
+        <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
