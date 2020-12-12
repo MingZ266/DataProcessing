@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ic successful" />
       <item value="IDENTITY MATRIX" />
       <item value="Matrix can not be modified" />
       <item value="Create drawable from a bitmap, setting initial target density based on * the display metrics of the resources. */" />
@@ -50,12 +51,11 @@
       <item value="to Custom View" />
       <item value="wide Pic" />
       <item value="image Higher" />
-      <item value="image Wider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="562" />
+        <entry key="ENGLISH" value="563" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="ROMANIAN" value="1" />
