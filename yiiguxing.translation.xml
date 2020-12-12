@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Nine Patch Chunk" />
       <item value="turn Do" />
       <item value="turn" />
       <item value="alternate Execution" />
@@ -50,12 +51,11 @@
       <item value="Corp" />
       <item value="crop Frame Rect F" />
       <item value="Clickable View Accessibility" />
-      <item value="perform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="578" />
+        <entry key="ENGLISH" value="579" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
