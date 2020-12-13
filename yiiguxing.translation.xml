@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Head Portrait Cut" />
+      <item value="Forces this view to be laid out during the next layout pass. This method does not call requestLayout() or forceLayout() on the parent." />
+      <item value="re Draw" />
       <item value="Canvas" />
       <item value="Avoid object allocations during draw/layout operations (preallocate and reuse instead)" />
       <item value="cannot access an invalid/free'd bitmap here!" />
@@ -48,14 +51,11 @@
       <item value="Avoid object allocations during draw operations: Use Canvas.getClipBounds(Rect) instead of Canvas.getClipBounds() which allocates a temporary Rect" />
       <item value="clip Rect" />
       <item value="get Crop Pic Bitmap" />
-      <item value="Crop Picture View" />
-      <item value="Crop" />
-      <item value="get Crop Bitmap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
