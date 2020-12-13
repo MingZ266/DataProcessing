@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Canvas" />
+      <item value="Avoid object allocations during draw/layout operations (preallocate and reuse instead)" />
       <item value="cannot access an invalid/free'd bitmap here!" />
       <item value="get Nine Patch Chunk" />
       <item value="turn Do" />
@@ -49,13 +51,11 @@
       <item value="Crop Picture View" />
       <item value="Crop" />
       <item value="get Crop Bitmap" />
-      <item value="Corp" />
-      <item value="crop Frame Rect F" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="580" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
