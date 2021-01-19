@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="close Pop Ups" />
+      <item value="close Window" />
+      <item value="close Pops" />
       <item value="reset Get Code View" />
       <item value="on Timeout" />
       <item value="on Time Out" />
@@ -48,14 +51,11 @@
       <item value="ic successful" />
       <item value="IDENTITY MATRIX" />
       <item value="Matrix can not be modified" />
-      <item value="Create drawable from a bitmap, setting initial target density based on * the display metrics of the resources. */" />
-      <item value="extract Alpha" />
-      <item value="Static member 'android.graphics.Bitmap.createBitmap(int, int, android.graphics.Bitmap.Config)' accessed via instance reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="604" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="607" />
+        <entry key="ENGLISH" value="608" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
