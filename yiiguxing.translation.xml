@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual Login" />
       <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting" />
       <item value="request Mail Code" />
       <item value="cancel" />
@@ -50,12 +51,11 @@
       <item value="offset" />
       <item value="read From Parcel" />
       <item value="convert" />
-      <item value="two Finger Mid X" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="ENGLISH" value="599" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
