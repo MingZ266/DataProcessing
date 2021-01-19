@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// NOTE: Do not place your application dependencies here; they belong // in the individual module build.gradle files" />
       <item value="close Pop Ups" />
       <item value="close Window" />
       <item value="close Pops" />
@@ -50,12 +51,11 @@
       <item value="over Alter" />
       <item value="ic successful" />
       <item value="IDENTITY MATRIX" />
-      <item value="Matrix can not be modified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="607" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
