@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="End Of Request On Ui Thread" />
+      <item value="End Of Request On UI Thread" />
       <item value="Exception" />
       <item value="on Exception" />
       <item value="Cipher Text" />
@@ -49,13 +51,11 @@
       <item value="get Two Point Distance" />
       <item value="get Two Finger Point Distance" />
       <item value="reset" />
-      <item value="Finger Point" />
-      <item value="dash Path Effect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="595" />
+        <entry key="ENGLISH" value="596" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
