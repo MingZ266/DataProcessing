@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Mail Code" />
       <item value="cancel" />
       <item value="End Of Request On Ui Thread" />
       <item value="End Of Request On UI Thread" />
@@ -50,12 +51,11 @@
       <item value="convert" />
       <item value="two Finger Mid X" />
       <item value="get Two Point Distance" />
-      <item value="get Two Finger Point Distance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="596" />
-        <entry key="ENGLISH" value="597" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
