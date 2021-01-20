@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legacy Type" />
+      <item value="Network Capabilities" />
       <item value="link Properties" />
       <item value="network Capabilities" />
       <item value="max Ms To Live" />
@@ -49,13 +51,11 @@
       <item value="Ciphertext" />
       <item value="End The Request" />
       <item value="End Of Request" />
-      <item value="End Request" />
-      <item value="Request Over" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="638" />
-        <entry key="ENGLISH" value="639" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="641" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
