@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual Login Core" />
       <item value="Cipher.getInstance should not be called without setting the encryption mode and padding" />
       <item value="Get Instance" />
       <item value="no Ignore Interface" />
@@ -50,12 +51,11 @@
       <item value="turn Do" />
       <item value="turn" />
       <item value="alternate Execution" />
-      <item value="request Focus" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="624" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="ENGLISH" value="625" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
