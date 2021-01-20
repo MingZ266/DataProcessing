@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cipher.getInstance should not be called without setting the encryption mode and padding" />
+      <item value="Get Instance" />
+      <item value="no Ignore Interface" />
+      <item value="not Ignore Interface" />
+      <item value="ignore Interface" />
+      <item value="ignore Interface On Init Connection" />
+      <item value="Response" />
+      <item value="Interface Response" />
+      <item value="stop Interface Response On Init Connection" />
+      <item value="stop Auto Skip On Init Connection" />
       <item value="init Connection Success" />
       <item value="Tools" />
       <item value="first Fail" />
@@ -41,21 +51,11 @@
       <item value="turn" />
       <item value="alternate Execution" />
       <item value="request Focus" />
-      <item value="last Two Point Distance" />
-      <item value="set Zoom Mid Point" />
-      <item value="frame Moving" />
-      <item value="double Finger Moving" />
-      <item value="set Transition Alpha" />
-      <item value="Duplicate resources" />
-      <item value="request" />
-      <item value="success Alter" />
-      <item value="over" />
-      <item value="Alter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="624" />
+        <entry key="ENGLISH" value="624" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
