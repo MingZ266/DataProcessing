@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="link Properties" />
+      <item value="network Capabilities" />
+      <item value="max Ms To Live" />
+      <item value="describe Contents" />
+      <item value="Link Properties Changed" />
+      <item value="Capabilities Changed" />
+      <item value="Blocked Status Changed" />
+      <item value="on Blocked Status Changed" />
+      <item value="on Unavailable" />
+      <item value="on Losing" />
       <item value="add Capability" />
       <item value="is Connected" />
       <item value="ACCESS NETWORK STATE" />
@@ -41,21 +51,11 @@
       <item value="End Of Request" />
       <item value="End Request" />
       <item value="Request Over" />
-      <item value="Login Request Over" />
-      <item value="Login Over" />
-      <item value="revert Local Public Key" />
-      <item value="Head Portrait Cut" />
-      <item value="Forces this view to be laid out during the next layout pass. This method does not call requestLayout() or forceLayout() on the parent." />
-      <item value="re Draw" />
-      <item value="Canvas" />
-      <item value="Avoid object allocations during draw/layout operations (preallocate and reuse instead)" />
-      <item value="cannot access an invalid/free'd bitmap here!" />
-      <item value="get Nine Patch Chunk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="638" />
+        <entry key="ENGLISH" value="639" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
