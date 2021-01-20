@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="object not locked by thread before wait()" />
+      <item value="Synchronization on a non-final field 'initConnection Thread'" />
+      <item value="Synchronization on a non-final field 'initConnectionThread'" />
       <item value="on Wait" />
       <item value="awake" />
       <item value="legacy Type" />
@@ -48,14 +51,11 @@
       <item value="End Of Request On Ui Thread" />
       <item value="End Of Request On UI Thread" />
       <item value="Exception" />
-      <item value="on Exception" />
-      <item value="Cipher Text" />
-      <item value="Ciphertext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="642" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
