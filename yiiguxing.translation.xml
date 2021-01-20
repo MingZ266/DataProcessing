@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Connection Success" />
+      <item value="Tools" />
       <item value="first Fail" />
       <item value="// NOTE: Do not place your application dependencies here; they belong // in the individual module build.gradle files" />
       <item value="close Pop Ups" />
@@ -49,13 +51,11 @@
       <item value="success Alter" />
       <item value="over" />
       <item value="Alter" />
-      <item value="over Alter" />
-      <item value="ic successful" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
