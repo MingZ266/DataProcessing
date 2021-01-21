@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rsa Update Time" />
       <item value="show Popups" />
       <item value="show Popus" />
       <item value="object not locked by thread before wait()" />
@@ -50,12 +51,11 @@
       <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting" />
       <item value="request Mail Code" />
       <item value="cancel" />
-      <item value="End Of Request On Ui Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
