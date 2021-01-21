@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Popups" />
+      <item value="show Popus" />
       <item value="object not locked by thread before wait()" />
       <item value="Synchronization on a non-final field 'initConnection Thread'" />
       <item value="Synchronization on a non-final field 'initConnectionThread'" />
@@ -49,13 +51,11 @@
       <item value="request Mail Code" />
       <item value="cancel" />
       <item value="End Of Request On Ui Thread" />
-      <item value="End Of Request On UI Thread" />
-      <item value="Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
