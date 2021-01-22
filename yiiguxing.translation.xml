@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Operation succeeded" />
+      <item value="No outputs for the main artifact of variant: debug" />
+      <item value="Calling Canvas.getWidth() is usually wrong; you should be calling getWidth() instead" />
+      <item value="INTERSECT" />
       <item value="all Rect" />
       <item value="clip Rect" />
       <item value="widthMeasureSpec' should probably not be passed as parameter 'heightMeasureSpec'" />
@@ -47,15 +51,11 @@
       <item value="close Pop Ups" />
       <item value="close Window" />
       <item value="close Pops" />
-      <item value="reset Get Code View" />
-      <item value="on Timeout" />
-      <item value="on Time Out" />
-      <item value="Time Out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="654" />
+        <entry key="ENGLISH" value="654" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
