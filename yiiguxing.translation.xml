@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decode QR Code Bitmap" />
+      <item value="Planar YUV Luminance Source" />
+      <item value="Inverted Luminance Source" />
+      <item value="Luminance Source" />
       <item value="preview" />
       <item value="Resume" />
       <item value="Mock" />
@@ -47,15 +51,11 @@
       <item value="Cipher.getInstance should not be called without setting the encryption mode and padding" />
       <item value="Get Instance" />
       <item value="no Ignore Interface" />
-      <item value="not Ignore Interface" />
-      <item value="ignore Interface" />
-      <item value="ignore Interface On Init Connection" />
-      <item value="Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
