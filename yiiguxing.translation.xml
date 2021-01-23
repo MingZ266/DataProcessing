@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transparent Percentage" />
+      <item value="transparent" />
       <item value="TRANSPARENT" />
       <item value="porter Duff Xfermode" />
       <item value="Operation succeeded" />
@@ -49,13 +51,11 @@
       <item value="init Connection Success" />
       <item value="Tools" />
       <item value="first Fail" />
-      <item value="// NOTE: Do not place your application dependencies here; they belong // in the individual module build.gradle files" />
-      <item value="close Pop Ups" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
@@ -66,13 +66,15 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1611401416526" />
+  </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="ignoreRegExp" value="" />
     <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
