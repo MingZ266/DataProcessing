@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Disconnected" />
+      <item value="LENS FACING BACK" />
       <item value="Global Histogram Binarizer" />
       <item value="decode QR Code Bitmap" />
       <item value="Planar YUV Luminance Source" />
@@ -49,13 +51,11 @@
       <item value="is Connected" />
       <item value="ACCESS NETWORK STATE" />
       <item value="manual Login Core" />
-      <item value="Cipher.getInstance should not be called without setting the encryption mode and padding" />
-      <item value="Get Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="668" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
