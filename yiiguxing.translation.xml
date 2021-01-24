@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Capture Request" />
+      <item value="set Requested Orientation" />
       <item value="on Disconnected" />
       <item value="LENS FACING BACK" />
       <item value="Global Histogram Binarizer" />
@@ -49,13 +51,11 @@
       <item value="on Losing" />
       <item value="add Capability" />
       <item value="is Connected" />
-      <item value="ACCESS NETWORK STATE" />
-      <item value="manual Login Core" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
