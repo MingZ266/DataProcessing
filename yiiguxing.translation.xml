@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="preview" />
       <item value="LENS FACING FRONT" />
       <item value="Luminance Source" />
       <item value="Global Histogram Binarizer" />
@@ -39,7 +40,6 @@
       <item value="decode QR Code Bitmap" />
       <item value="Planar YUV Luminance Source" />
       <item value="Inverted Luminance Source" />
-      <item value="preview" />
       <item value="Resume" />
       <item value="Mock" />
       <item value="Scan Sign In" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
@@ -80,6 +80,7 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
