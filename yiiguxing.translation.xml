@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="decode Scan Image" />
+      <item value="decode Scan Picture" />
       <item value="Decode QR Code Observer" />
       <item value="Total Capture Result" />
       <item value="get Partial Results" />
@@ -53,13 +55,11 @@
       <item value="Sing In" />
       <item value="transparent Percentage" />
       <item value="transparent" />
-      <item value="TRANSPARENT" />
-      <item value="porter Duff Xfermode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="706" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
