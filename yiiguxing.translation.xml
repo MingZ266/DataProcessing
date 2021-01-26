@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="SSL peer shut down incorrectly" />
       <item value="width Increment" />
       <item value="decode Scan Image" />
       <item value="decode Scan Picture" />
@@ -54,12 +55,11 @@
       <item value="Scan Sign In" />
       <item value="Sign In" />
       <item value="Sing In" />
-      <item value="transparent Percentage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="706" />
-        <entry key="ENGLISH" value="707" />
+        <entry key="CHINESE" value="707" />
+        <entry key="ENGLISH" value="708" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
