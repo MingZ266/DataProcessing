@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="start Scan Animation" />
+      <item value="scan Line Offset" />
+      <item value="reset Draw Tools" />
+      <item value="four Corners Color" />
+      <item value="right Angle Color" />
+      <item value="outline Color" />
       <item value="activity List" />
       <item value="SSL peer shut down incorrectly" />
       <item value="width Increment" />
@@ -49,17 +55,11 @@
       <item value="on Disconnected" />
       <item value="LENS FACING BACK" />
       <item value="decode QR Code Bitmap" />
-      <item value="Planar YUV Luminance Source" />
-      <item value="Inverted Luminance Source" />
-      <item value="Resume" />
-      <item value="Mock" />
-      <item value="Scan Sign In" />
-      <item value="Sign In" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="715" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
