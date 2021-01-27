@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="distance" />
       <item value="start Scan Animation" />
       <item value="scan Line Offset" />
       <item value="reset Draw Tools" />
@@ -54,12 +55,11 @@
       <item value="set Requested Orientation" />
       <item value="on Disconnected" />
       <item value="LENS FACING BACK" />
-      <item value="decode QR Code Bitmap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="ROMANIAN" value="1" />
