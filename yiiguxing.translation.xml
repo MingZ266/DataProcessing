@@ -5,8 +5,17 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
-      <item value="over Scroll Mode" />
+      <item value="set Drawing Cache Background Color" />
+      <item value="filter Touches When Obscured" />
+      <item value="numbers Inner Text Color" />
       <item value="outline Ambient Shadow Color" />
+      <item value="outline Spot Shadow Color" />
+      <item value="clip Children" />
+      <item value="ltr" />
+      <item value="locale" />
+      <item value="inherit" />
+      <item value="layout Direction" />
+      <item value="over Scroll Mode" />
       <item value="spinners Shown" />
       <item value="calendar View Shown" />
       <item value="For entering a date and time. Corresponds to {@link android.text.InputTypeTYPE_CLASS_DATETIME} | {@link android.text.InputTypeTYPE_DATETIME_VARIATION_NORMAL}." />
@@ -46,28 +55,20 @@
       <item value="Global Histogram Binarizer" />
       <item value="Hybrid Binarizer" />
       <item value="This ViewTreeObserver is not alive, call getViewTreeObserver() again" />
-      <item value="image Reader No Ready" />
-      <item value="image Reader Not Ready" />
-      <item value="image Reader Ready" />
-      <item value="talk Photo" />
-      <item value="tack Photo" />
-      <item value="get Binaryzation Bitmap" />
-      <item value="QR Code Decoder Meta Data" />
-      <item value="STILL CAPTURE" />
-      <item value="MANUAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="731" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="7" />
+        <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="5" />
       </map>
     </option>
