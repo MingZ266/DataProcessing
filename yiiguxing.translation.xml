@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="date Picker" />
       <item value="set Drawing Cache Background Color" />
       <item value="filter Touches When Obscured" />
       <item value="numbers Inner Text Color" />
@@ -54,12 +55,11 @@
       <item value="Luminance Source" />
       <item value="Global Histogram Binarizer" />
       <item value="Hybrid Binarizer" />
-      <item value="This ViewTreeObserver is not alive, call getViewTreeObserver() again" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="739" />
+        <entry key="ENGLISH" value="740" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
