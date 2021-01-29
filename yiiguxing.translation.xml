@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="strictfp" />
+      <item value="FIXME" />
       <item value="distance" />
       <item value="start Scan Animation" />
       <item value="scan Line Offset" />
@@ -53,15 +55,14 @@
       <item value="create Capture Session" />
       <item value="create Capture Request" />
       <item value="set Requested Orientation" />
-      <item value="on Disconnected" />
-      <item value="LENS FACING BACK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="717" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
+        <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
@@ -72,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611401416526" />
+    <option name="lastTrimTime" value="1611885606057" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
