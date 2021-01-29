@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="release Sign In" />
       <item value="Adapter" />
       <item value="has Permission" />
       <item value="API" />
@@ -54,12 +55,11 @@
       <item value="scan Line Color" />
       <item value="scan Width" />
       <item value="on Click Touch" />
-      <item value="Touch Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="725" />
-        <entry key="ENGLISH" value="726" />
+        <entry key="CHINESE" value="726" />
+        <entry key="ENGLISH" value="727" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="1" />
