@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="829" />
+    <option name="newTranslationDialogWidth" value="827" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Call Window.getCurrentFocus on the Window if this Activity to return the currently focused view." />
       <item value="date Picker" />
       <item value="set Drawing Cache Background Color" />
       <item value="filter Touches When Obscured" />
@@ -54,7 +55,6 @@
       <item value="LENS FACING FRONT" />
       <item value="Luminance Source" />
       <item value="Global Histogram Binarizer" />
-      <item value="Hybrid Binarizer" />
     </histories>
     <option name="languageScores">
       <map>
