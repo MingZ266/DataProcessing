@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="need Delete" />
+      <item value="checked" />
+      <item value="is Selected" />
+      <item value="was Selected" />
+      <item value="was Select" />
+      <item value="is Select" />
       <item value="green" />
       <item value="Relative Overlap" />
       <item value="button Tint" />
@@ -49,17 +55,11 @@
       <item value="FIXME" />
       <item value="distance" />
       <item value="start Scan Animation" />
-      <item value="scan Line Offset" />
-      <item value="reset Draw Tools" />
-      <item value="four Corners Color" />
-      <item value="right Angle Color" />
-      <item value="outline Color" />
-      <item value="activity List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="759" />
+        <entry key="ENGLISH" value="760" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
