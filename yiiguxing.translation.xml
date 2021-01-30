@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="del Part" />
       <item value="Linked List" />
       <item value="need Delete" />
       <item value="checked" />
@@ -54,15 +55,15 @@
       <item value="other Parame" />
       <item value="strictfp" />
       <item value="FIXME" />
-      <item value="distance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="761" />
+        <entry key="ENGLISH" value="762" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
