@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="button Tint" />
+      <item value="drawable State Changed" />
+      <item value="button Compat" />
+      <item value="list Choice Indicator Single Animated" />
+      <item value="list Choice Indicator Single" />
       <item value="COMING SOON" />
       <item value="coming soon" />
       <item value="ongoing" />
@@ -50,16 +55,11 @@
       <item value="activity List" />
       <item value="SSL peer shut down incorrectly" />
       <item value="width Increment" />
-      <item value="decode Scan Image" />
-      <item value="decode Scan Picture" />
-      <item value="Decode QR Code Observer" />
-      <item value="Total Capture Result" />
-      <item value="get Partial Results" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="751" />
+        <entry key="ENGLISH" value="752" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
