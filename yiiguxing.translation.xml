@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="has Not Show Tip" />
       <item value="select Date" />
       <item value="Call Window.getCurrentFocus on the Window if this Activity to return the currently focused view." />
       <item value="date Picker" />
@@ -54,12 +55,11 @@
       <item value="camera Characteristics" />
       <item value="preview" />
       <item value="LENS FACING FRONT" />
-      <item value="Luminance Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
