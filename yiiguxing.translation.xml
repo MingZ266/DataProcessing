@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="entity" />
+      <item value="实体" />
       <item value="init Locate" />
       <item value="del Part" />
       <item value="Linked List" />
@@ -53,13 +55,11 @@
       <item value="one Of Null" />
       <item value="all Not Null" />
       <item value="send Net Request" />
-      <item value="other Parame" />
-      <item value="strictfp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="764" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
