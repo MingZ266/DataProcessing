@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="827" />
+    <option name="newTranslationDialogWidth" value="825" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="This class implements Parcelable but does not provide a CREATOR field" />
+      <item value="synchronize Sign In Status Info" />
+      <item value="blank" />
       <item value="sign In Not Start" />
       <item value="sing In Not Start" />
       <item value="Progress" />
@@ -52,14 +55,11 @@
       <item value="inherit" />
       <item value="layout Direction" />
       <item value="over Scroll Mode" />
-      <item value="spinners Shown" />
-      <item value="calendar View Shown" />
-      <item value="For entering a date and time. Corresponds to {@link android.text.InputTypeTYPE_CLASS_DATETIME} | {@link android.text.InputTypeTYPE_DATETIME_VARIATION_NORMAL}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="771" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="774" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
