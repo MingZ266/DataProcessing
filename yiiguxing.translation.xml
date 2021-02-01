@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="823" />
+    <option name="newTranslationDialogWidth" value="815" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Formats: flags Values: colorMode, density, fontScale, keyboard, keyboardHidden, layoutDirection, locale, mcc, mnc, navigation, orientation, screenLayout, screenSize, smallestScreenSize, touchscreen, uiMode Specify one or more configuration changes that the activity will handle itself. If not specified, the activity will be restarted if any of these configuration changes happen in the system. Otherwise, the activity will remain running and its {@link android.app.ActivityonConfigurationChanged Activity.onConfigurationChanged} method called with the new configuration. Note that all of these configuration changes can impact the resource values seen by the application, so you will generally need to re-retrieve all resources (including view layouts, drawables, etc) to correctly handle any configuration change. These values must be kept in sync with those in {@link android.content.pm.ActivityInfo} and includeutilsResourceTypes.h." />
+      <item value="The screen orientation has changed, that is the user has rotated the device." />
+      <item value="Formats: enum Values: behind, fullSensor, fullUser, landscape, locked, nosensor, portrait, reverseLandscape, reversePortrait, sensor, sensorLandscape, sensorPortrait, unspecified, user, userLandscape, userPortrait Specify the orientation an activity should be run in. If not specified, it will run in the current preferred orientation of the screen. This attribute is supported by the {@code } element." />
+      <item value="Would like to have the screen in a portrait orientation: that is, with the display taller than it is wide, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_PORTRAIT}." />
       <item value="a positive integer representing the position of the view in the group, or -1 if the view does not exist in the group" />
       <item value="No such file or directory" />
       <item value="Unsupported Operation Exception" />
@@ -51,10 +55,6 @@
       <item value="select Date" />
       <item value="Call Window.getCurrentFocus on the Window if this Activity to return the currently focused view." />
       <item value="date Picker" />
-      <item value="set Drawing Cache Background Color" />
-      <item value="filter Touches When Obscured" />
-      <item value="numbers Inner Text Color" />
-      <item value="outline Ambient Shadow Color" />
     </histories>
     <option name="languageScores">
       <map>
