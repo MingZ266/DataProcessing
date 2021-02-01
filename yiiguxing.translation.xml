@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="No such file or directory" />
       <item value="Unsupported Operation Exception" />
       <item value="finish On Over" />
       <item value="is your activity running" />
@@ -54,12 +55,11 @@
       <item value="numbers Inner Text Color" />
       <item value="outline Ambient Shadow Color" />
       <item value="outline Spot Shadow Color" />
-      <item value="clip Children" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="778" />
-        <entry key="ENGLISH" value="779" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="780" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
