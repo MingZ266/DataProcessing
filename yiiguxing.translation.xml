@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="811" />
+    <option name="newTranslationDialogWidth" value="799" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Specify a specific process that the associated code is to run in. Use with the application tag (to supply a default process for all application components), or with the activity, receiver, service, or provider tag (to supply a specific icon for that component). Application components are normally run in a single process that is created for the entire application. You can use this tag to modify where they run. If the process name begins with a ':' character, a new process private to that application will be created when needed to run that component (allowing you to spread your application across multiple processes). If the process name begins with a lower-case character, the component will be run in a global process of that name, provided that you have permission to do so, allowing multiple applications to share one process to reduce resource usage." />
+      <item value="BOOT COMPLETED" />
+      <item value="Alarm Manager just ran" />
+      <item value="This broadcast receiver declares an intent-filter for a protected broadcast action string, which can only be sent by the system, not third-party applications. However, the receiver's onReceive method does not appear to call getAction to ensure that the received Intent's action string matches the expected value, potentially making it possible for another actor to send a spoofed intent with no action string or a different action string and cause undesired behavior." />
+      <item value="On SDK version 23 and up, your app data will be automatically backed up and restored on app install. Consider adding the attribute android:fullBackupContent to specify an @xml resource which configures which files to backup. More info: https:developer.android.comtrainingbackupautosyncapi.html" />
+      <item value="RECEIVE BOOT COMPLETED" />
+      <item value="The name of an action that is handled, using the Java-style naming convention. For example, to support {@link android.content.IntentACTION_VIEW Intent.ACTION_VIEW} you would put android.intent.action.VIEW here. Custom actions should generally use a prefix matching the package name." />
+      <item value="Indicate if this component is aware of direct boot lifecycle, and can be safely run before the user has entered their credentials (such as a lock pattern or PIN)." />
       <item value="must not be 0." />
       <item value="Background start not allowed" />
       <item value="Specify a permission that a client is required to have in order to use the associated object. If the client does not hold the named permission, its request will fail. See the Security and Permissions document for more information on permissions." />
@@ -47,19 +55,11 @@
       <item value="was Selected" />
       <item value="was Select" />
       <item value="is Select" />
-      <item value="green" />
-      <item value="Relative Overlap" />
-      <item value="button Tint" />
-      <item value="drawable State Changed" />
-      <item value="button Compat" />
-      <item value="list Choice Indicator Single Animated" />
-      <item value="list Choice Indicator Single" />
-      <item value="COMING SOON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
