@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Return the communication channel to the service." />
       <item value="Diverse Notify Activity" />
       <item value="Formats: flags Values: colorMode, density, fontScale, keyboard, keyboardHidden, layoutDirection, locale, mcc, mnc, navigation, orientation, screenLayout, screenSize, smallestScreenSize, touchscreen, uiMode Specify one or more configuration changes that the activity will handle itself. If not specified, the activity will be restarted if any of these configuration changes happen in the system. Otherwise, the activity will remain running and its {@link android.app.ActivityonConfigurationChanged Activity.onConfigurationChanged} method called with the new configuration. Note that all of these configuration changes can impact the resource values seen by the application, so you will generally need to re-retrieve all resources (including view layouts, drawables, etc) to correctly handle any configuration change. These values must be kept in sync with those in {@link android.content.pm.ActivityInfo} and includeutilsResourceTypes.h." />
       <item value="The screen orientation has changed, that is the user has rotated the device." />
@@ -54,12 +55,11 @@
       <item value="already End" />
       <item value="has Not Show Tip" />
       <item value="select Date" />
-      <item value="Call Window.getCurrentFocus on the Window if this Activity to return the currently focused view." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="780" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="781" />
+        <entry key="ENGLISH" value="782" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
