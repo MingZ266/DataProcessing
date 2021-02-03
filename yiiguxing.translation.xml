@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="must not be 0." />
       <item value="Background start not allowed" />
       <item value="Specify a permission that a client is required to have in order to use the associated object. If the client does not hold the named permission, its request will fail. See the Security and Permissions document for more information on permissions." />
       <item value="Flag indicating whether the given application component is available to other applications. If false, it can only be accessed by applications with its same user id (which usually means only by code in its own package). If true, it can be invoked by external entities, though which ones can do so may be controlled through permissions. The default value is false for activity, receiver, and service components that do not specify any intent filters; it is true for activity, receiver, and service components that do have intent filters (implying they expect to be invoked by others who do not know their particular component name) and for all content providers." />
@@ -54,12 +55,11 @@
       <item value="list Choice Indicator Single Animated" />
       <item value="list Choice Indicator Single" />
       <item value="COMING SOON" />
-      <item value="coming soon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="785" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
