@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Unsupported Operation Exception" />
+      <item value="Not yet implemented" />
       <item value="Return the communication channel to the service." />
       <item value="Diverse Notify Activity" />
       <item value="Formats: flags Values: colorMode, density, fontScale, keyboard, keyboardHidden, layoutDirection, locale, mcc, mnc, navigation, orientation, screenLayout, screenSize, smallestScreenSize, touchscreen, uiMode Specify one or more configuration changes that the activity will handle itself. If not specified, the activity will be restarted if any of these configuration changes happen in the system. Otherwise, the activity will remain running and its {@link android.app.ActivityonConfigurationChanged Activity.onConfigurationChanged} method called with the new configuration. Note that all of these configuration changes can impact the resource values seen by the application, so you will generally need to re-retrieve all resources (including view layouts, drawables, etc) to correctly handle any configuration change. These values must be kept in sync with those in {@link android.content.pm.ActivityInfo} and includeutilsResourceTypes.h." />
@@ -13,7 +15,6 @@
       <item value="Would like to have the screen in a portrait orientation: that is, with the display taller than it is wide, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_PORTRAIT}." />
       <item value="a positive integer representing the position of the view in the group, or -1 if the view does not exist in the group" />
       <item value="No such file or directory" />
-      <item value="Unsupported Operation Exception" />
       <item value="finish On Over" />
       <item value="is your activity running" />
       <item value="Activity com.tdsata.ourapp.activity.ActivitySignInScan has leaked window DecorView@9816ada[ActivitySignInScan] that was originally added here" />
@@ -54,12 +55,11 @@
       <item value="is Running" />
       <item value="already End" />
       <item value="has Not Show Tip" />
-      <item value="select Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="784" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
