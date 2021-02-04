@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Alarm Receiver" />
+      <item value="IN TIME" />
+      <item value="PULL MESSAGE" />
+      <item value="PULL MESSAGE IN TIME" />
+      <item value="PUSH MESSAGE IN TIME" />
       <item value="Specify a specific process that the associated code is to run in. Use with the application tag (to supply a default process for all application components), or with the activity, receiver, service, or provider tag (to supply a specific icon for that component). Application components are normally run in a single process that is created for the entire application. You can use this tag to modify where they run. If the process name begins with a ':' character, a new process private to that application will be created when needed to run that component (allowing you to spread your application across multiple processes). If the process name begins with a lower-case character, the component will be run in a global process of that name, provided that you have permission to do so, allowing multiple applications to share one process to reduce resource usage." />
       <item value="BOOT COMPLETED" />
       <item value="Alarm Manager just ran" />
@@ -50,16 +55,11 @@
       <item value="del Part" />
       <item value="Linked List" />
       <item value="need Delete" />
-      <item value="checked" />
-      <item value="is Selected" />
-      <item value="was Selected" />
-      <item value="was Select" />
-      <item value="is Select" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="789" />
-        <entry key="ENGLISH" value="790" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="795" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
