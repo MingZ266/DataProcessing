@@ -5,7 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="not Remind Checkbox" />
+      <item value="not Remind Check" />
       <item value="not Remind" />
+      <item value="check Background Running Permission" />
+      <item value="check Background Permission" />
       <item value="dont Remind" />
       <item value="apply background process" />
       <item value="apply background progress" />
@@ -51,15 +55,11 @@
       <item value="Activity com.tdsata.ourapp.activity.ActivitySignInScan has leaked window DecorView@9816ada[ActivitySignInScan] that was originally added here" />
       <item value="status Describe" />
       <item value="This class implements Parcelable but does not provide a CREATOR field" />
-      <item value="synchronize Sign In Status Info" />
-      <item value="blank" />
-      <item value="sign In Not Start" />
-      <item value="sing In Not Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="808" />
+        <entry key="ENGLISH" value="809" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
