@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="CURRENT" />
+      <item value="FLAG CANCEL CURRENT" />
       <item value="tip Background Running Permission" />
       <item value="not Remind Checkbox" />
       <item value="not Remind Check" />
@@ -53,13 +55,11 @@
       <item value="No such file or directory" />
       <item value="finish On Over" />
       <item value="is your activity running" />
-      <item value="Activity com.tdsata.ourapp.activity.ActivitySignInScan has leaked window DecorView@9816ada[ActivitySignInScan] that was originally added here" />
-      <item value="status Describe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="809" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="812" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
