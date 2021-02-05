@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Disable Baseline Alignment" />
       <item value="Set an input filter to constrain the text length to the specified number" />
       <item value="rate" />
       <item value="Situation" />
@@ -54,12 +55,11 @@
       <item value="The name of an action that is handled, using the Java-style naming convention. For example, to support {@link android.content.IntentACTION_VIEW Intent.ACTION_VIEW} you would put android.intent.action.VIEW here. Custom actions should generally use a prefix matching the package name." />
       <item value="Indicate if this component is aware of direct boot lifecycle, and can be safely run before the user has entered their credentials (such as a lock pattern or PIN)." />
       <item value="must not be 0." />
-      <item value="Background start not allowed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="822" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="823" />
+        <entry key="ENGLISH" value="824" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
