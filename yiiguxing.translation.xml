@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="795" />
+    <option name="newTranslationDialogWidth" value="793" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Value will be forced up to 5000 as of Android 5.1; don't rely on this to be exact" />
       <item value="leader Board" />
       <item value="personal Center" />
       <item value="ones Center" />
@@ -54,7 +55,6 @@
       <item value="Unsupported Operation Exception" />
       <item value="Not yet implemented" />
       <item value="Return the communication channel to the service." />
-      <item value="Diverse Notify Activity" />
     </histories>
     <option name="languageScores">
       <map>
