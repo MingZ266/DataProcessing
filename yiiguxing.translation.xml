@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="789" />
+    <option name="newTranslationDialogWidth" value="787" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Set an input filter to constrain the text length to the specified number" />
       <item value="rate" />
       <item value="Situation" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
@@ -54,7 +55,6 @@
       <item value="Indicate if this component is aware of direct boot lifecycle, and can be safely run before the user has entered their credentials (such as a lock pattern or PIN)." />
       <item value="must not be 0." />
       <item value="Background start not allowed" />
-      <item value="Specify a permission that a client is required to have in order to use the associated object. If the client does not hold the named permission, its request will fail. See the Security and Permissions document for more information on permissions." />
     </histories>
     <option name="languageScores">
       <map>
