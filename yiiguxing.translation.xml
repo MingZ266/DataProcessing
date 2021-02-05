@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="ranking" />
       <item value="Value will be forced up to 5000 as of Android 5.1; don't rely on this to be exact" />
       <item value="leader Board" />
       <item value="personal Center" />
@@ -54,12 +55,11 @@
       <item value="Receiver" />
       <item value="Unsupported Operation Exception" />
       <item value="Not yet implemented" />
-      <item value="Return the communication channel to the service." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="820" />
+        <entry key="CHINESE" value="820" />
+        <entry key="ENGLISH" value="821" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
