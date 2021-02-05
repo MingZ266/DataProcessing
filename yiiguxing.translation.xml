@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="793" />
+    <option name="newTranslationDialogWidth" value="789" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
+      <item value="Drawable used to indicate the currently selected item in the list." />
       <item value="ranking" />
       <item value="Value will be forced up to 5000 as of Android 5.1; don't rely on this to be exact" />
       <item value="leader Board" />
@@ -53,8 +55,6 @@
       <item value="Specify a permission that a client is required to have in order to use the associated object. If the client does not hold the named permission, its request will fail. See the Security and Permissions document for more information on permissions." />
       <item value="Flag indicating whether the given application component is available to other applications. If false, it can only be accessed by applications with its same user id (which usually means only by code in its own package). If true, it can be invoked by external entities, though which ones can do so may be controlled through permissions. The default value is false for activity, receiver, and service components that do not specify any intent filters; it is true for activity, receiver, and service components that do have intent filters (implying they expect to be invoked by others who do not know their particular component name) and for all content providers." />
       <item value="Receiver" />
-      <item value="Unsupported Operation Exception" />
-      <item value="Not yet implemented" />
     </histories>
     <option name="languageScores">
       <map>
