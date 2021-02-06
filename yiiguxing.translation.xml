@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="787" />
+    <option name="newTranslationDialogWidth" value="785" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Unhandled exception: java.lang.IllegalAccessException" />
+      <item value="Illegal Access Exception" />
+      <item value="ten Members" />
+      <item value="home" />
+      <item value="home Leaderboard" />
       <item value="integral" />
       <item value="count" />
       <item value="head Photo" />
@@ -50,16 +55,11 @@
       <item value="filter" />
       <item value="STICKY" />
       <item value="START NOT STICKY" />
-      <item value="Whether to allow the application to participate in the backup and restore infrastructure. If this attribute is set to false, no backup or restore of the application will ever be performed, even by a full-system backup that would otherwise cause all application data to be saved via adb. The default value of this attribute is true." />
-      <item value="Alarm Receiver" />
-      <item value="IN TIME" />
-      <item value="PULL MESSAGE" />
-      <item value="PULL MESSAGE IN TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
-        <entry key="ENGLISH" value="835" />
+        <entry key="CHINESE" value="838" />
+        <entry key="ENGLISH" value="839" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -83,6 +83,7 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
