@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="carousel" />
       <item value="Nested Scrolling" />
       <item value="carousel Points Layout" />
-      <item value="carousel" />
       <item value="carousel View Pager" />
       <item value="Disable Baseline Alignment" />
       <item value="Set an input filter to constrain the text length to the specified number" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="828" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
