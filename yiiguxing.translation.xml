@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="carousel Points Layout" />
+      <item value="carousel View Pager" />
       <item value="Disable Baseline Alignment" />
       <item value="Set an input filter to constrain the text length to the specified number" />
       <item value="rate" />
@@ -53,13 +55,11 @@
       <item value="On SDK version 23 and up, your app data will be automatically backed up and restored on app install. Consider adding the attribute android:fullBackupContent to specify an @xml resource which configures which files to backup. More info: https:developer.android.comtrainingbackupautosyncapi.html" />
       <item value="RECEIVE BOOT COMPLETED" />
       <item value="The name of an action that is handled, using the Java-style naming convention. For example, to support {@link android.content.IntentACTION_VIEW Intent.ACTION_VIEW} you would put android.intent.action.VIEW here. Custom actions should generally use a prefix matching the package name." />
-      <item value="Indicate if this component is aware of direct boot lifecycle, and can be safely run before the user has entered their credentials (such as a lock pattern or PIN)." />
-      <item value="must not be 0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="823" />
-        <entry key="ENGLISH" value="824" />
+        <entry key="CHINESE" value="824" />
+        <entry key="ENGLISH" value="825" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
