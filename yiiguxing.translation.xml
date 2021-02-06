@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="integral" />
+      <item value="count" />
+      <item value="head Photo" />
+      <item value="ranking" />
+      <item value="announcement Head" />
+      <item value="排行榜" />
       <item value="Announcement Text" />
       <item value="announcement" />
       <item value="carousel Intervals" />
@@ -18,14 +24,11 @@
       <item value="Situation" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="Drawable used to indicate the currently selected item in the list." />
-      <item value="ranking" />
       <item value="Value will be forced up to 5000 as of Android 5.1; don't rely on this to be exact" />
       <item value="leader Board" />
       <item value="personal Center" />
       <item value="ones Center" />
       <item value="person Center" />
-      <item value="integral" />
-      <item value="count" />
       <item value="leader" />
       <item value="leaderboard" />
       <item value="CURRENT" />
@@ -52,14 +55,11 @@
       <item value="IN TIME" />
       <item value="PULL MESSAGE" />
       <item value="PULL MESSAGE IN TIME" />
-      <item value="PUSH MESSAGE IN TIME" />
-      <item value="Specify a specific process that the associated code is to run in. Use with the application tag (to supply a default process for all application components), or with the activity, receiver, service, or provider tag (to supply a specific icon for that component). Application components are normally run in a single process that is created for the entire application. You can use this tag to modify where they run. If the process name begins with a ':' character, a new process private to that application will be created when needed to run that component (allowing you to spread your application across multiple processes). If the process name begins with a lower-case character, the component will be run in a global process of that name, provided that you have permission to do so, allowing multiple applications to share one process to reduce resource usage." />
-      <item value="BOOT COMPLETED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="834" />
+        <entry key="ENGLISH" value="835" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -83,7 +83,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
