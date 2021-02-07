@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="exists" />
       <item value="decode" />
       <item value="save Pic From Bytes" />
       <item value="Unhandled exception: java.lang.IllegalAccessException" />
@@ -54,12 +55,11 @@
       <item value="start Pull Alarm" />
       <item value="pending Intent" />
       <item value="set Only Alert Once" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="840" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="841" />
+        <entry key="ENGLISH" value="842" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
