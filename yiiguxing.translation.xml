@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="785" />
+    <option name="newTranslationDialogWidth" value="783" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Map&lt;String, Member&gt;' may not contain keys of type 'Member'" />
       <item value="second" />
       <item value="Head Photo" />
       <item value="Head Portrait" />
@@ -54,7 +55,6 @@
       <item value="dont Remind" />
       <item value="apply background process" />
       <item value="apply background progress" />
-      <item value="Alter Password" />
     </histories>
     <option name="languageScores">
       <map>
