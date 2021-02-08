@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="is Not Running" />
       <item value="Map&lt;String, Member&gt;' may not contain keys of type 'Member'" />
       <item value="second" />
       <item value="Head Photo" />
@@ -54,12 +55,11 @@
       <item value="check Background Permission" />
       <item value="dont Remind" />
       <item value="apply background process" />
-      <item value="apply background progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
