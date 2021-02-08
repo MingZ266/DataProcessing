@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="second" />
+      <item value="Head Photo" />
+      <item value="Head Portrait" />
       <item value="available Cache Head Photo" />
       <item value="exists" />
       <item value="decode" />
@@ -52,14 +55,11 @@
       <item value="apply background process" />
       <item value="apply background progress" />
       <item value="Alter Password" />
-      <item value="start Polling Alarm" />
-      <item value="start Pull Alarm" />
-      <item value="pending Intent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
-        <entry key="ENGLISH" value="843" />
+        <entry key="CHINESE" value="845" />
+        <entry key="ENGLISH" value="846" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
