@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="ANNOUNCEMENT ALREADY EXIST" />
       <item value="Use requireActivity() instead of Objects.requireNonNull(getActivity())" />
       <item value="administrator" />
       <item value="announcer" />
@@ -54,12 +55,11 @@
       <item value="FLAG CANCEL CURRENT" />
       <item value="tip Background Running Permission" />
       <item value="not Remind Checkbox" />
-      <item value="not Remind Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="850" />
+        <entry key="ENGLISH" value="851" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
