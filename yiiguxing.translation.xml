@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="781" />
+    <option name="newTranslationDialogWidth" value="779" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Use requireActivity() instead of Objects.requireNonNull(getActivity())" />
+      <item value="administrator" />
+      <item value="announcer" />
       <item value="administrators" />
       <item value="Can be combined with text and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputTypeTYPE_TEXT_FLAG_MULTI_LINE}." />
       <item value="is Not Running" />
@@ -52,14 +55,11 @@
       <item value="tip Background Running Permission" />
       <item value="not Remind Checkbox" />
       <item value="not Remind Check" />
-      <item value="not Remind" />
-      <item value="check Background Running Permission" />
-      <item value="check Background Permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="849" />
+        <entry key="ENGLISH" value="850" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
