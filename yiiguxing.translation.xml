@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="783" />
+    <option name="newTranslationDialogWidth" value="781" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Can be combined with text and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputTypeTYPE_TEXT_FLAG_MULTI_LINE}." />
       <item value="is Not Running" />
       <item value="Map&lt;String, Member&gt;' may not contain keys of type 'Member'" />
       <item value="second" />
@@ -54,7 +55,6 @@
       <item value="check Background Running Permission" />
       <item value="check Background Permission" />
       <item value="dont Remind" />
-      <item value="apply background process" />
     </histories>
     <option name="languageScores">
       <map>
