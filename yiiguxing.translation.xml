@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="granted { read open }" />
       <item value="Token" />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
       <item value="get Identity" />
@@ -54,12 +55,11 @@
       <item value="leader Board" />
       <item value="personal Center" />
       <item value="ones Center" />
-      <item value="person Center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
