@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="779" />
+    <option name="newTranslationDialogWidth" value="777" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
       <item value="get Identity" />
       <item value="about Our" />
       <item value="inform" />
@@ -54,7 +55,6 @@
       <item value="ones Center" />
       <item value="person Center" />
       <item value="leader" />
-      <item value="leaderboard" />
     </histories>
     <option name="languageScores">
       <map>
