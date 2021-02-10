@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="take Photo" />
+      <item value="tack Photo" />
       <item value="granted { read open }" />
       <item value="Token" />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
@@ -53,13 +55,11 @@
       <item value="Drawable used to indicate the currently selected item in the list." />
       <item value="Value will be forced up to 5000 as of Android 5.1; don't rely on this to be exact" />
       <item value="leader Board" />
-      <item value="personal Center" />
-      <item value="ones Center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="CHINESE" value="857" />
+        <entry key="ENGLISH" value="858" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -68,7 +68,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="5" />
       </map>
