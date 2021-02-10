@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="777" />
+    <option name="newTranslationDialogWidth" value="775" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Constant expression required" />
       <item value="take Photo" />
       <item value="tack Photo" />
       <item value="granted { read open }" />
@@ -54,7 +55,6 @@
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="Drawable used to indicate the currently selected item in the list." />
       <item value="Value will be forced up to 5000 as of Android 5.1; don't rely on this to be exact" />
-      <item value="leader Board" />
     </histories>
     <option name="languageScores">
       <map>
