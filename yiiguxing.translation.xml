@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="constraint Circle Angle" />
+      <item value="constraint Circle Radius" />
+      <item value="Radius Image View" />
       <item value="data parcel size 1008516 bytes" />
       <item value="add On Global Layout Listener" />
       <item value="with revoked permission android.permission.CAMERA" />
@@ -52,14 +55,11 @@
       <item value="carousel Points Layout" />
       <item value="carousel View Pager" />
       <item value="Disable Baseline Alignment" />
-      <item value="Set an input filter to constrain the text length to the specified number" />
-      <item value="rate" />
-      <item value="Situation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
-        <entry key="ENGLISH" value="861" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="864" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612755009126" />
+    <option name="lastTrimTime" value="1613445978354" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
