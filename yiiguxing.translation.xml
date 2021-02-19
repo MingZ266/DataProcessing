@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="nothing to commit, working tree clean" />
+      <item value="1 commit received during the push" />
       <item value="swipe Refresh Layout Progress Spinner Background Color" />
       <item value="constraint Circle Angle" />
       <item value="constraint Circle Radius" />
@@ -53,13 +55,11 @@
       <item value="carousel Intervals" />
       <item value="carousel" />
       <item value="Nested Scrolling" />
-      <item value="carousel Points Layout" />
-      <item value="carousel View Pager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="864" />
-        <entry key="ENGLISH" value="865" />
+        <entry key="CHINESE" value="865" />
+        <entry key="ENGLISH" value="866" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
