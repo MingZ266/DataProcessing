@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="ranking" />
       <item value="core" />
       <item value="nothing to commit, working tree clean" />
       <item value="1 commit received during the push" />
@@ -48,7 +49,6 @@
       <item value="integral" />
       <item value="count" />
       <item value="head Photo" />
-      <item value="ranking" />
       <item value="announcement Head" />
       <item value="排行榜" />
       <item value="Announcement Text" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="866" />
-        <entry key="ENGLISH" value="867" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
