@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="refresh After Delete" />
       <item value="ranking" />
       <item value="core" />
       <item value="nothing to commit, working tree clean" />
@@ -54,12 +55,11 @@
       <item value="Announcement Text" />
       <item value="announcement" />
       <item value="carousel Intervals" />
-      <item value="carousel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="868" />
+        <entry key="CHINESE" value="868" />
+        <entry key="ENGLISH" value="869" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
