@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="utils" />
+      <item value="util" />
       <item value="Presenter" />
       <item value="MVP Presenter" />
       <item value="lintVitalRelease" />
@@ -53,8 +55,6 @@
       <item value="ten Members" />
       <item value="home" />
       <item value="home Leaderboard" />
-      <item value="integral" />
-      <item value="count" />
     </histories>
     <option name="languageScores">
       <map>
