@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Presenter" />
+      <item value="MVP Presenter" />
       <item value="lintVitalRelease" />
       <item value="lint Vital Release" />
       <item value="Modifier 'public' not allowed here" />
@@ -53,13 +55,11 @@
       <item value="home Leaderboard" />
       <item value="integral" />
       <item value="count" />
-      <item value="head Photo" />
-      <item value="announcement Head" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="870" />
-        <entry key="ENGLISH" value="871" />
+        <entry key="CHINESE" value="871" />
+        <entry key="ENGLISH" value="872" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -68,14 +68,14 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="3" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613445978354" />
+    <option name="lastTrimTime" value="1613961056966" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -83,7 +83,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
