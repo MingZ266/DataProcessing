@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="771" />
+    <option name="newTranslationDialogWidth" value="767" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Background for the section containing the search query" />
+      <item value="The default state of the SearchView. If true, it will be iconified when not in use and expanded when clicked. " />
+      <item value="The default state of the SearchView. If true, it will be iconified when not in use and expanded when clicked." />
       <item value="String" />
       <item value="url Suffix" />
       <item value="No Such Algorithm Exception" />
@@ -52,9 +55,6 @@
       <item value="Head Portrait" />
       <item value="available Cache Head Photo" />
       <item value="exists" />
-      <item value="decode" />
-      <item value="save Pic From Bytes" />
-      <item value="Unhandled exception: java.lang.IllegalAccessException" />
     </histories>
     <option name="languageScores">
       <map>
