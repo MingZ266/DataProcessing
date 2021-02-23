@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Stub!" />
       <item value="is Summer Time" />
       <item value="is Dst" />
       <item value="get Fx Link" />
@@ -54,12 +55,11 @@
       <item value="is Not Running" />
       <item value="Map&lt;String, Member&gt;' may not contain keys of type 'Member'" />
       <item value="second" />
-      <item value="Head Photo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="878" />
-        <entry key="ENGLISH" value="879" />
+        <entry key="CHINESE" value="879" />
+        <entry key="ENGLISH" value="880" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -83,6 +83,7 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
