@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="request" />
+      <item value="get Observer Time" />
+      <item value="Scale" />
+      <item value="get Atmospheric Pressure" />
+      <item value="get Air Pressure" />
+      <item value="get Pressure" />
+      <item value="get Dew Point Temperature" />
+      <item value="get Cloudiness" />
+      <item value="get Visibility" />
+      <item value="get Feels Temperature" />
+      <item value="Feels" />
+      <item value="get Feels Like" />
       <item value="亲密的" />
       <item value="Stub!" />
       <item value="is Summer Time" />
@@ -43,23 +55,11 @@
       <item value="granted { read open }" />
       <item value="Token" />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
-      <item value="get Identity" />
-      <item value="about Our" />
-      <item value="inform" />
-      <item value="KEYCODE ENTER" />
-      <item value="ANNOUNCEMENT ALREADY EXIST" />
-      <item value="Use requireActivity() instead of Objects.requireNonNull(getActivity())" />
-      <item value="administrator" />
-      <item value="announcer" />
-      <item value="administrators" />
-      <item value="Can be combined with text and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputTypeTYPE_TEXT_FLAG_MULTI_LINE}." />
-      <item value="is Not Running" />
-      <item value="Map&lt;String, Member&gt;' may not contain keys of type 'Member'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="880" />
-        <entry key="ENGLISH" value="880" />
+        <entry key="CHINESE" value="891" />
+        <entry key="ENGLISH" value="892" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
