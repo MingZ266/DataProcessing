@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="767" />
+    <option name="newTranslationDialogWidth" value="765" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="If true, it will be iconified when not in use and expanded when clicked" />
       <item value="request" />
       <item value="get Observer Time" />
       <item value="Scale" />
@@ -54,7 +55,6 @@
       <item value="tack Photo" />
       <item value="granted { read open }" />
       <item value="Token" />
-      <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
     </histories>
     <option name="languageScores">
       <map>
