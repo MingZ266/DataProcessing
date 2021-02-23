@@ -3,7 +3,7 @@
     <property name="created">2020-09-18T13:01:40</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2021-01-21T12:12:15</property>
+    <property name="modified">2021-02-23T16:04:02</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <colors>
@@ -704,7 +704,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="2850cb" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
