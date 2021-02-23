@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="is Summer Time" />
+      <item value="is Dst" />
+      <item value="get Fx Link" />
       <item value="Background for the section containing the search query" />
       <item value="The default state of the SearchView. If true, it will be iconified when not in use and expanded when clicked. " />
       <item value="The default state of the SearchView. If true, it will be iconified when not in use and expanded when clicked." />
@@ -52,14 +55,11 @@
       <item value="Map&lt;String, Member&gt;' may not contain keys of type 'Member'" />
       <item value="second" />
       <item value="Head Photo" />
-      <item value="Head Portrait" />
-      <item value="available Cache Head Photo" />
-      <item value="exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="875" />
-        <entry key="ENGLISH" value="876" />
+        <entry key="CHINESE" value="878" />
+        <entry key="ENGLISH" value="879" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -83,7 +83,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
