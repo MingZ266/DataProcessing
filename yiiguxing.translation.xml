@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="759" />
+    <option name="newTranslationDialogWidth" value="757" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="The relative proportion of vertical space that should be allocated to this view during excess space distribution." />
       <item value="The row boundary delimiting the top of the group of cells occupied by this view." />
       <item value="Attribute layout_columnWeight is only used in API level 21 and higher (current min is 19)" />
       <item value="Unused Attribute" />
@@ -54,7 +55,6 @@
       <item value="constraint Circle Radius" />
       <item value="Radius Image View" />
       <item value="data parcel size 1008516 bytes" />
-      <item value="add On Global Layout Listener" />
     </histories>
     <option name="languageScores">
       <map>
