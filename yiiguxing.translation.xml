@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="tip Text For Refresh" />
+      <item value="tip Text For Drop Down" />
+      <item value="tip Text On Refreshing" />
+      <item value="tip Text On Drop Down" />
+      <item value="tip Text On Down Pull" />
+      <item value="tip Text On Down" />
+      <item value="tip Text Before Refresh" />
       <item value="refresh Limit Scale" />
       <item value="Water Wave Refresh Layout" />
       <item value="twenty" />
@@ -48,18 +55,11 @@
       <item value="String" />
       <item value="url Suffix" />
       <item value="No Such Algorithm Exception" />
-      <item value="secret" />
-      <item value="utils" />
-      <item value="util" />
-      <item value="Presenter" />
-      <item value="MVP Presenter" />
-      <item value="lintVitalRelease" />
-      <item value="lint Vital Release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
