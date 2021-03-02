@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Constraint Layout" />
       <item value="set Divider Drawable" />
       <item value="LOLLIPOP" />
       <item value="The relative proportion of vertical space that should be allocated to this view during excess space distribution." />
@@ -54,12 +55,11 @@
       <item value="1 commit received during the push" />
       <item value="swipe Refresh Layout Progress Spinner Background Color" />
       <item value="constraint Circle Angle" />
-      <item value="constraint Circle Radius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="896" />
+        <entry key="ENGLISH" value="897" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
