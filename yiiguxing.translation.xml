@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="refresh Limit Scale" />
+      <item value="Water Wave Refresh Layout" />
       <item value="twenty" />
       <item value="Calling this with the present values causes it to re-claim them" />
       <item value="clamp" />
@@ -53,13 +55,11 @@
       <item value="MVP Presenter" />
       <item value="lintVitalRelease" />
       <item value="lint Vital Release" />
-      <item value="Modifier 'public' not allowed here" />
-      <item value="check Exit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
