@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="tip Text On Refresh Success" />
+      <item value="tip Text When Refresh Success" />
+      <item value="tip Text When Over Refresh" />
+      <item value="water Wave Bottom Offset" />
       <item value="is Refresh" />
       <item value="is Refreshing" />
       <item value="tip Text For Refresh" />
@@ -51,15 +55,11 @@
       <item value="is Summer Time" />
       <item value="is Dst" />
       <item value="get Fx Link" />
-      <item value="Background for the section containing the search query" />
-      <item value="The default state of the SearchView. If true, it will be iconified when not in use and expanded when clicked. " />
-      <item value="The default state of the SearchView. If true, it will be iconified when not in use and expanded when clicked." />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="916" />
-        <entry key="ENGLISH" value="917" />
+        <entry key="CHINESE" value="920" />
+        <entry key="ENGLISH" value="921" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
