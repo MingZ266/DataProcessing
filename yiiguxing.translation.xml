@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="assert Equals" />
       <item value="rear" />
       <item value="tip Text On Refresh Success" />
       <item value="tip Text When Refresh Success" />
@@ -54,12 +55,11 @@
       <item value="亲密的" />
       <item value="Stub!" />
       <item value="is Summer Time" />
-      <item value="is Dst" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614500593083" />
+    <option name="lastTrimTime" value="1615032156254" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
