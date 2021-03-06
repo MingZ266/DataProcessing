@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="end Is Refreshing" />
+      <item value="end Refreshing" />
+      <item value="tip Text When End Refresh" />
+      <item value="tip Text When End The Refresh" />
       <item value="assert Equals" />
       <item value="rear" />
       <item value="tip Text On Refresh Success" />
@@ -51,15 +55,11 @@
       <item value="get Visibility" />
       <item value="get Feels Temperature" />
       <item value="Feels" />
-      <item value="get Feels Like" />
-      <item value="亲密的" />
-      <item value="Stub!" />
-      <item value="is Summer Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="928" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
