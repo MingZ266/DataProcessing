@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="goal" />
+      <item value="goal Color" />
+      <item value="a Increment" />
       <item value="Color Changeable Icon" />
       <item value="to Color Changeable" />
       <item value="Color Changeable Image View" />
@@ -52,14 +55,11 @@
       <item value="Scale" />
       <item value="get Atmospheric Pressure" />
       <item value="get Air Pressure" />
-      <item value="get Pressure" />
-      <item value="get Dew Point Temperature" />
-      <item value="get Cloudiness" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="929" />
-        <entry key="ENGLISH" value="930" />
+        <entry key="CHINESE" value="932" />
+        <entry key="ENGLISH" value="933" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
