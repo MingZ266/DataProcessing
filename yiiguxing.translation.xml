@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Color Changeable Icon" />
+      <item value="to Color Changeable" />
       <item value="Color Changeable Image View" />
       <item value="end Is Refreshing" />
       <item value="end Refreshing" />
@@ -53,13 +55,11 @@
       <item value="get Pressure" />
       <item value="get Dew Point Temperature" />
       <item value="get Cloudiness" />
-      <item value="get Visibility" />
-      <item value="get Feels Temperature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
