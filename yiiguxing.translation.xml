@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="provider" />
       <item value="util" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
@@ -54,12 +55,11 @@
       <item value="文氏图" />
       <item value="If true, it will be iconified when not in use and expanded when clicked" />
       <item value="request" />
-      <item value="get Observer Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="934" />
-        <entry key="ENGLISH" value="935" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
