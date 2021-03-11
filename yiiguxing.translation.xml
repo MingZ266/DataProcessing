@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="progress Len" />
+      <item value="Required type:" />
       <item value="total Length" />
       <item value="Denotes that a parameter, field or method return value can be null. When decorating a method call parameter, this denotes that the parameter can legitimately be null and the method will gracefully deal with it. Typically used on optional parameters. When decorating a method, this denotes the method might legitimately return null. This is a marker annotation and it has no specific attributes." />
       <item value="blank Color" />
@@ -53,12 +55,10 @@
       <item value="LOLLIPOP" />
       <item value="The relative proportion of vertical space that should be allocated to this view during excess space distribution." />
       <item value="The row boundary delimiting the top of the group of cells occupied by this view." />
-      <item value="Attribute layout_columnWeight is only used in API level 21 and higher (current min is 19)" />
-      <item value="Unused Attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="938" />
+        <entry key="CHINESE" value="939" />
         <entry key="ENGLISH" value="939" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
@@ -70,6 +70,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="3" />
+        <entry key="SLOVAK" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="5" />
       </map>
