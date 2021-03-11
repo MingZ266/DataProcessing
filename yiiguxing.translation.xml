@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="751" />
+    <option name="newTranslationDialogWidth" value="749" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Denotes that the annotated element should only be called on the given API level or higher. This is similar in purpose to the older @TargetApi annotation, but more clearly expresses that this is a requirement on the caller, rather than being used to &quot;suppress&quot; warnings within the method that exceed the minSdkVersion." />
       <item value="number Size" />
       <item value="Arithmetic Exception" />
       <item value="Local variable 'offset' is redundant" />
@@ -54,7 +55,6 @@
       <item value="clamp" />
       <item value="is Down Scroll" />
       <item value="Clickable View Accessibility" />
-      <item value="get Scroll Indicators" />
     </histories>
     <option name="languageScores">
       <map>
