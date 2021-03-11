@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="755" />
+    <option name="newTranslationDialogWidth" value="751" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Local variable 'offset' is redundant" />
+      <item value="progressWidthHalf' should probably not be assigned to 'y'" />
+      <item value="thickness" />
+      <item value="'progressWidthHalf' should probably not be passed as parameter 'y'" />
       <item value="progress Len" />
       <item value="Required type:" />
       <item value="total Length" />
@@ -51,15 +55,11 @@
       <item value="get Scroll Indicators" />
       <item value="desired Height" />
       <item value="Constraint Layout" />
-      <item value="set Divider Drawable" />
-      <item value="LOLLIPOP" />
-      <item value="The relative proportion of vertical space that should be allocated to this view during excess space distribution." />
-      <item value="The row boundary delimiting the top of the group of cells occupied by this view." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="939" />
+        <entry key="ENGLISH" value="940" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
