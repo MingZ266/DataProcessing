@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="get Local Visible Rect" />
       <item value="Denotes that the annotated element should only be called on the given API level or higher. This is similar in purpose to the older @TargetApi annotation, but more clearly expresses that this is a requirement on the caller, rather than being used to &quot;suppress&quot; warnings within the method that exceed the minSdkVersion." />
       <item value="number Size" />
       <item value="Arithmetic Exception" />
@@ -54,12 +55,11 @@
       <item value="Calling this with the present values causes it to re-claim them" />
       <item value="clamp" />
       <item value="is Down Scroll" />
-      <item value="Clickable View Accessibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="942" />
-        <entry key="ENGLISH" value="943" />
+        <entry key="CHINESE" value="943" />
+        <entry key="ENGLISH" value="944" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
