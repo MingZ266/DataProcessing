@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="number Size" />
+      <item value="Arithmetic Exception" />
       <item value="Local variable 'offset' is redundant" />
       <item value="progressWidthHalf' should probably not be assigned to 'y'" />
       <item value="thickness" />
@@ -53,13 +55,11 @@
       <item value="is Down Scroll" />
       <item value="Clickable View Accessibility" />
       <item value="get Scroll Indicators" />
-      <item value="desired Height" />
-      <item value="Constraint Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="942" />
+        <entry key="ENGLISH" value="943" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
