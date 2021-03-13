@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="get Circle Corner Pressed Selector" />
+      <item value="get Pressed Circle Corner Selector" />
+      <item value="get Click Circle Corner Selector" />
+      <item value="get Circle Corner Shape" />
+      <item value="Fillet" />
+      <item value="custom View" />
+      <item value="custom" />
       <item value="stress" />
       <item value="Sets the color of the spot shadow that is drawn when the view has a positive Z or elevation value. By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. The opacity of the final spot shadow is a function of the shadow caster height, the alpha channel of the outlineSpotShadowColor (typically opaque), and the {@link android.R.attrspotShadowAlpha} theme attribute." />
       <item value="outline Ambient Shadow Color" />
@@ -48,18 +55,11 @@
       <item value="goal" />
       <item value="goal Color" />
       <item value="a Increment" />
-      <item value="Color Changeable Icon" />
-      <item value="to Color Changeable" />
-      <item value="Color Changeable Image View" />
-      <item value="end Is Refreshing" />
-      <item value="end Refreshing" />
-      <item value="tip Text When End Refresh" />
-      <item value="tip Text When End The Refresh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="956" />
-        <entry key="ENGLISH" value="957" />
+        <entry key="CHINESE" value="964" />
+        <entry key="ENGLISH" value="965" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
