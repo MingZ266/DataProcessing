@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Disable Baseline Alignment" />
       <item value="Defines whether this view reacts to click events." />
       <item value="home Pager" />
       <item value="homepage" />
@@ -54,12 +55,11 @@
       <item value="tip Text When Over Refresh" />
       <item value="water Wave Bottom Offset" />
       <item value="is Refresh" />
-      <item value="is Refreshing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="952" />
-        <entry key="ENGLISH" value="953" />
+        <entry key="CHINESE" value="953" />
+        <entry key="ENGLISH" value="954" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
