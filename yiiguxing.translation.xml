@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="stress" />
       <item value="Sets the color of the spot shadow that is drawn when the view has a positive Z or elevation value. By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. The opacity of the final spot shadow is a function of the shadow caster height, the alpha channel of the outlineSpotShadowColor (typically opaque), and the {@link android.R.attrspotShadowAlpha} theme attribute." />
       <item value="outline Ambient Shadow Color" />
       <item value="Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value. By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute." />
@@ -54,12 +55,11 @@
       <item value="end Refreshing" />
       <item value="tip Text When End Refresh" />
       <item value="tip Text When End The Refresh" />
-      <item value="assert Equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="956" />
+        <entry key="ENGLISH" value="957" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
