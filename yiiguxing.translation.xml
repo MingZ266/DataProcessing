@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="741" />
+    <option name="newTranslationDialogWidth" value="739" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Defines whether this view reacts to click events." />
       <item value="home Pager" />
       <item value="homepage" />
       <item value="homepager" />
@@ -54,7 +55,6 @@
       <item value="water Wave Bottom Offset" />
       <item value="is Refresh" />
       <item value="is Refreshing" />
-      <item value="tip Text For Refresh" />
     </histories>
     <option name="languageScores">
       <map>
