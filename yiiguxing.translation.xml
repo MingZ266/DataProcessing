@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="727" />
+    <option name="newTranslationDialogWidth" value="725" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="The following untracked working tree files would be overwritten by checkout: .idea.name Please move or remove them before you switch branches. Aborting" />
+      <item value="Your local changes would be overwritten by merge. Commit, stash or revert them to proceed. View them" />
       <item value="no changes added to commit (use &quot;git add&quot; andor &quot;git commit -a&quot;)" />
       <item value="0 file committed, 2 files failed to commit: 细项修改 On branch 后端 Your branch is up to date with 'origin后端'. Changes not staged for commit: (use &quot;git add ...&quot; to update what will be committed) (use &quot;git restore ...&quot; to discard changes in working directory) modified: appsrcmainjavacomthreepeopledazzlecolourweatherViewColorChangeableIconView.java modified: appsrcmainjavacomthreepeopledazzlecolourweatherViewProgressView.java no changes added to commit (use &quot;git add&quot; andor &quot;git commit -a&quot;)" />
       <item value="Window handle recents_animation_input_consumer has no registered input channel" />
@@ -53,13 +55,11 @@
       <item value="total Length" />
       <item value="Denotes that a parameter, field or method return value can be null. When decorating a method call parameter, this denotes that the parameter can legitimately be null and the method will gracefully deal with it. Typically used on optional parameters. When decorating a method, this denotes the method might legitimately return null. This is a marker annotation and it has no specific attributes." />
       <item value="blank Color" />
-      <item value="Circle Progress" />
-      <item value="get Latitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="970" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="972" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
