@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="on Fail" />
       <item value="Scheduled" />
       <item value="Location Callback" />
       <item value="get Circle Corner Pressed Selector" />
@@ -54,12 +55,11 @@
       <item value="util" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
-      <item value="goal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="966" />
-        <entry key="ENGLISH" value="967" />
+        <entry key="CHINESE" value="967" />
+        <entry key="ENGLISH" value="968" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
