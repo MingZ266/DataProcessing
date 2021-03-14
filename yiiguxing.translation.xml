@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Window handle recents_animation_input_consumer has no registered input channel" />
       <item value="request Location Updates" />
       <item value="on Fail" />
       <item value="Scheduled" />
@@ -54,12 +55,11 @@
       <item value="get Latitude" />
       <item value="provider" />
       <item value="util" />
-      <item value="ACCESS FINE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="968" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="CHINESE" value="969" />
+        <entry key="ENGLISH" value="970" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
