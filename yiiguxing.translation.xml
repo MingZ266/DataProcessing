@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="731" />
+    <option name="newTranslationDialogWidth" value="727" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="no changes added to commit (use &quot;git add&quot; andor &quot;git commit -a&quot;)" />
+      <item value="0 file committed, 2 files failed to commit: 细项修改 On branch 后端 Your branch is up to date with 'origin后端'. Changes not staged for commit: (use &quot;git add ...&quot; to update what will be committed) (use &quot;git restore ...&quot; to discard changes in working directory) modified: appsrcmainjavacomthreepeopledazzlecolourweatherViewColorChangeableIconView.java modified: appsrcmainjavacomthreepeopledazzlecolourweatherViewProgressView.java no changes added to commit (use &quot;git add&quot; andor &quot;git commit -a&quot;)" />
       <item value="Window handle recents_animation_input_consumer has no registered input channel" />
       <item value="request Location Updates" />
       <item value="on Fail" />
@@ -53,13 +55,11 @@
       <item value="blank Color" />
       <item value="Circle Progress" />
       <item value="get Latitude" />
-      <item value="provider" />
-      <item value="util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="CHINESE" value="970" />
+        <entry key="ENGLISH" value="971" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
