@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="request Popular City" />
       <item value="Deprecated member 'CityWeather' is still used" />
       <item value="life Status" />
       <item value="life Parameter" />
@@ -54,12 +55,11 @@
       <item value="homepage" />
       <item value="homepager" />
       <item value="Text color for links." />
-      <item value="Color of the hint text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="986" />
-        <entry key="ENGLISH" value="987" />
+        <entry key="CHINESE" value="987" />
+        <entry key="ENGLISH" value="988" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
