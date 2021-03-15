@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="number" />
       <item value="increment Task Count" />
       <item value="Weather Now Bean" />
       <item value="No usages found in Project and Libraries Press Ctrl+Alt+F7 again to search in Project Files" />
@@ -54,12 +55,11 @@
       <item value="progressWidthHalf' should probably not be assigned to 'y'" />
       <item value="thickness" />
       <item value="'progressWidthHalf' should probably not be passed as parameter 'y'" />
-      <item value="progress Len" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="973" />
-        <entry key="ENGLISH" value="974" />
+        <entry key="CHINESE" value="974" />
+        <entry key="ENGLISH" value="975" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
