@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="725" />
+    <option name="newTranslationDialogWidth" value="723" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Specifies whether to filter touches when the view's window is obscured by another visible window. When set to true, the view will not receive touches whenever a toast, dialog or other window appears above the view's window. Refer to the {@link android.view.View} security documentation for more details." />
       <item value="Search City Additional" />
       <item value="number" />
       <item value="increment Task Count" />
@@ -54,7 +55,6 @@
       <item value="Arithmetic Exception" />
       <item value="Local variable 'offset' is redundant" />
       <item value="progressWidthHalf' should probably not be assigned to 'y'" />
-      <item value="thickness" />
     </histories>
     <option name="languageScores">
       <map>
