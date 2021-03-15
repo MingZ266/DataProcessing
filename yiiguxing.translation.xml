@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="721" />
+    <option name="newTranslationDialogWidth" value="719" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Deprecated member 'CityWeather' is still used" />
+      <item value="life Status" />
+      <item value="life Parameter" />
+      <item value="life Exponent" />
+      <item value="life Level" />
+      <item value="life Style" />
       <item value="Daily" />
       <item value="hourly" />
       <item value="INVALID PARAM" />
@@ -49,17 +55,11 @@
       <item value="homepager" />
       <item value="Text color for links." />
       <item value="Color of the hint text." />
-      <item value="Color of the text selection highlight." />
-      <item value="on Stop" />
-      <item value="init View" />
-      <item value="start Animator" />
-      <item value="last Is Visible" />
-      <item value="Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="986" />
+        <entry key="ENGLISH" value="987" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
