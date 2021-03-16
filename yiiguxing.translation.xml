@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="719" />
+    <option name="newTranslationDialogWidth" value="717" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Variable is already assigned to this value" />
       <item value="start Timeout Timer" />
       <item value="empty" />
       <item value="emty" />
@@ -54,7 +55,6 @@
       <item value="base z depth of the view." />
       <item value="Oh well..." />
       <item value="Expected resource of type xml" />
-      <item value="Disable Baseline Alignment" />
     </histories>
     <option name="languageScores">
       <map>
