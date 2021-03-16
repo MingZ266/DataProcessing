@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="717" />
+    <option name="newTranslationDialogWidth" value="715" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Your local changes to the following files would be overwritten by checkout: appsrcmainjavacomthreepeopledazzlecolourweatherViewColorChangeableIconView.java appsrcmainjavacomthreepeopledazzlecolourweatherviewProgressView.java Please commit your changes or stash them before you switch branches. Aborting" />
       <item value="Variable is already assigned to this value" />
       <item value="start Timeout Timer" />
       <item value="empty" />
@@ -54,7 +55,6 @@
       <item value="Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value. By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute." />
       <item value="base z depth of the view." />
       <item value="Oh well..." />
-      <item value="Expected resource of type xml" />
     </histories>
     <option name="languageScores">
       <map>
