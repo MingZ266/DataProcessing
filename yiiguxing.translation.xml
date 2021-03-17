@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="711" />
+    <option name="newTranslationDialogWidth" value="709" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Undo Make 'AutoHeightPagerAdapter.getIndexView' protected?" />
       <item value="The logging tag can be at most 23 characters, was 24 (123456789012345678901234)" />
       <item value="Required method destroyItem was not overridden" />
       <item value="Coat" />
@@ -54,7 +55,6 @@
       <item value="get Pressed Circle Corner Selector" />
       <item value="get Click Circle Corner Selector" />
       <item value="get Circle Corner Shape" />
-      <item value="Fillet" />
     </histories>
     <option name="languageScores">
       <map>
