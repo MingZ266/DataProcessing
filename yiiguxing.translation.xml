@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Clickable View Accessibility" />
       <item value="'clickable' attribute found, please also add 'focusable'" />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
@@ -54,12 +55,11 @@
       <item value="increment Task Count" />
       <item value="Weather Now Bean" />
       <item value="No usages found in Project and Libraries Press Ctrl+Alt+F7 again to search in Project Files" />
-      <item value="Provide a path to the library file or directory to add." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1003" />
-        <entry key="ENGLISH" value="1004" />
+        <entry key="CHINESE" value="1004" />
+        <entry key="ENGLISH" value="1005" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
