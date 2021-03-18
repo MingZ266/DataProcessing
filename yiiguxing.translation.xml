@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="693" />
+    <option name="newTranslationDialogWidth" value="691" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="'clickable' attribute found, please also add 'focusable'" />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
       <item value="Variable 'paddingTop' might already have been assigned to" />
@@ -54,7 +55,6 @@
       <item value="Weather Now Bean" />
       <item value="No usages found in Project and Libraries Press Ctrl+Alt+F7 again to search in Project Files" />
       <item value="Provide a path to the library file or directory to add." />
-      <item value="The following untracked working tree files would be overwritten by checkout: .idea.name Please move or remove them before you switch branches. Aborting" />
     </histories>
     <option name="languageScores">
       <map>
