@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="703" />
+    <option name="newTranslationDialogWidth" value="701" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Enables or disables click events for this view. When a view is clickable it will change its state to &quot;pressed&quot; on every click. Subclasses should set the view clickable to visually react to user's clicks." />
+      <item value="allow Touch Event" />
       <item value="Creates a localized description of this throwable. Subclasses may override this method in order to produce a locale-specific message. For subclasses that do not override this method, the default implementation returns the same result as getMessage()." />
       <item value="get Localized Message" />
       <item value="Thrown to indicate that an assertion has failed. The seven one-argument public constructors provided by this class ensure that the assertion error returned by the invocation: new AssertionError(expression) has as its detail message the string conversion of expression (as defined in section 15.18.1.1 of The Java™ Language Specification), regardless of the type of expression." />
@@ -53,13 +55,11 @@
       <item value="request Location Updates" />
       <item value="on Fail" />
       <item value="Scheduled" />
-      <item value="Location Callback" />
-      <item value="get Circle Corner Pressed Selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="999" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
