@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="on Resume" />
+      <item value="resume" />
+      <item value="Variable expected" />
       <item value="Temp" />
       <item value="Constant expression required" />
       <item value="correcting" />
@@ -52,14 +55,11 @@
       <item value="not Find City" />
       <item value="not City" />
       <item value="on Not City" />
-      <item value="Specifies whether to filter touches when the view's window is obscured by another visible window. When set to true, the view will not receive touches whenever a toast, dialog or other window appears above the view's window. Refer to the {@link android.view.View} security documentation for more details." />
-      <item value="Search City Additional" />
-      <item value="number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="1007" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
