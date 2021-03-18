@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="691" />
+    <option name="newTranslationDialogWidth" value="687" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Constant expression required" />
       <item value="correcting" />
       <item value="Clickable View Accessibility" />
       <item value="'clickable' attribute found, please also add 'focusable'" />
@@ -54,7 +55,6 @@
       <item value="Search City Additional" />
       <item value="number" />
       <item value="increment Task Count" />
-      <item value="Weather Now Bean" />
     </histories>
     <option name="languageScores">
       <map>
