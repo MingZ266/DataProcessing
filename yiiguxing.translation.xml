@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="683" />
+    <option name="newTranslationDialogWidth" value="681" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Condition 'adapter != null' covered by subsequent condition 'adapter instanceof SearchResultListAdapter'" />
       <item value="location Running" />
       <item value="nine Dp" />
       <item value="热门城市" />
@@ -54,7 +55,6 @@
       <item value="life Parameter" />
       <item value="life Exponent" />
       <item value="life Level" />
-      <item value="life Style" />
     </histories>
     <option name="languageScores">
       <map>
