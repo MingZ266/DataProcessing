@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="687" />
+    <option name="newTranslationDialogWidth" value="683" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="热门城市" />
+      <item value="热门 " />
+      <item value="population city" />
+      <item value="passing Time" />
+      <item value="Boolean method 'isRefresh' is always inverted" />
       <item value="on Resume" />
       <item value="resume" />
       <item value="Variable expected" />
@@ -50,16 +55,11 @@
       <item value="life Style" />
       <item value="Daily" />
       <item value="hourly" />
-      <item value="INVALID PARAM" />
-      <item value="Enhanced 'switch' blocks are not supported at language level '8'" />
-      <item value="not Find City" />
-      <item value="not City" />
-      <item value="on Not City" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
-        <entry key="ENGLISH" value="1009" />
+        <entry key="CHINESE" value="1009" />
+        <entry key="ENGLISH" value="1010" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
