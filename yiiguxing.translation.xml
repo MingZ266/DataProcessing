@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="from User" />
+      <item value="should Propagate" />
+      <item value="unsubscribe" />
       <item value="enable Brightness" />
       <item value="Failed to resolve: com.github.QuadFlask:colorpicker:0.0.15 Show in Project Structure dialog Affected Modules: app" />
       <item value="select Color" />
@@ -52,14 +55,11 @@
       <item value="Your local changes to the following files would be overwritten by checkout: appsrcmainjavacomthreepeopledazzlecolourweatherViewColorChangeableIconView.java appsrcmainjavacomthreepeopledazzlecolourweatherviewProgressView.java Please commit your changes or stash them before you switch branches. Aborting" />
       <item value="Variable is already assigned to this value" />
       <item value="start Timeout Timer" />
-      <item value="empty" />
-      <item value="emty" />
-      <item value="emtry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1018" />
-        <entry key="ENGLISH" value="1019" />
+        <entry key="CHINESE" value="1021" />
+        <entry key="ENGLISH" value="1022" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
