@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="height Scale From Width" />
+      <item value="Crop Picture View" />
+      <item value="weight" />
+      <item value="width Power" />
+      <item value="width" />
       <item value="use Black Status" />
       <item value="corner Radius" />
       <item value="Round Angle Linear Layout" />
@@ -50,16 +55,11 @@
       <item value="dispatch Touch Event" />
       <item value="Dropping the MotionEvent before the anr dialog was shown, eventTime:889203813" />
       <item value="Input dispatching timed out (Waiting to send non-key event because the touched window has not finished processing certain input events that were delivered to it over 500.0ms ago. waitqueue length = 11, head.seq = 19064966, Wait queue head age: 20006.8ms.)" />
-      <item value="This MotionEvent should be recycled after use with recycle()" />
-      <item value="Enables or disables click events for this view. When a view is clickable it will change its state to &quot;pressed&quot; on every click. Subclasses should set the view clickable to visually react to user's clicks." />
-      <item value="allow Touch Event" />
-      <item value="Creates a localized description of this throwable. Subclasses may override this method in order to produce a locale-specific message. For subclasses that do not override this method, the default implementation returns the same result as getMessage()." />
-      <item value="get Localized Message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1034" />
-        <entry key="ENGLISH" value="1035" />
+        <entry key="CHINESE" value="1039" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
