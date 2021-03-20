@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="mid Color" />
       <item value="height Scale From Width" />
       <item value="Crop Picture View" />
       <item value="weight" />
@@ -54,12 +55,11 @@
       <item value="Variable 'paddingTop' might already have been assigned to" />
       <item value="dispatch Touch Event" />
       <item value="Dropping the MotionEvent before the anr dialog was shown, eventTime:889203813" />
-      <item value="Input dispatching timed out (Waiting to send non-key event because the touched window has not finished processing certain input events that were delivered to it over 500.0ms ago. waitqueue length = 11, head.seq = 19064966, Wait queue head age: 20006.8ms.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1039" />
-        <entry key="ENGLISH" value="1040" />
+        <entry key="CHINESE" value="1040" />
+        <entry key="ENGLISH" value="1041" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
