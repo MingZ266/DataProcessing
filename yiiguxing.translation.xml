@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Color Wheel View" />
       <item value="from User" />
       <item value="should Propagate" />
       <item value="unsubscribe" />
@@ -54,12 +55,11 @@
       <item value="This file must NOT be checked into Version Control Systems, as it contains information specific to your local configuration. Location of the SDK. This is only used by Gradle. For customization when using a Version Control System, please read the header note. Sun Mar 14 23:30:05 CST 2021" />
       <item value="Your local changes to the following files would be overwritten by checkout: appsrcmainjavacomthreepeopledazzlecolourweatherViewColorChangeableIconView.java appsrcmainjavacomthreepeopledazzlecolourweatherviewProgressView.java Please commit your changes or stash them before you switch branches. Aborting" />
       <item value="Variable is already assigned to this value" />
-      <item value="start Timeout Timer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1022" />
+        <entry key="CHINESE" value="1022" />
+        <entry key="ENGLISH" value="1023" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
