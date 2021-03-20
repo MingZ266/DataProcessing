@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="white Theme" />
       <item value="get Prospect" />
       <item value="get Pre Tune" />
       <item value="Color Wheel View" />
@@ -54,12 +55,11 @@
       <item value="permission cannot be null or empty" />
       <item value="Json Syntax Exception" />
       <item value="Type parameter 'Y' cannot be instantiated directly" />
-      <item value="This file must NOT be checked into Version Control Systems, as it contains information specific to your local configuration. Location of the SDK. This is only used by Gradle. For customization when using a Version Control System, please read the header note. Sun Mar 14 23:30:05 CST 2021" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="1025" />
+        <entry key="CHINESE" value="1025" />
+        <entry key="ENGLISH" value="1026" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
