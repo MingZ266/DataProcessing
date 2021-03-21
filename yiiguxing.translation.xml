@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="677" />
+    <option name="newTranslationDialogWidth" value="675" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="activity_setting_theme.xml has more than 10 levels, bad for performance" />
       <item value="Copy constructor does not copy 16 fields" />
       <item value="init After Read" />
       <item value="save UI Theme Type If Not Custom" />
@@ -54,7 +55,6 @@
       <item value="resume" />
       <item value="Variable expected" />
       <item value="Temp" />
-      <item value="Constant expression required" />
     </histories>
     <option name="languageScores">
       <map>
