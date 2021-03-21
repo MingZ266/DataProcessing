@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="init After Read" />
+      <item value="save UI Theme Type If Not Custom" />
+      <item value="save UI Theme If Not Custom" />
+      <item value="is Night Time" />
       <item value="translucent Scale" />
       <item value="Translucent" />
       <item value="transparent" />
@@ -51,15 +55,11 @@
       <item value="Temp" />
       <item value="Constant expression required" />
       <item value="correcting" />
-      <item value="Clickable View Accessibility" />
-      <item value="'clickable' attribute found, please also add 'focusable'" />
-      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
-      <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1043" />
-        <entry key="ENGLISH" value="1044" />
+        <entry key="CHINESE" value="1047" />
+        <entry key="ENGLISH" value="1048" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
