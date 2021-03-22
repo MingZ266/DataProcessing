@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="get Resources" />
       <item value="set Initial Color" />
       <item value="The value another assigned to 'one' is never used" />
       <item value="activity_setting_theme.xml has more than 10 levels, bad for performance" />
@@ -54,12 +55,11 @@
       <item value="passing Time" />
       <item value="Boolean method 'isRefresh' is always inverted" />
       <item value="on Resume" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1048" />
-        <entry key="ENGLISH" value="1049" />
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="1050" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
