@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Content Resolver" />
+      <item value="Picture Target" />
+      <item value="Target" />
+      <item value="Target Picture" />
+      <item value="Src" />
+      <item value="divide Line Width" />
+      <item value="STYLE NINE GRID" />
       <item value="fill Style" />
       <item value="size Scale" />
       <item value="device size" />
@@ -48,18 +55,11 @@
       <item value="Angle" />
       <item value="show Four Angle" />
       <item value="mask" />
-      <item value="图片涂鸦" />
-      <item value="图片裁剪" />
-      <item value="crop Picture" />
-      <item value="FAILED BINDER TRANSACTION" />
-      <item value="get Resources" />
-      <item value="set Initial Color" />
-      <item value="The value another assigned to 'one' is never used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1097" />
-        <entry key="ENGLISH" value="1098" />
+        <entry key="CHINESE" value="1104" />
+        <entry key="ENGLISH" value="1105" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
