@@ -5,6 +5,32 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="fill Style" />
+      <item value="size Scale" />
+      <item value="device size" />
+      <item value="use weight" />
+      <item value="device size invert" />
+      <item value="inversely" />
+      <item value="four To Three" />
+      <item value="square" />
+      <item value="Size" />
+      <item value="cropping" />
+      <item value="cropping Size" />
+      <item value="width Weight" />
+      <item value="scale" />
+      <item value="Image Cropping View" />
+      <item value="Image Cut View" />
+      <item value="Crop Picture View" />
+      <item value="Cropping" />
+      <item value="Image Crop View" />
+      <item value="image Cropping" />
+      <item value="Clip" />
+      <item value="Picture" />
+      <item value="Picture Clip" />
+      <item value="Picture Clip View" />
+      <item value="裁剪" />
+      <item value="Picture Cut" />
+      <item value="Picture Cut View" />
       <item value="Crop" />
       <item value="Picture Crop View" />
       <item value="divide Line Color" />
@@ -29,37 +55,11 @@
       <item value="get Resources" />
       <item value="set Initial Color" />
       <item value="The value another assigned to 'one' is never used" />
-      <item value="activity_setting_theme.xml has more than 10 levels, bad for performance" />
-      <item value="Copy constructor does not copy 16 fields" />
-      <item value="init After Read" />
-      <item value="save UI Theme Type If Not Custom" />
-      <item value="save UI Theme If Not Custom" />
-      <item value="is Night Time" />
-      <item value="translucent Scale" />
-      <item value="Translucent" />
-      <item value="transparent" />
-      <item value="mid Color" />
-      <item value="height Scale From Width" />
-      <item value="Crop Picture View" />
-      <item value="weight" />
-      <item value="width Power" />
-      <item value="width" />
-      <item value="use Black Status" />
-      <item value="corner Radius" />
-      <item value="Round Angle Linear Layout" />
-      <item value="round corner" />
-      <item value="圆角" />
-      <item value="rectangle" />
-      <item value="Disable Baseline Alignment" />
-      <item value="setting Background" />
-      <item value="change Status Color" />
-      <item value="white Theme" />
-      <item value="get Prospect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1071" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1098" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -86,7 +86,7 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translator" value="YOUDAO" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
