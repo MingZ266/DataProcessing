@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="图片涂鸦" />
+      <item value="图片裁剪" />
       <item value="crop Picture" />
       <item value="FAILED BINDER TRANSACTION" />
       <item value="get Resources" />
@@ -53,13 +55,11 @@
       <item value="nine Dp" />
       <item value="热门城市" />
       <item value="热门 " />
-      <item value="population city" />
-      <item value="passing Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1051" />
-        <entry key="ENGLISH" value="1052" />
+        <entry key="CHINESE" value="1054" />
+        <entry key="ENGLISH" value="1054" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
