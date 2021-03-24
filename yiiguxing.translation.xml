@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="style Use Dashed" />
+      <item value="DIFFERENCE" />
+      <item value="draw Crop Area" />
       <item value="wide" />
       <item value="Content Resolver" />
       <item value="Picture Target" />
@@ -52,14 +55,11 @@
       <item value="circle" />
       <item value="fill Type" />
       <item value="show Four Corner" />
-      <item value="Corner" />
-      <item value="Angle" />
-      <item value="show Four Angle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1105" />
-        <entry key="ENGLISH" value="1106" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
