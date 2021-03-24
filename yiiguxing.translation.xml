@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="667" />
+    <option name="newTranslationDialogWidth" value="665" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Argument" />
+      <item value="Illegal Argument Exception" />
+      <item value="Custom view ImageCroppingView overrides onTouchEvent but not performClick" />
+      <item value="Clickable View Accessibility" />
       <item value="Variable is already assigned to this value" />
       <item value="Attribute targetApi is not allowed here" />
       <item value="Cannot assign a value to final variable 'S'" />
@@ -51,15 +55,11 @@
       <item value="nine Grid" />
       <item value="scratchable Latex" />
       <item value="Latex" />
-      <item value="scratchable" />
-      <item value="sudoku" />
-      <item value="jiugong" />
-      <item value="none" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1108" />
-        <entry key="ENGLISH" value="1109" />
+        <entry key="CHINESE" value="1110" />
+        <entry key="ENGLISH" value="1111" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
