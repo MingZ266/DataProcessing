@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="669" />
+    <option name="newTranslationDialogWidth" value="667" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Variable is already assigned to this value" />
       <item value="Attribute targetApi is not allowed here" />
       <item value="Cannot assign a value to final variable 'S'" />
       <item value="style Use Dashed" />
@@ -54,7 +55,6 @@
       <item value="sudoku" />
       <item value="jiugong" />
       <item value="none" />
-      <item value="circle" />
     </histories>
     <option name="languageScores">
       <map>
