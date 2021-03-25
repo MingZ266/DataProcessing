@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Dashed" />
+      <item value="is Style Use Dashed" />
+      <item value="is Show Four Angle" />
       <item value="get Cropping Result" />
       <item value="compute Distance" />
       <item value="compute" />
@@ -52,14 +55,11 @@
       <item value="Size" />
       <item value="cropping" />
       <item value="cropping Size" />
-      <item value="width Weight" />
-      <item value="scale" />
-      <item value="Image Cropping View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
-        <entry key="ENGLISH" value="1126" />
+        <entry key="CHINESE" value="1128" />
+        <entry key="ENGLISH" value="1129" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -87,7 +87,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
