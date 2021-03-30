@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="to Filter" />
       <item value="pic Part" />
       <item value="thickness" />
       <item value="INTERSECT" />
@@ -54,11 +55,10 @@
       <item value="device size invert" />
       <item value="inversely" />
       <item value="four To Three" />
-      <item value="square" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1131" />
+        <entry key="CHINESE" value="1132" />
         <entry key="ENGLISH" value="1132" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
@@ -73,6 +73,7 @@
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="INDONESIAN" value="5" />
       </map>
