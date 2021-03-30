@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="apply" />
       <item value="Label For" />
       <item value="number Decimal" />
       <item value="to Filter" />
@@ -54,12 +55,11 @@
       <item value="size Scale" />
       <item value="device size" />
       <item value="use weight" />
-      <item value="device size invert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1133" />
-        <entry key="ENGLISH" value="1134" />
+        <entry key="CHINESE" value="1134" />
+        <entry key="ENGLISH" value="1135" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
