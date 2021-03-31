@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="these coefficients match those in libjpeg" />
+      <item value="set Saturation" />
       <item value="Implicitly using the default locale is a common source of bugs: Use String.format(Locale, ...) instead" />
       <item value="number Signed" />
       <item value="apply" />
@@ -53,13 +55,11 @@
       <item value="Src" />
       <item value="divide Line Width" />
       <item value="STYLE NINE GRID" />
-      <item value="fill Style" />
-      <item value="size Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1136" />
-        <entry key="ENGLISH" value="1137" />
+        <entry key="CHINESE" value="1138" />
+        <entry key="ENGLISH" value="1139" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
