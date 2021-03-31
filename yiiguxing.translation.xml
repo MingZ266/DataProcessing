@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="665" />
+    <option name="newTranslationDialogWidth" value="663" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Implicitly using the default locale is a common source of bugs: Use String.format(Locale, ...) instead" />
       <item value="number Signed" />
       <item value="apply" />
       <item value="Label For" />
@@ -54,7 +55,6 @@
       <item value="STYLE NINE GRID" />
       <item value="fill Style" />
       <item value="size Scale" />
-      <item value="device size" />
     </histories>
     <option name="languageScores">
       <map>
