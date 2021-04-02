@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Support for developing Flutter applications. Flutter gives developers an easy and productive way to build and deploy cross-platform, high-performance mobile apps for both Android and iOS. Installing this plugin will also install the Dart plugin. For some tools, this plugin uses Chromium through JxBrowser to display content from the web. JxBrowser complies with LGPL and offers an option to replace Chromium with another component. To do this: Find the JxBrowser files stored in the plugins directory, under flutter-intellijjxbrowser. Use the instructions and build script from JxBrowser to relink it with modified components." />
+      <item value="The Flutter plugin reports feature usage statistics and crash reports to Google in order to help Google contribute improvements to Flutter over time. See Google's privacy policy: www.google.compoliciesprivacy. Send usage statistics?" />
       <item value="these coefficients match those in libjpeg" />
       <item value="set Saturation" />
       <item value="Implicitly using the default locale is a common source of bugs: Use String.format(Locale, ...) instead" />
@@ -53,8 +55,6 @@
       <item value="Target" />
       <item value="Target Picture" />
       <item value="Src" />
-      <item value="divide Line Width" />
-      <item value="STYLE NINE GRID" />
     </histories>
     <option name="languageScores">
       <map>
