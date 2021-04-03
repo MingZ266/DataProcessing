@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="&lt;!-- Don't delete the meta-data below. This is used by the Flutter tool to generate GeneratedPluginRegistrant.java --&gt;" />
       <item value="Support for developing Flutter applications. Flutter gives developers an easy and productive way to build and deploy cross-platform, high-performance mobile apps for both Android and iOS. Installing this plugin will also install the Dart plugin. For some tools, this plugin uses Chromium through JxBrowser to display content from the web. JxBrowser complies with LGPL and offers an option to replace Chromium with another component. To do this: Find the JxBrowser files stored in the plugins directory, under flutter-intellijjxbrowser. Use the instructions and build script from JxBrowser to relink it with modified components." />
       <item value="The Flutter plugin reports feature usage statistics and crash reports to Google in order to help Google contribute improvements to Flutter over time. See Google's privacy policy: www.google.compoliciesprivacy. Send usage statistics?" />
       <item value="these coefficients match those in libjpeg" />
@@ -54,12 +55,11 @@
       <item value="Picture Target" />
       <item value="Target" />
       <item value="Target Picture" />
-      <item value="Src" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1138" />
-        <entry key="ENGLISH" value="1139" />
+        <entry key="CHINESE" value="1139" />
+        <entry key="ENGLISH" value="1140" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
