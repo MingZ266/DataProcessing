@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Access denied finding property &quot;ro.hardware.chipname&quot;" />
+      <item value="type=1400 audit(0.0:566948): avc: denied { read } for pid=20187 name=&quot;u:object_r:vendor_default_prop:s0&quot; dev=&quot;tmpfs&quot; ino=16541 scontext=u:r:untrusted_app:s0:c178,c256,c512,c768 tcontext=u:object_r:vendor_default_prop:s0 tclass=file permissive=0" />
       <item value="This trailing comma makes auto-formatting nicer for build methods." />
       <item value="controller" />
       <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
@@ -53,13 +55,11 @@
       <item value="thickness" />
       <item value="INTERSECT" />
       <item value="Dashed" />
-      <item value="is Style Use Dashed" />
-      <item value="is Show Four Angle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1170" />
+        <entry key="ENGLISH" value="1171" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
