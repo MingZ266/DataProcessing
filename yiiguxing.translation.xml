@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="This trailing comma makes auto-formatting nicer for build methods." />
+      <item value="controller" />
+      <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
+      <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent. Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget. Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
       <item value="For information on the generic Dart part of this file, see the following page: https:dart.devtoolspubpubspec" />
       <item value="The following adds the Cupertino Icons font to your application. Use with the CupertinoIcons class for iOS style icons." />
       <item value="dev dependencies:" />
@@ -18,7 +22,6 @@
       <item value="FlatButton' is deprecated and shouldn't be used. Use TextButton instead. See the migration guide in flutter.devgomaterial-button-migration-guide). This feature was deprecated after v1.25.0-8.1.pre.. Try replacing the use of the deprecated member with the replacement. Open documentation" />
       <item value="Missing concrete implementation of 'StatelessWidget.build'. Try implementing the missing method, or make the class abstract. Open documentation" />
       <item value="Widget" />
-      <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent. Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget. Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
       <item value="Center is a layout widget. It takes a single child and positions it in the middle of the parent." />
       <item value="Here we take the value from the MyHomePage object that was created by the App.build method, and use it to set our appbar title." />
       <item value="This method is rerun every time setState is called, for instance as done by the _incrementCounter method above. The Flutter framework has been optimized to make rerunning build methods fast, so that you can just rebuild anything that needs updating rather than having to individually change instances of widgets." />
@@ -52,14 +55,11 @@
       <item value="Dashed" />
       <item value="is Style Use Dashed" />
       <item value="is Show Four Angle" />
-      <item value="get Cropping Result" />
-      <item value="compute Distance" />
-      <item value="compute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1163" />
-        <entry key="ENGLISH" value="1164" />
+        <entry key="CHINESE" value="1168" />
+        <entry key="ENGLISH" value="1169" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
