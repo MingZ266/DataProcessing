@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="widget Category" />
+      <item value="update Period Millis" />
+      <item value="resize Mode" />
+      <item value="initial Keyguard Layout" />
       <item value="notes Text" />
       <item value="note Text" />
       <item value="Instruct the widget manager to update the widget" />
@@ -51,15 +55,11 @@
       <item value="Remove this line if you wish to publish to pub.dev" />
       <item value="The following line prevents the package from being accidentally published to pub.dev using `pub publish`. This is preferred for private packages." />
       <item value="pub outdated" />
-      <item value="latest version" />
-      <item value="The parameter 'image' is required." />
-      <item value="city Name Title Addition" />
-      <item value="FlatButton' is deprecated and shouldn't be used. Use TextButton instead. See the migration guide in flutter.devgomaterial-button-migration-guide). This feature was deprecated after v1.25.0-8.1.pre.. Try replacing the use of the deprecated member with the replacement. Open documentation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1182" />
-        <entry key="ENGLISH" value="1183" />
+        <entry key="CHINESE" value="1186" />
+        <entry key="ENGLISH" value="1187" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
