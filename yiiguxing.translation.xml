@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="has extras" />
       <item value="Specify whether an activity should be kept in its history stack. If this attribute is set, then as soon as the user navigates away from the activity it will be finished and they will no longer be able to return to it." />
       <item value="Indicates that an Activity should be excluded from the list of recently launched activities." />
       <item value="Dispatch onStop() to all fragments." />
@@ -54,12 +55,11 @@
       <item value="controller" />
       <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
       <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent. Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget. Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
-      <item value="For information on the generic Dart part of this file, see the following page: https:dart.devtoolspubpubspec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1189" />
-        <entry key="ENGLISH" value="1190" />
+        <entry key="CHINESE" value="1190" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
