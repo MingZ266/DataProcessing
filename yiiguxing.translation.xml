@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="parents" />
       <item value="set Light Background Layout Id" />
       <item value="Unknown bits set in runtime_flags: 0x8000" />
       <item value="widget Category" />
@@ -54,12 +55,11 @@
       <item value="The following adds the Cupertino Icons font to your application. Use with the CupertinoIcons class for iOS style icons." />
       <item value="dev dependencies:" />
       <item value="The following defines the version and build number for your application. A version number is three numbers separated by dots, like 1.2.43 followed by an optional build number separated by a +. Both the version and the builder number may be overridden in flutter build by specifying --build-name and --build-number, respectively. In Android, build-name is used as versionName while build-number used as versionCode. Read more about Android versioning at https:developer.android.comstudiopublishversioning In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion. Read more about iOS versioning at https:developer.apple.comlibraryarchivedocumentationGeneralReferenceInfoPlistKeyReferenceArticlesCoreFoundationKeys.html" />
-      <item value="Remove this line if you wish to publish to pub.dev" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1188" />
-        <entry key="ENGLISH" value="1189" />
+        <entry key="CHINESE" value="1189" />
+        <entry key="ENGLISH" value="1190" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
