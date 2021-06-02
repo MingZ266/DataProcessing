@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="651" />
+    <option name="newTranslationDialogWidth" value="645" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Specify whether an activity should be kept in its history stack. If this attribute is set, then as soon as the user navigates away from the activity it will be finished and they will no longer be able to return to it." />
+      <item value="Indicates that an Activity should be excluded from the list of recently launched activities." />
+      <item value="Dispatch onStop() to all fragments." />
       <item value="parents" />
       <item value="set Light Background Layout Id" />
       <item value="Unknown bits set in runtime_flags: 0x8000" />
@@ -52,9 +55,6 @@
       <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
       <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent. Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget. Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
       <item value="For information on the generic Dart part of this file, see the following page: https:dart.devtoolspubpubspec" />
-      <item value="The following adds the Cupertino Icons font to your application. Use with the CupertinoIcons class for iOS style icons." />
-      <item value="dev dependencies:" />
-      <item value="The following defines the version and build number for your application. A version number is three numbers separated by dots, like 1.2.43 followed by an optional build number separated by a +. Both the version and the builder number may be overridden in flutter build by specifying --build-name and --build-number, respectively. In Android, build-name is used as versionName while build-number used as versionCode. Read more about Android versioning at https:developer.android.comstudiopublishversioning In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion. Read more about iOS versioning at https:developer.apple.comlibraryarchivedocumentationGeneralReferenceInfoPlistKeyReferenceArticlesCoreFoundationKeys.html" />
     </histories>
     <option name="languageScores">
       <map>
