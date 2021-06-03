@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="633" />
+    <option name="newTranslationDialogWidth" value="611" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Extra spacing between lines of text, as a multiplier. The value will not be applied for the last line of text." />
+      <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). }" />
+      <item value="marquee forever" />
+      <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
+      <item value="This attribute is ignored in API level 14 ({@link android.os.Build.VERSION_CODESICE_CREAM_SANDWICH}) and higher. Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the android:requiresFadingEdge attribute instead." />
+      <item value="When this attribute is set to true, the view gets its drawable state (focused, pressed, etc.) from its direct parent rather than from itself." />
+      <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
+      <item value="If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle. You will often also want to set scrollHorizontally or singleLine as well so that the text as a whole is also constrained to a single line instead of still allowed to be broken onto multiple lines." />
+      <item value="Unsupported App Usage" />
+      <item value="This custom view should extend androidx.appcompat.widget.AppCompatTextView instead" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
       <item value="Determines which side the vertical scroll bar should be placed on." />
@@ -45,21 +55,11 @@
       <item value="Liveness Prepare" />
       <item value="Offline Qr Code" />
       <item value="Assist" />
-      <item value="KL Refund" />
-      <item value="KL Wallet" />
-      <item value="Wallet" />
-      <item value="Bath Chose" />
-      <item value="Device Register" />
-      <item value="Consume" />
-      <item value="Water Device List" />
-      <item value="Search Brathe Device Activity" />
-      <item value="Splash" />
-      <item value="Unimplemented handling of missing static target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
-        <entry key="ENGLISH" value="1191" />
+        <entry key="CHINESE" value="1192" />
+        <entry key="ENGLISH" value="1193" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
