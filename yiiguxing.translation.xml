@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="601" />
+    <option name="newTranslationDialogWidth" value="593" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="The row boundary delimiting the top of the group of cells occupied by this view." />
+      <item value="The maximum number of columns to create when automatically positioning children." />
+      <item value="The row span: the difference between the top and bottom boundaries delimiting the group of cells occupied by this view. The default is one. See {@link android.widget.GridLayout.Spec}." />
+      <item value="The zero-based index of the columns to stretch. The column indices must be separated by a comma: 1, 2, 5. Illegal and duplicate indices are ignored. You can stretch all columns by using the value &quot;&quot; instead. Note that a column can be marked stretchable and shrinkable at the same time." />
       <item value="notes Example" />
       <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
       <item value="middle Size" />
@@ -51,10 +55,6 @@
       <item value="widget Category" />
       <item value="update Period Millis" />
       <item value="resize Mode" />
-      <item value="initial Keyguard Layout" />
-      <item value="notes Text" />
-      <item value="note Text" />
-      <item value="Instruct the widget manager to update the widget" />
     </histories>
     <option name="languageScores">
       <map>
