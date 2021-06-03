@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="605" />
+    <option name="newTranslationDialogWidth" value="603" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Switch statement on an int with known associated constant missing case LEVEL_HALF" />
       <item value="Alpha" />
       <item value="投米" />
       <item value="t" />
@@ -54,7 +55,6 @@
       <item value="Implementation of App Widget functionality." />
       <item value="EXAMPLE" />
       <item value="Simple plugin to easily compile Java &amp; Kotlin files to smali." />
-      <item value="Install missing platform and fix project" />
     </histories>
     <option name="languageScores">
       <map>
