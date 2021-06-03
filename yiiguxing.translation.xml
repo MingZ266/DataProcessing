@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="645" />
+    <option name="newTranslationDialogWidth" value="633" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
+      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
+      <item value="Determines which side the vertical scroll bar should be placed on." />
+      <item value="Defines the horizontal scrollbar track drawable." />
+      <item value="Defines the vertical scrollbar thumb drawable." />
+      <item value="Whether the text is allowed to be wider than the view (and therefore can be scrolled horizontally)." />
+      <item value="Defines which scrollbars should be displayed on scrolling or not." />
       <item value="Data Source" />
       <item value="has extras" />
       <item value="Specify whether an activity should be kept in its history stack. If this attribute is set, then as soon as the user navigates away from the activity it will be finished and they will no longer be able to return to it." />
@@ -48,13 +55,6 @@
       <item value="Search Brathe Device Activity" />
       <item value="Splash" />
       <item value="Unimplemented handling of missing static target" />
-      <item value="Dictionary loaded successfully" />
-      <item value="Interpreter loaded successfully" />
-      <item value="Access denied finding property &quot;ro.hardware.chipname&quot;" />
-      <item value="type=1400 audit(0.0:566948): avc: denied { read } for pid=20187 name=&quot;u:object_r:vendor_default_prop:s0&quot; dev=&quot;tmpfs&quot; ino=16541 scontext=u:r:untrusted_app:s0:c178,c256,c512,c768 tcontext=u:object_r:vendor_default_prop:s0 tclass=file permissive=0" />
-      <item value="This trailing comma makes auto-formatting nicer for build methods." />
-      <item value="controller" />
-      <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
     </histories>
     <option name="languageScores">
       <map>
