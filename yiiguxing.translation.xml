@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="603" />
+    <option name="newTranslationDialogWidth" value="601" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
+      <item value="middle Size" />
+      <item value="Brightness" />
       <item value="center" />
       <item value="HINT WORD" />
       <item value="Switch statement on an int with known associated constant missing case LEVEL_HALF" />
@@ -52,14 +55,11 @@
       <item value="note Text" />
       <item value="Instruct the widget manager to update the widget" />
       <item value="Construct the RemoteViews object" />
-      <item value="Enter relevant functionality for when the last widget is disabled" />
-      <item value="Enter relevant functionality for when the first widget is created" />
-      <item value="Implementation of App Widget functionality." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1200" />
+        <entry key="CHINESE" value="1201" />
+        <entry key="ENGLISH" value="1202" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
