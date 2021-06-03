@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="607" />
+    <option name="newTranslationDialogWidth" value="605" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Alpha" />
+      <item value="投米" />
+      <item value="t" />
+      <item value="柔软的" />
+      <item value="alpht" />
       <item value="Scale the image using {@link android.graphics.Matrix.ScaleToFitFILL}." />
       <item value="Widget Attr" />
       <item value="Attr" />
@@ -50,16 +55,11 @@
       <item value="EXAMPLE" />
       <item value="Simple plugin to easily compile Java &amp; Kotlin files to smali." />
       <item value="Install missing platform and fix project" />
-      <item value="App Settings Dialog Holder" />
-      <item value="Doc Open Demo" />
-      <item value="Push" />
-      <item value="Pop Win" />
-      <item value="Agree Article" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1196" />
-        <entry key="ENGLISH" value="1197" />
+        <entry key="CHINESE" value="1197" />
+        <entry key="ENGLISH" value="1198" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
