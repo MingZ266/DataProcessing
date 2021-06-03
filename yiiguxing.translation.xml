@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Widget Attr" />
+      <item value="Attr" />
       <item value="duration" />
       <item value="When true, automatically start animating." />
       <item value="flip Interval" />
@@ -53,13 +55,11 @@
       <item value="Pop Win" />
       <item value="Agree Article" />
       <item value="Call Us" />
-      <item value="Xuepay Create Card Nfc" />
-      <item value="Liveness" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
-        <entry key="ENGLISH" value="1195" />
+        <entry key="CHINESE" value="1196" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
