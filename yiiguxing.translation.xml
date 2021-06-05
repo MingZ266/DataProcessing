@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="file Parent" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="Set an input filter to constrain the text length to the specified number." />
       <item value="Can be combined with text and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputTypeTYPE_TEXT_FLAG_MULTI_LINE}. DesktopNotes.app" />
@@ -54,12 +55,11 @@
       <item value="Dispatch onStop() to all fragments." />
       <item value="parents" />
       <item value="set Light Background Layout Id" />
-      <item value="Unknown bits set in runtime_flags: 0x8000" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1202" />
-        <entry key="ENGLISH" value="1203" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1204" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
