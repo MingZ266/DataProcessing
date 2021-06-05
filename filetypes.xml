@@ -2,13 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="ogg" type="Native" />
       <mapping pattern="附加说明" type="PLAIN_TEXT" />
       <mapping pattern="DataCache" type="PLAIN_TEXT" />
       <mapping pattern="AAA" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="shaders_cache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
