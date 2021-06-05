@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="The directory D:\App\Dazzle-colour-weather is registered as a Git root, but no Git repositories were found there." />
       <item value="file Parent" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="Set an input filter to constrain the text length to the specified number." />
@@ -54,7 +55,6 @@
       <item value="Indicates that an Activity should be excluded from the list of recently launched activities." />
       <item value="Dispatch onStop() to all fragments." />
       <item value="parents" />
-      <item value="set Light Background Layout Id" />
     </histories>
     <option name="languageScores">
       <map>
