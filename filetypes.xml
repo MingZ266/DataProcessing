@@ -8,6 +8,7 @@
       <mapping pattern="附加说明" type="PLAIN_TEXT" />
       <mapping pattern="DataCache" type="PLAIN_TEXT" />
       <mapping pattern="AAA" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="shaders_cache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
