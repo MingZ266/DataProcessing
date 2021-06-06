@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="587" />
+    <option name="newTranslationDialogWidth" value="585" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Empty reply from server" />
       <item value="Declare that this application may use cleartext traffic, such as HTTP rather than HTTPS; WebSockets rather than WebSockets Secure; XMPP, IMAP, STMP without STARTTLS or TLS). Defaults to true. If set to false {@code false}, the application declares that it does not intend to use cleartext network traffic, in which case platform components (e.g. HTTP stacks, {@code DownloadManager}, {@code MediaPlayer}) will refuse applications's requests to use cleartext traffic. Third-party libraries are encouraged to honor this flag as well." />
       <item value="uses Cleartext Traffic" />
       <item value="The Keccak algorithm Github address is https:github.comaelstadkeccakj." />
@@ -54,7 +55,6 @@
       <item value="Defines the horizontal scrollbar track drawable." />
       <item value="Defines the vertical scrollbar thumb drawable." />
       <item value="Whether the text is allowed to be wider than the view (and therefore can be scrolled horizontally)." />
-      <item value="Defines which scrollbars should be displayed on scrolling or not." />
     </histories>
     <option name="languageScores">
       <map>
