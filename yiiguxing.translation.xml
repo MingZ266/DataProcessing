@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Area" />
       <item value="get Link" />
       <item value="Text that will be used as a URI. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_URI}." />
       <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
@@ -54,12 +55,11 @@
       <item value="Extra spacing between lines of text, as a multiplier. The value will not be applied for the last line of text." />
       <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). }" />
       <item value="marquee forever" />
-      <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1210" />
-        <entry key="ENGLISH" value="1211" />
+        <entry key="CHINESE" value="1211" />
+        <entry key="ENGLISH" value="1212" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
