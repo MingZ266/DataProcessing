@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="get Link" />
       <item value="Text that will be used as a URI. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_URI}." />
       <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
       <item value="No virtual method getInsetsController()LandroidviewWindowInsetsController; in class LandroidviewWindow; or its super classes (declaration of 'android.view.Window' appears in systemframeworkframework.jar!classes3.dex)" />
@@ -54,12 +55,11 @@
       <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). }" />
       <item value="marquee forever" />
       <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled." />
-      <item value="This attribute is ignored in API level 14 ({@link android.os.Build.VERSION_CODESICE_CREAM_SANDWICH}) and higher. Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the android:requiresFadingEdge attribute instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1209" />
-        <entry key="ENGLISH" value="1210" />
+        <entry key="CHINESE" value="1210" />
+        <entry key="ENGLISH" value="1211" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
