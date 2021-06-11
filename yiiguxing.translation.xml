@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="presenter" />
+      <item value="explain" />
       <item value="Whether to allow the application to participate in the backup and restore infrastructure. If this attribute is set to false, no backup or restore of the application will ever be performed, even by a full-system backup that would otherwise cause all application data to be saved via adb. The default value of this attribute is true." />
       <item value="Declare that your application will be able to deal with RTL (right to left) layouts. The default value is false." />
       <item value="theme" />
@@ -53,8 +55,6 @@
       <item value="If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle. You will often also want to set scrollHorizontally or singleLine as well so that the text as a whole is also constrained to a single line instead of still allowed to be broken onto multiple lines." />
       <item value="Unsupported App Usage" />
       <item value="This custom view should extend androidx.appcompat.widget.AppCompatTextView instead" />
-      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
-      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
     </histories>
     <option name="languageScores">
       <map>
