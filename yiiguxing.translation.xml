@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Can't toast on a thread that has not called Looper.prepare()" />
+      <item value="request Exception" />
       <item value="MVP Framework" />
       <item value="Area" />
       <item value="get Link" />
@@ -53,13 +55,11 @@
       <item value="duration" />
       <item value="When true, automatically start animating." />
       <item value="flip Interval" />
-      <item value="Extra spacing between lines of text, as a multiplier. The value will not be applied for the last line of text." />
-      <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1212" />
-        <entry key="ENGLISH" value="1213" />
+        <entry key="CHINESE" value="1214" />
+        <entry key="ENGLISH" value="1215" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
