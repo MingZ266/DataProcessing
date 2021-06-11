@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="585" />
+    <option name="newTranslationDialogWidth" value="577" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Whether to allow the application to participate in the backup and restore infrastructure. If this attribute is set to false, no backup or restore of the application will ever be performed, even by a full-system backup that would otherwise cause all application data to be saved via adb. The default value of this attribute is true." />
+      <item value="Declare that your application will be able to deal with RTL (right to left) layouts. The default value is false." />
+      <item value="theme" />
+      <item value="window Translucent Status" />
       <item value="Empty reply from server" />
       <item value="Declare that this application may use cleartext traffic, such as HTTP rather than HTTPS; WebSockets rather than WebSockets Secure; XMPP, IMAP, STMP without STARTTLS or TLS). Defaults to true. If set to false {@code false}, the application declares that it does not intend to use cleartext network traffic, in which case platform components (e.g. HTTP stacks, {@code DownloadManager}, {@code MediaPlayer}) will refuse applications's requests to use cleartext traffic. Third-party libraries are encouraged to honor this flag as well." />
       <item value="uses Cleartext Traffic" />
@@ -51,15 +55,11 @@
       <item value="This custom view should extend androidx.appcompat.widget.AppCompatTextView instead" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
-      <item value="Determines which side the vertical scroll bar should be placed on." />
-      <item value="Defines the horizontal scrollbar track drawable." />
-      <item value="Defines the vertical scrollbar thumb drawable." />
-      <item value="Whether the text is allowed to be wider than the view (and therefore can be scrolled horizontally)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1205" />
-        <entry key="ENGLISH" value="1206" />
+        <entry key="CHINESE" value="1207" />
+        <entry key="ENGLISH" value="1208" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622555635439" />
+    <option name="lastTrimTime" value="1623394115571" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -89,6 +89,7 @@
       </app-key>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
