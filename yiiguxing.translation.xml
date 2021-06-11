@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="比拟" />
       <item value="presenter" />
       <item value="explain" />
       <item value="Whether to allow the application to participate in the backup and restore infrastructure. If this attribute is set to false, no backup or restore of the application will ever be performed, even by a full-system backup that would otherwise cause all application data to be saved via adb. The default value of this attribute is true." />
@@ -54,11 +55,10 @@
       <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
       <item value="If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle. You will often also want to set scrollHorizontally or singleLine as well so that the text as a whole is also constrained to a single line instead of still allowed to be broken onto multiple lines." />
       <item value="Unsupported App Usage" />
-      <item value="This custom view should extend androidx.appcompat.widget.AppCompatTextView instead" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
+        <entry key="CHINESE" value="1208" />
         <entry key="ENGLISH" value="1208" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
