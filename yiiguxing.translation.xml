@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="575" />
+    <option name="newTranslationDialogWidth" value="573" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="There is no content type. The text is not editable." />
+      <item value="Defines whether this view reacts to long click events." />
+      <item value="Indicates that the content of a non-editable text can be selected" />
       <item value="Can't toast on a thread that has not called Looper.prepare()" />
       <item value="request Exception" />
       <item value="MVP Framework" />
@@ -52,9 +55,6 @@
       <item value="Scale the image using {@link android.graphics.Matrix.ScaleToFitFILL}." />
       <item value="Widget Attr" />
       <item value="Attr" />
-      <item value="duration" />
-      <item value="When true, automatically start animating." />
-      <item value="flip Interval" />
     </histories>
     <option name="languageScores">
       <map>
