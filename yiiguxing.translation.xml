@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="569" />
+    <option name="newTranslationDialogWidth" value="565" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
+      <item value="Preferred padding for dialog content." />
       <item value="The animation plays backward." />
       <item value="Sets the state-based animator for the View." />
       <item value="There is no content type. The text is not editable." />
@@ -53,8 +55,6 @@
       <item value="投米" />
       <item value="t" />
       <item value="柔软的" />
-      <item value="alpht" />
-      <item value="Scale the image using {@link android.graphics.Matrix.ScaleToFitFILL}." />
     </histories>
     <option name="languageScores">
       <map>
@@ -89,7 +89,6 @@
       </app-key>
     </option>
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
