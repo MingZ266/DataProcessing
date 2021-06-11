@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="No virtual method getInsetsController()LandroidviewWindowInsetsController; in class LandroidviewWindow; or its super classes (declaration of 'android.view.Window' appears in systemframeworkframework.jar!classes3.dex)" />
+      <item value="No virtual method getWindowInsetsController" />
       <item value="比拟" />
       <item value="presenter" />
       <item value="explain" />
@@ -53,13 +55,11 @@
       <item value="This attribute is ignored in API level 14 ({@link android.os.Build.VERSION_CODESICE_CREAM_SANDWICH}) and higher. Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the android:requiresFadingEdge attribute instead." />
       <item value="When this attribute is set to true, the view gets its drawable state (focused, pressed, etc.) from its direct parent rather than from itself." />
       <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true." />
-      <item value="If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle. You will often also want to set scrollHorizontally or singleLine as well so that the text as a whole is also constrained to a single line instead of still allowed to be broken onto multiple lines." />
-      <item value="Unsupported App Usage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1208" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="CHINESE" value="1209" />
+        <entry key="ENGLISH" value="1210" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
