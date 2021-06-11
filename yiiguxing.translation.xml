@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="cancel" />
       <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
       <item value="Preferred padding for dialog content." />
       <item value="The animation plays backward." />
@@ -54,7 +55,6 @@
       <item value="Alpha" />
       <item value="投米" />
       <item value="t" />
-      <item value="柔软的" />
     </histories>
     <option name="languageScores">
       <map>
@@ -89,6 +89,7 @@
       </app-key>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
