@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="565" />
+    <option name="newTranslationDialogWidth" value="563" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Would like to have the screen in a landscape orientation: that is, with the display wider than it is tall, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_LANDSCAPE}." />
       <item value="cancel" />
       <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
       <item value="Preferred padding for dialog content." />
@@ -54,7 +55,6 @@
       <item value="Switch statement on an int with known associated constant missing case LEVEL_HALF" />
       <item value="Alpha" />
       <item value="投米" />
-      <item value="t" />
     </histories>
     <option name="languageScores">
       <map>
