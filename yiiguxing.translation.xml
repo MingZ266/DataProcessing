@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="init Crash Report" />
       <item value="Rename parameter arguments, choose names that match" />
       <item value="Use Compat Loading For Drawables" />
       <item value="HG Scan Manager" />
@@ -54,12 +55,11 @@
       <item value="The row span: the difference between the top and bottom boundaries delimiting the group of cells occupied by this view. The default is one. See {@link android.widget.GridLayout.Spec}." />
       <item value="The zero-based index of the columns to stretch. The column indices must be separated by a comma: 1, 2, 5. Illegal and duplicate indices are ignored. You can stretch all columns by using the value &quot;&quot; instead. Note that a column can be marked stretchable and shrinkable at the same time." />
       <item value="notes Example" />
-      <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1220" />
+        <entry key="ENGLISH" value="1221" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -88,7 +88,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
