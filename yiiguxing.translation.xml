@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="utils" />
+      <item value="util" />
       <item value="Register a BroadcastReceiver to be run in the main activity thread. The receiver will be called with any broadcast Intent that matches filter, in the main application thread. The system may broadcast Intents that are &quot;sticky&quot; -- these stay around after the broadcast has finished, to be sent to any later registrations. If your IntentFilter matches one of these sticky Intents, that Intent will be returned by this function and sent to your receiver as if it had just been broadcast. There may be multiple sticky Intents that match filter, in which case each of these will be sent to receiver. In this case, only one of these can be returned directly by the function; which of these that is returned is arbitrarily decided by the system. If you know the Intent your are registering for is sticky, you can supply null for your receiver. In this case, no receiver is registered -- the function simply returns the sticky Intent that matches filter. In the case of multiple matches, the same rules as described above apply. See BroadcastReceiver for more information on Intent broadcasts. As of Build.VERSION_CODES.ICE_CREAM_SANDWICH, receivers registered with this method will correctly respect the Intent.setPackage(String) specified for an Intent being broadcast. Prior to that, it would be ignored and delivered to all matching registered receivers. Be careful if using this for security. Note: this method cannot be called from a BroadcastReceiver component; that is, from a BroadcastReceiver that is declared in an application's manifest. It is okay, however, to call this method from another BroadcastReceiver that has itself been registered at run time with registerReceiver, since the lifetime of such a registered BroadcastReceiver is tied to the object that registered it." />
       <item value="operation" />
       <item value="Marks the JVM backing field of the annotated property as volatile, meaning that writes to this field are immediately made visible to other threads." />
@@ -53,13 +55,11 @@
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="Set an input filter to constrain the text length to the specified number." />
       <item value="Can be combined with text and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputTypeTYPE_TEXT_FLAG_MULTI_LINE}. DesktopNotes.app" />
-      <item value="The row boundary delimiting the top of the group of cells occupied by this view." />
-      <item value="The maximum number of columns to create when automatically positioning children." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1221" />
-        <entry key="ENGLISH" value="1222" />
+        <entry key="CHINESE" value="1222" />
+        <entry key="ENGLISH" value="1223" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
@@ -88,7 +88,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
