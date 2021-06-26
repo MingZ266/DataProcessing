@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="563" />
+    <option name="newTranslationDialogWidth" value="561" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="HG Scan Manager" />
+      <item value="The expression is unused" />
+      <item value="Subscribes to the current Observable and provides callbacks to handle the items it emits and any error notification it signals. Scheduler: subscribe does not operate by default on a particular Scheduler. Parameters: onNext - the Consumer&lt;T&gt; you have designed to accept emissions from the current Observable onError - the Consumer&lt;Throwable&gt; you have designed to accept any error notification from the current Observable Returns: the new Disposable instance that can be used to dispose the subscription at any time" />
+      <item value="Android Schedulers" />
+      <item value="Constant" />
       <item value="Would like to have the screen in a landscape orientation: that is, with the display wider than it is tall, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_LANDSCAPE}." />
       <item value="cancel" />
       <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
@@ -50,16 +55,11 @@
       <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
       <item value="middle Size" />
       <item value="Brightness" />
-      <item value="center" />
-      <item value="HINT WORD" />
-      <item value="Switch statement on an int with known associated constant missing case LEVEL_HALF" />
-      <item value="Alpha" />
-      <item value="投米" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1214" />
-        <entry key="ENGLISH" value="1215" />
+        <entry key="CHINESE" value="1217" />
+        <entry key="ENGLISH" value="1218" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
