@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="543" />
+    <option name="newTranslationDialogWidth" value="541" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="RESULT UNCHANGED SHOWN" />
+      <item value="Suspicious cast to InputMethodService for a INPUT_SERVICE: expected InputManager" />
       <item value="This can only happen during construction." />
       <item value="un onQueryTextChange(newText: String?): Boolean defined in com.mingz.frameworkkotlin.mvp.view.impl.MvpMainActivity.myListener.&lt;no name provided&gt; 重写以下类接口中的声明： [Java] interface OnQueryTextListener 是否要 find usages of 基类声明？" />
       <item value="Interface MvpMainPresenter does not have constructors" />
@@ -53,13 +55,11 @@
       <item value="Text that will be used as a URI. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_URI}." />
       <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
       <item value="No virtual method getInsetsController()LandroidviewWindowInsetsController; in class LandroidviewWindow; or its super classes (declaration of 'android.view.Window' appears in systemframeworkframework.jar!classes3.dex)" />
-      <item value="No virtual method getWindowInsetsController" />
-      <item value="比拟" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1229" />
-        <entry key="ENGLISH" value="1230" />
+        <entry key="CHINESE" value="1230" />
+        <entry key="ENGLISH" value="1231" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
