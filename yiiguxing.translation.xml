@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="545" />
+    <option name="newTranslationDialogWidth" value="543" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="un onQueryTextChange(newText: String?): Boolean defined in com.mingz.frameworkkotlin.mvp.view.impl.MvpMainActivity.myListener.&lt;no name provided&gt; 重写以下类接口中的声明： [Java] interface OnQueryTextListener 是否要 find usages of 基类声明？" />
       <item value="Interface MvpMainPresenter does not have constructors" />
       <item value="There's a cycle in the inheritance hierarchy for this type" />
       <item value="Modifier 'open' is redundant for 'interface'" />
@@ -54,7 +55,6 @@
       <item value="No virtual method getWindowInsetsController" />
       <item value="比拟" />
       <item value="presenter" />
-      <item value="explain" />
     </histories>
     <option name="languageScores">
       <map>
