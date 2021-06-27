@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="535" />
+    <option name="newTranslationDialogWidth" value="533" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="String Builder" />
+      <item value="Multiple vararg-parameters are prohibited" />
       <item value="String literal in setText can not be translated. Use Android resources instead." />
       <item value="result Area" />
       <item value="get Address" />
@@ -53,13 +55,11 @@
       <item value="There is no content type. The text is not editable." />
       <item value="Defines whether this view reacts to long click events." />
       <item value="Indicates that the content of a non-editable text can be selected" />
-      <item value="Can't toast on a thread that has not called Looper.prepare()" />
-      <item value="request Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1233" />
-        <entry key="ENGLISH" value="1234" />
+        <entry key="CHINESE" value="1234" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
