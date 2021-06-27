@@ -1,0 +1,8 @@
+<templateSet group="MyTemplate">
+  <template name="fii" value="$VAR$ = findViewById(R.id.$VAR$)&#10;$END$" description="快速使用findViewById" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
