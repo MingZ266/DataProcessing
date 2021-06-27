@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="This can only happen during construction." />
       <item value="un onQueryTextChange(newText: String?): Boolean defined in com.mingz.frameworkkotlin.mvp.view.impl.MvpMainActivity.myListener.&lt;no name provided&gt; 重写以下类接口中的声明： [Java] interface OnQueryTextListener 是否要 find usages of 基类声明？" />
       <item value="Interface MvpMainPresenter does not have constructors" />
       <item value="There's a cycle in the inheritance hierarchy for this type" />
@@ -54,12 +55,11 @@
       <item value="No virtual method getInsetsController()LandroidviewWindowInsetsController; in class LandroidviewWindow; or its super classes (declaration of 'android.view.Window' appears in systemframeworkframework.jar!classes3.dex)" />
       <item value="No virtual method getWindowInsetsController" />
       <item value="比拟" />
-      <item value="presenter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1229" />
-        <entry key="ENGLISH" value="1229" />
+        <entry key="ENGLISH" value="1230" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
