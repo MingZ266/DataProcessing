@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="537" />
+    <option name="newTranslationDialogWidth" value="535" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="String literal in setText can not be translated. Use Android resources instead." />
       <item value="result Area" />
       <item value="get Address" />
       <item value="No address associated with hostname" />
@@ -54,7 +55,6 @@
       <item value="Indicates that the content of a non-editable text can be selected" />
       <item value="Can't toast on a thread that has not called Looper.prepare()" />
       <item value="request Exception" />
-      <item value="MVP Framework" />
     </histories>
     <option name="languageScores">
       <map>
