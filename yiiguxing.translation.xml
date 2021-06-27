@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="553" />
+    <option name="newTranslationDialogWidth" value="547" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="There's a cycle in the inheritance hierarchy for this type" />
+      <item value="Modifier 'open' is redundant for 'interface'" />
+      <item value="entiy" />
       <item value="City Info" />
       <item value="hidden value" />
       <item value="hidden" />
@@ -52,16 +55,14 @@
       <item value="presenter" />
       <item value="explain" />
       <item value="Whether to allow the application to participate in the backup and restore infrastructure. If this attribute is set to false, no backup or restore of the application will ever be performed, even by a full-system backup that would otherwise cause all application data to be saved via adb. The default value of this attribute is true." />
-      <item value="Declare that your application will be able to deal with RTL (right to left) layouts. The default value is false." />
-      <item value="theme" />
-      <item value="window Translucent Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
+        <entry key="CHINESE" value="1229" />
         <entry key="ENGLISH" value="1229" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="1" />
