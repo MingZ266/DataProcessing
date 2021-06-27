@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="City Info" />
       <item value="hidden value" />
       <item value="hidden" />
       <item value="隐藏资源" />
@@ -54,7 +55,6 @@
       <item value="Declare that your application will be able to deal with RTL (right to left) layouts. The default value is false." />
       <item value="theme" />
       <item value="window Translucent Status" />
-      <item value="Empty reply from server" />
     </histories>
     <option name="languageScores">
       <map>
