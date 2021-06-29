@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="525" />
+    <option name="newTranslationDialogWidth" value="519" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Drawable used to indicate the currently selected item in the list." />
+      <item value="Sets the state-based animator for the View." />
+      <item value="This attribute is ignored in API level 14 ({@link android.os.Build.VERSION_CODESICE_CREAM_SANDWICH}) and higher. Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the android:requiresFadingEdge attribute instead." />
       <item value="Expression 'ArrayList&lt;ButtonAttr&gt;' of type 'kotlin.collections.ArrayList&lt;MainActivity.ButtonAttr&gt; = java.util.ArrayList&lt;MainActivity.ButtonAttr&gt; ' cannot be invoked as a function. The function 'invoke()' is not found" />
       <item value="Property delegate must have a 'getValue(MainActivity.ButtonListAdapter, KProperty&gt;)' method. None of the following functions are suitable." />
       <item value="Val cannot be reassigned" />
@@ -52,9 +55,6 @@
       <item value="Subscribes to the current Observable and provides callbacks to handle the items it emits and any error notification it signals. Scheduler: subscribe does not operate by default on a particular Scheduler. Parameters: onNext - the Consumer&lt;T&gt; you have designed to accept emissions from the current Observable onError - the Consumer&lt;Throwable&gt; you have designed to accept any error notification from the current Observable Returns: the new Disposable instance that can be used to dispose the subscription at any time" />
       <item value="Android Schedulers" />
       <item value="Constant" />
-      <item value="Would like to have the screen in a landscape orientation: that is, with the display wider than it is tall, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_LANDSCAPE}." />
-      <item value="cancel" />
-      <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
     </histories>
     <option name="languageScores">
       <map>
