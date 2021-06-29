@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="529" />
+    <option name="newTranslationDialogWidth" value="527" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Property delegate must have a 'getValue(MainActivity.ButtonListAdapter, KProperty&gt;)' method. None of the following functions are suitable." />
+      <item value="Val cannot be reassigned" />
       <item value="This type has a constructor, and thus must be initialized here" />
       <item value="Modifier 'private' is not applicable to 'local class'" />
       <item value="Drawable or color to draw between list items." />
@@ -53,8 +55,6 @@
       <item value="cancel" />
       <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
       <item value="Preferred padding for dialog content." />
-      <item value="The animation plays backward." />
-      <item value="Sets the state-based animator for the View." />
     </histories>
     <option name="languageScores">
       <map>
