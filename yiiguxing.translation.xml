@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="527" />
+    <option name="newTranslationDialogWidth" value="525" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Expression 'ArrayList&lt;ButtonAttr&gt;' of type 'kotlin.collections.ArrayList&lt;MainActivity.ButtonAttr&gt; = java.util.ArrayList&lt;MainActivity.ButtonAttr&gt; ' cannot be invoked as a function. The function 'invoke()' is not found" />
       <item value="Property delegate must have a 'getValue(MainActivity.ButtonListAdapter, KProperty&gt;)' method. None of the following functions are suitable." />
       <item value="Val cannot be reassigned" />
       <item value="This type has a constructor, and thus must be initialized here" />
@@ -54,7 +55,6 @@
       <item value="Would like to have the screen in a landscape orientation: that is, with the display wider than it is tall, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_LANDSCAPE}." />
       <item value="cancel" />
       <item value="Makes the TextView be exactly this wide. You could get the same effect by specifying this number in the layout parameters." />
-      <item value="Preferred padding for dialog content." />
     </histories>
     <option name="languageScores">
       <map>
