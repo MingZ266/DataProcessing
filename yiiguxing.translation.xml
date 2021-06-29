@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="531" />
+    <option name="newTranslationDialogWidth" value="529" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="This type has a constructor, and thus must be initialized here" />
+      <item value="Modifier 'private' is not applicable to 'local class'" />
       <item value="Drawable or color to draw between list items." />
       <item value="String Builder" />
       <item value="Multiple vararg-parameters are prohibited" />
@@ -53,8 +55,6 @@
       <item value="Preferred padding for dialog content." />
       <item value="The animation plays backward." />
       <item value="Sets the state-based animator for the View." />
-      <item value="There is no content type. The text is not editable." />
-      <item value="Defines whether this view reacts to long click events." />
     </histories>
     <option name="languageScores">
       <map>
