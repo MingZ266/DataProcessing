@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="517" />
+    <option name="newTranslationDialogWidth" value="515" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Can be joined with assignment" />
       <item value="lifecycle Scope" />
       <item value="Placeholder" />
       <item value="Edit Text Dialog Builder" />
@@ -54,7 +55,6 @@
       <item value="Marks the JVM backing field of the annotated property as volatile, meaning that writes to this field are immediately made visible to other threads." />
       <item value="init Crash Report" />
       <item value="Rename parameter arguments, choose names that match" />
-      <item value="Use Compat Loading For Drawables" />
     </histories>
     <option name="languageScores">
       <map>
