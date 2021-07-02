@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="barcode State" />
       <item value="Can be joined with assignment" />
       <item value="lifecycle Scope" />
       <item value="Placeholder" />
@@ -54,12 +55,11 @@
       <item value="operation" />
       <item value="Marks the JVM backing field of the annotated property as volatile, meaning that writes to this field are immediately made visible to other threads." />
       <item value="init Crash Report" />
-      <item value="Rename parameter arguments, choose names that match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
-        <entry key="ENGLISH" value="1239" />
+        <entry key="CHINESE" value="1239" />
+        <entry key="ENGLISH" value="1240" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
