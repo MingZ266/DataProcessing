@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="lifecycle Scope" />
       <item value="Placeholder" />
       <item value="Edit Text Dialog Builder" />
       <item value="The corresponding parameter in the supertype 'DialogOnClickListener' is named 'bitmap'. This may cause problems when calling this function with named arguments." />
@@ -54,12 +55,11 @@
       <item value="init Crash Report" />
       <item value="Rename parameter arguments, choose names that match" />
       <item value="Use Compat Loading For Drawables" />
-      <item value="HG Scan Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1237" />
-        <entry key="ENGLISH" value="1238" />
+        <entry key="CHINESE" value="1238" />
+        <entry key="ENGLISH" value="1239" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
