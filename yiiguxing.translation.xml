@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="515" />
+    <option name="newTranslationDialogWidth" value="507" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
+      <item value="lateinit' modifier is not allowed on properties of nullable types" />
+      <item value="Property must be initialized or be abstract" />
+      <item value="Type 'String' has no method 'getValue(ExampleView, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
       <item value="remove blank page" />
       <item value="Pack" />
       <item value="interval num" />
@@ -51,10 +55,6 @@
       <item value="hide" />
       <item value="隐秘的" />
       <item value="Sensitive" />
-      <item value="敏感信息" />
-      <item value="敏感" />
-      <item value="SystemUiVisibility flags are deprecated. Use WindowInsetsController instead." />
-      <item value="Parameter 'TAG' is uninitialized here" />
     </histories>
     <option name="languageScores">
       <map>
