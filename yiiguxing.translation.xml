@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="503" />
+    <option name="newTranslationDialogWidth" value="501" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="The label '@changeSize' does not denote a loop" />
+      <item value="Label is redundant, because it can not be referenced in either ''break'', ''continue'', or ''return'' expression" />
       <item value="drawable" />
       <item value="drawable Grid" />
       <item value="Null can not be a value of a non-null type (Int) -&gt; TypeVariable(T)" />
@@ -53,8 +55,6 @@
       <item value="This can only happen during construction." />
       <item value="un onQueryTextChange(newText: String?): Boolean defined in com.mingz.frameworkkotlin.mvp.view.impl.MvpMainActivity.myListener.&lt;no name provided&gt; 重写以下类接口中的声明： [Java] interface OnQueryTextListener 是否要 find usages of 基类声明？" />
       <item value="Interface MvpMainPresenter does not have constructors" />
-      <item value="There's a cycle in the inheritance hierarchy for this type" />
-      <item value="Modifier 'open' is redundant for 'interface'" />
     </histories>
     <option name="languageScores">
       <map>
