@@ -5,4 +5,13 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="fiiv!" value="$var0$.$var1$ = $view$!!.findViewById(R.id.$var1$)&#10;$end$" description="从view中获取组件赋值于ViewHolder" toReformat="false" toShortenFQNames="true">
+    <variable name="var0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
