@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="None of the following functions can be called with the arguments supplied." />
       <item value="nine Patch Chunk" />
       <item value="The label '@changeSize' does not denote a loop" />
       <item value="Label is redundant, because it can not be referenced in either ''break'', ''continue'', or ''return'' expression" />
@@ -54,7 +55,6 @@
       <item value="RESULT UNCHANGED SHOWN" />
       <item value="Suspicious cast to InputMethodService for a INPUT_SERVICE: expected InputManager" />
       <item value="This can only happen during construction." />
-      <item value="un onQueryTextChange(newText: String?): Boolean defined in com.mingz.frameworkkotlin.mvp.view.impl.MvpMainActivity.myListener.&lt;no name provided&gt; 重写以下类接口中的声明： [Java] interface OnQueryTextListener 是否要 find usages of 基类声明？" />
     </histories>
     <option name="languageScores">
       <map>
