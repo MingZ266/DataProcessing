@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="501" />
+    <option name="newTranslationDialogWidth" value="499" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Do not hardcode &quot;sdcard&quot;; use Environment.getExternalStorageDirectory().getPath() instead" />
       <item value="None of the following functions can be called with the arguments supplied." />
       <item value="nine Patch Chunk" />
       <item value="The label '@changeSize' does not denote a loop" />
@@ -54,7 +55,6 @@
       <item value="Smart cast to 'AlertDialog' is impossible, because 'waitDialog' is a mutable property that could have been changed by this time" />
       <item value="RESULT UNCHANGED SHOWN" />
       <item value="Suspicious cast to InputMethodService for a INPUT_SERVICE: expected InputManager" />
-      <item value="This can only happen during construction." />
     </histories>
     <option name="languageScores">
       <map>
