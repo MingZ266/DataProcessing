@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="screen Status IF" />
       <item value="Buttons in button bars should be borderless; use style=&quot;?android:attrbuttonBarButtonStyle&quot; (and ?android:attrbuttonBarStyle on the parent)" />
       <item value="Do not hardcode &quot;sdcard&quot;; use Environment.getExternalStorageDirectory().getPath() instead" />
       <item value="None of the following functions can be called with the arguments supplied." />
@@ -54,12 +55,11 @@
       <item value="No address associated with hostname" />
       <item value="A methodconstructor annotated with TestOnly claims that it should be called from testing code only. Apart from documentation purposes this annotation is intended to be used by static analysis tools to validate against element contract violations." />
       <item value="Smart cast to 'AlertDialog' is impossible, because 'waitDialog' is a mutable property that could have been changed by this time" />
-      <item value="RESULT UNCHANGED SHOWN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1253" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1254" />
+        <entry key="ENGLISH" value="1255" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
