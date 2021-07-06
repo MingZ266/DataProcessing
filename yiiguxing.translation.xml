@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="495" />
+    <option name="newTranslationDialogWidth" value="493" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Convert to primary constructor" />
       <item value="Gray Scale" />
       <item value="Type mismatch. Required: HGScanManager Found: IHGSanManager!" />
       <item value="screen Status IF" />
@@ -54,7 +55,6 @@
       <item value="String literal in setText can not be translated. Use Android resources instead." />
       <item value="result Area" />
       <item value="get Address" />
-      <item value="No address associated with hostname" />
     </histories>
     <option name="languageScores">
       <map>
