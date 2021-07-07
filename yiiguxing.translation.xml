@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="491" />
+    <option name="newTranslationDialogWidth" value="483" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Callback method, called after OpenCV library initialization." />
+      <item value="Request new service installation" />
+      <item value="Callback method, called in case the package installation is needed." />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="No implementation found for long org.opencv.wechat_qrcode.WeChatQRCode.WeChatQRCode_0" />
       <item value="Convert to primary constructor" />
@@ -52,14 +55,11 @@
       <item value="This type has a constructor, and thus must be initialized here" />
       <item value="Modifier 'private' is not applicable to 'local class'" />
       <item value="Drawable or color to draw between list items." />
-      <item value="String Builder" />
-      <item value="Multiple vararg-parameters are prohibited" />
-      <item value="String literal in setText can not be translated. Use Android resources instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1256" />
-        <entry key="ENGLISH" value="1257" />
+        <entry key="CHINESE" value="1257" />
+        <entry key="ENGLISH" value="1258" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
