@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="493" />
+    <option name="newTranslationDialogWidth" value="491" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="No implementation found for long org.opencv.wechat_qrcode.WeChatQRCode.WeChatQRCode_0" />
       <item value="Convert to primary constructor" />
       <item value="Gray Scale" />
@@ -54,7 +55,6 @@
       <item value="String Builder" />
       <item value="Multiple vararg-parameters are prohibited" />
       <item value="String literal in setText can not be translated. Use Android resources instead." />
-      <item value="result Area" />
     </histories>
     <option name="languageScores">
       <map>
