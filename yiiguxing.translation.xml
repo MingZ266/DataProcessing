@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="CMake can not determine linker language for target: empty.cpp" />
+      <item value="You have called ADD_LIBRARY for library empty.cpp without any source files. This typically indicates a problem with your CMakeLists.txt file" />
+      <item value="CC++ debug|x86 : Failed to compute build system." />
+      <item value="CMake can not determine linker language for target" />
+      <item value="No signature of method:" />
+      <item value="dummy target to bring libc++_shared.so into packages" />
       <item value="PLATFORM" />
       <item value="Unable to strip the following libraries, packaging them as they are: libopencv_java4.so." />
       <item value="Callback method, called after OpenCV library initialization." />
@@ -49,17 +55,11 @@
       <item value="The corresponding parameter in the supertype 'DialogOnClickListener' is named 'bitmap'. This may cause problems when calling this function with named arguments." />
       <item value="direction" />
       <item value="Drawable used to indicate the currently selected item in the list." />
-      <item value="Sets the state-based animator for the View." />
-      <item value="This attribute is ignored in API level 14 ({@link android.os.Build.VERSION_CODESICE_CREAM_SANDWICH}) and higher. Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the android:requiresFadingEdge attribute instead." />
-      <item value="Expression 'ArrayList&lt;ButtonAttr&gt;' of type 'kotlin.collections.ArrayList&lt;MainActivity.ButtonAttr&gt; = java.util.ArrayList&lt;MainActivity.ButtonAttr&gt; ' cannot be invoked as a function. The function 'invoke()' is not found" />
-      <item value="Property delegate must have a 'getValue(MainActivity.ButtonListAdapter, KProperty&gt;)' method. None of the following functions are suitable." />
-      <item value="Val cannot be reassigned" />
-      <item value="This type has a constructor, and thus must be initialized here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1259" />
-        <entry key="ENGLISH" value="1260" />
+        <entry key="CHINESE" value="1265" />
+        <entry key="ENGLISH" value="1266" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
