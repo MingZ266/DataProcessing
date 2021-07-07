@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="end Scan" />
       <item value="scan Fail" />
       <item value="start Scan Listener" />
       <item value="monitor Scan" />
@@ -54,12 +55,11 @@
       <item value="barcode State" />
       <item value="Can be joined with assignment" />
       <item value="lifecycle Scope" />
-      <item value="Placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1269" />
-        <entry key="ENGLISH" value="1270" />
+        <entry key="CHINESE" value="1270" />
+        <entry key="ENGLISH" value="1271" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
