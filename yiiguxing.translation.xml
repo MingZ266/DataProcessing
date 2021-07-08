@@ -1,15 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="475" />
+    <option name="newTranslationDialogWidth" value="465" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Entry name 'classes.dex' collided" />
+      <item value="A failure occurred while executing com.android.build.gradle.tasks.PackageAndroidArtifactIncrementalSplitterRunnable" />
+      <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
+      <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}" />
+      <item value="window Draws System Bar Backgrounds" />
+      <item value="The color for the status bar. If the color is not opaque, consider setting {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_FULLSCREEN}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to {@link android.view.WindowsetStatusBarColor(int)}." />
+      <item value="The drawable to use as a scrim for the status bar content when the CollapsingToolbarLayout has been scrolled sufficiently off screen. Only works on Lollipop when used together with android:fitSystemWindows=&quot;true&quot;." />
+      <item value="Drawable to display behind the status bar when the view is set to draw behind it." />
       <item value="Affected Modules" />
       <item value="When set to true, forces row boundaries to appear in the same order as row indices. The default is true. See {@link android.widget.GridLayoutsetRowOrderPreserved(boolean)}." />
       <item value="Nested weights are bad for performance" />
       <item value="Status bar color." />
-      <item value="The color for the status bar. If the color is not opaque, consider setting {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_FULLSCREEN}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to {@link android.view.WindowsetStatusBarColor(int)}." />
       <item value="Type org.opencv.BuildConfig is defined multiple times" />
       <item value="Cannot resolve corresponding JNI function Java_org_opencv_wechat_1qrcode_WeChatQRCode_WeChatQRCode_10. Could not find an existing file with JNI definitions in it. Please add a file with JNI definitions to the project in order to get suggestions." />
       <item value="First attempt to load libs" />
@@ -48,18 +55,11 @@
       <item value="paperstandby" />
       <item value="papernotstandby" />
       <item value="Return the communication channel to the service." />
-      <item value="Remove or change this placeholder text" />
-      <item value="interval" />
-      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="lateinit' modifier is not allowed on properties of nullable types" />
-      <item value="Property must be initialized or be abstract" />
-      <item value="Type 'String' has no method 'getValue(ExampleView, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
-      <item value="remove blank page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
-        <entry key="ENGLISH" value="1275" />
+        <entry key="CHINESE" value="1277" />
+        <entry key="ENGLISH" value="1278" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
