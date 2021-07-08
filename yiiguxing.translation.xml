@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="First attempt to load libs" />
       <item value="end Scan" />
       <item value="scan Fail" />
       <item value="start Scan Listener" />
@@ -54,12 +55,11 @@
       <item value="classless Start" />
       <item value="barcode State" />
       <item value="Can be joined with assignment" />
-      <item value="lifecycle Scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1271" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
