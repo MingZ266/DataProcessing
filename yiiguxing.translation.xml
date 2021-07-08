@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="483" />
+    <option name="newTranslationDialogWidth" value="481" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Cannot resolve corresponding JNI function Java_org_opencv_wechat_1qrcode_WeChatQRCode_WeChatQRCode_10. Could not find an existing file with JNI definitions in it. Please add a file with JNI definitions to the project in order to get suggestions." />
       <item value="First attempt to load libs" />
       <item value="end Scan" />
       <item value="scan Fail" />
@@ -54,7 +55,6 @@
       <item value="classless" />
       <item value="classless Start" />
       <item value="barcode State" />
-      <item value="Can be joined with assignment" />
     </histories>
     <option name="languageScores">
       <map>
