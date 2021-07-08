@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="481" />
+    <option name="newTranslationDialogWidth" value="479" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Status bar color." />
+      <item value="The color for the status bar. If the color is not opaque, consider setting {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_FULLSCREEN}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to {@link android.view.WindowsetStatusBarColor(int)}." />
       <item value="Type org.opencv.BuildConfig is defined multiple times" />
       <item value="Cannot resolve corresponding JNI function Java_org_opencv_wechat_1qrcode_WeChatQRCode_WeChatQRCode_10. Could not find an existing file with JNI definitions in it. Please add a file with JNI definitions to the project in order to get suggestions." />
       <item value="First attempt to load libs" />
@@ -53,13 +55,11 @@
       <item value="Pack" />
       <item value="interval num" />
       <item value="Meta" />
-      <item value="classless" />
-      <item value="classless Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1272" />
-        <entry key="ENGLISH" value="1273" />
+        <entry key="CHINESE" value="1273" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
