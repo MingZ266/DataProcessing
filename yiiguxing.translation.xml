@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="477" />
+    <option name="newTranslationDialogWidth" value="475" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="When set to true, forces row boundaries to appear in the same order as row indices. The default is true. See {@link android.widget.GridLayoutsetRowOrderPreserved(boolean)}." />
       <item value="Nested weights are bad for performance" />
       <item value="Status bar color." />
       <item value="The color for the status bar. If the color is not opaque, consider setting {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_FULLSCREEN}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to {@link android.view.WindowsetStatusBarColor(int)}." />
@@ -54,7 +55,6 @@
       <item value="Type 'String' has no method 'getValue(ExampleView, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
       <item value="remove blank page" />
       <item value="Pack" />
-      <item value="interval num" />
     </histories>
     <option name="languageScores">
       <map>
