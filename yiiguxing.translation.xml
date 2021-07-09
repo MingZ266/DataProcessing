@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="login time" />
+      <item value="Constant" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="A numeric only field. Corresponds to {@link android.text.InputTypeTYPE_CLASS_NUMBER} | {@link android.text.InputTypeTYPE_NUMBER_VARIATION_NORMAL}." />
       <item value="Text that is for phonetic pronunciation, such as a phonetic name field in a contact entry. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_PHONETIC}." />
@@ -53,13 +55,11 @@
       <item value="Do not hardcode &quot;sdcard&quot;; use Environment.getExternalStorageDirectory().getPath() instead" />
       <item value="None of the following functions can be called with the arguments supplied." />
       <item value="nine Patch Chunk" />
-      <item value="The label '@changeSize' does not denote a loop" />
-      <item value="Label is redundant, because it can not be referenced in either ''break'', ''continue'', or ''return'' expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1280" />
-        <entry key="ENGLISH" value="1280" />
+        <entry key="CHINESE" value="1281" />
+        <entry key="ENGLISH" value="1282" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
