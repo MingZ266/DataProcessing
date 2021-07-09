@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="457" />
+    <option name="newTranslationDialogWidth" value="453" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Returns an Observable that mirrors the current Observable, but notifies observers of a TimeoutException if an item emitted by the current Observable doesn't arrive within a window of time after the emission of the previous item, where that period of time is measured by an ObservableSource that is a function of the previous item." />
+      <item value="item Timeout Indicator" />
+      <item value="Only classes are allowed on the left hand side of a class literal" />
       <item value="Toast" />
       <item value="over Request" />
       <item value="EDITABLE" />
@@ -52,14 +55,11 @@
       <item value="Callback method, called in case the package installation is needed." />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="No implementation found for long org.opencv.wechat_qrcode.WeChatQRCode.WeChatQRCode_0" />
-      <item value="Convert to primary constructor" />
-      <item value="Gray Scale" />
-      <item value="Type mismatch. Required: HGScanManager Found: IHGSanManager!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1285" />
-        <entry key="ENGLISH" value="1286" />
+        <entry key="CHINESE" value="1286" />
+        <entry key="ENGLISH" value="1287" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
