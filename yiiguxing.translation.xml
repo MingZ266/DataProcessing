@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="focus" />
       <item value="Entry name 'classes.dex' collided" />
       <item value="A failure occurred while executing com.android.build.gradle.tasks.PackageAndroidArtifactIncrementalSplitterRunnable" />
       <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
@@ -54,12 +55,11 @@
       <item value="No value passed for parameter 'init'" />
       <item value="paperstandby" />
       <item value="papernotstandby" />
-      <item value="Return the communication channel to the service." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1277" />
-        <entry key="ENGLISH" value="1278" />
+        <entry key="CHINESE" value="1278" />
+        <entry key="ENGLISH" value="1279" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
@@ -90,7 +90,6 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
