@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="451" />
+    <option name="newTranslationDialogWidth" value="449" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Assigning Locale.getDefault() to a final static field is suspicious; this code will not work correctly if the user changes locale while the app is running" />
       <item value="Static Field Leak" />
       <item value="Not yet implemented" />
       <item value="An overriding function is not allowed to specify default values for its parameters" />
@@ -54,7 +55,6 @@
       <item value="PLATFORM" />
       <item value="Unable to strip the following libraries, packaging them as they are: libopencv_java4.so." />
       <item value="Callback method, called after OpenCV library initialization." />
-      <item value="Request new service installation" />
     </histories>
     <option name="languageScores">
       <map>
