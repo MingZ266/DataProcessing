@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="EDITABLE" />
+      <item value="Text that will be used as a URI. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_URI}." />
       <item value="can't call onError because no way to know if a Disposable has been set or not can't call onSubscribe because the call might have set a Subscription already" />
       <item value="login time" />
       <item value="Constant" />
@@ -53,13 +55,11 @@
       <item value="Type mismatch. Required: HGScanManager Found: IHGSanManager!" />
       <item value="screen Status IF" />
       <item value="Buttons in button bars should be borderless; use style=&quot;?android:attrbuttonBarButtonStyle&quot; (and ?android:attrbuttonBarStyle on the parent)" />
-      <item value="Do not hardcode &quot;sdcard&quot;; use Environment.getExternalStorageDirectory().getPath() instead" />
-      <item value="None of the following functions can be called with the arguments supplied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1282" />
-        <entry key="ENGLISH" value="1283" />
+        <entry key="CHINESE" value="1283" />
+        <entry key="ENGLISH" value="1284" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
