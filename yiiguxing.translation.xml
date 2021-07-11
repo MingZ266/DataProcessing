@@ -1,10 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="449" />
+    <option name="newTranslationDialogWidth" value="435" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Extended Adapter that is the bridge between a Spinner and its data. A spinner adapter allows to define two different views: one that shows the data in the spinner itself and one that shows the data in the drop down list when the spinner is pressed." />
+      <item value="Sets the SpinnerAdapter used to provide the data which backs this Spinner. If this Spinner has a popup theme set in XML via the popupTheme attribute, the adapter should inflate drop-down views using the same theme. The easiest way to achieve this is by using getPopupContext() to obtain a layout inflater for use in SpinnerAdapter.getDropDownView(int, View, ViewGroup). Spinner overrides Adapter.getViewTypeCount() on the Adapter associated with this view. Calling getItemViewType(int) on the object returned from getAdapter() will always return 0. Calling getViewTypeCount() will always return 1. On API Build.VERSION_CODES.LOLLIPOP and above, attempting to set an adapter with more than one view type will throw an IllegalArgumentException." />
+      <item value="Don't include android.R here; use a fully qualified name for each usage instead" />
+      <item value="Constructor" />
+      <item value="if the specified collection contains one or more null elements and this list does not permit null elements, or if the specified collection is null" />
+      <item value="if the class of an element of the specified collection prevents it from being added to this list" />
+      <item value="if the addAll operation is not supported by this list" />
+      <item value="The Collection to add at the end of the array." />
+      <item value="Adds the specified Collection at the end of the array." />
+      <item value="if the underlying data collection is immutable" />
+      <item value="Remove all elements from the list." />
+      <item value="Notifies the attached observers that the underlying data has been changed and any View reflecting the data set should refresh itself." />
       <item value="Assigning Locale.getDefault() to a final static field is suspicious; this code will not work correctly if the user changes locale while the app is running" />
       <item value="Static Field Leak" />
       <item value="Not yet implemented" />
@@ -43,18 +55,6 @@
       <item value="First attempt to load libs" />
       <item value="end Scan" />
       <item value="scan Fail" />
-      <item value="start Scan Listener" />
-      <item value="monitor Scan" />
-      <item value="monitor" />
-      <item value="CMake can not determine linker language for target: empty.cpp" />
-      <item value="You have called ADD_LIBRARY for library empty.cpp without any source files. This typically indicates a problem with your CMakeLists.txt file" />
-      <item value="CC++ debug|x86 : Failed to compute build system." />
-      <item value="CMake can not determine linker language for target" />
-      <item value="No signature of method:" />
-      <item value="dummy target to bring libc++_shared.so into packages" />
-      <item value="PLATFORM" />
-      <item value="Unable to strip the following libraries, packaging them as they are: libopencv_java4.so." />
-      <item value="Callback method, called after OpenCV library initialization." />
     </histories>
     <option name="languageScores">
       <map>
