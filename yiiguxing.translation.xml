@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="431" />
+    <option name="newTranslationDialogWidth" value="429" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Returns a read-only Set of all keys in this map." />
+      <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the elements collection." />
       <item value="Returns a new map containing all key-value pairs matching the given predicate. The returned map preserves the entry iteration order of the original map." />
       <item value="whole" />
       <item value="plurals" />
@@ -53,8 +55,6 @@
       <item value="Drawable to display behind the status bar when the view is set to draw behind it." />
       <item value="Affected Modules" />
       <item value="When set to true, forces row boundaries to appear in the same order as row indices. The default is true. See {@link android.widget.GridLayoutsetRowOrderPreserved(boolean)}." />
-      <item value="Nested weights are bad for performance" />
-      <item value="Status bar color." />
     </histories>
     <option name="languageScores">
       <map>
