@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="429" />
+    <option name="newTranslationDialogWidth" value="423" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Returns a fixed-size list backed by the specified array. (Changes to the returned list &quot;write through&quot; to the array.) This method acts as bridge between array-based and collection-based APIs, in combination with Collection.toArray. The returned list is serializable and implements RandomAccess. This method also provides a convenient way to create a fixed-size list initialized to contain several elements" />
+      <item value="if the add operation is not supported by this list" />
+      <item value="if the underlying data collection is immutable" />
+      <item value="Spinner adapter view type count must be 1" />
+      <item value="Control whether methods that change the list (add, addAll(Collection), addAll(Object[]), insert, remove, clear, sort(Comparator)) automatically call notifyDataSetChanged. If set to false, caller must manually call notifyDataSetChanged() to have the changes reflected in the attached view. The default is true, and calling notifyDataSetChanged() resets the flag to true." />
+      <item value="Indicates whether or not {@link notifyDataSetChanged()} must be called whenever {@link mObjects} is modified." />
       <item value="Returns a read-only Set of all keys in this map." />
       <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the elements collection." />
       <item value="Returns a new map containing all key-value pairs matching the given predicate. The returned map preserves the entry iteration order of the original map." />
@@ -21,7 +27,6 @@
       <item value="if the addAll operation is not supported by this list" />
       <item value="The Collection to add at the end of the array." />
       <item value="Adds the specified Collection at the end of the array." />
-      <item value="if the underlying data collection is immutable" />
       <item value="Remove all elements from the list." />
       <item value="Notifies the attached observers that the underlying data has been changed and any View reflecting the data set should refresh itself." />
       <item value="Assigning Locale.getDefault() to a final static field is suspicious; this code will not work correctly if the user changes locale while the app is running" />
@@ -50,16 +55,11 @@
       <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
       <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}" />
       <item value="window Draws System Bar Backgrounds" />
-      <item value="The color for the status bar. If the color is not opaque, consider setting {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_FULLSCREEN}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to {@link android.view.WindowsetStatusBarColor(int)}." />
-      <item value="The drawable to use as a scrim for the status bar content when the CollapsingToolbarLayout has been scrolled sufficiently off screen. Only works on Lollipop when used together with android:fitSystemWindows=&quot;true&quot;." />
-      <item value="Drawable to display behind the status bar when the view is set to draw behind it." />
-      <item value="Affected Modules" />
-      <item value="When set to true, forces row boundaries to appear in the same order as row indices. The default is true. See {@link android.widget.GridLayoutsetRowOrderPreserved(boolean)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1289" />
-        <entry key="ENGLISH" value="1290" />
+        <entry key="CHINESE" value="1291" />
+        <entry key="ENGLISH" value="1292" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
