@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="415" />
+    <option name="newTranslationDialogWidth" value="409" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="submits" />
+      <item value="Defines whether the vertical scrollbar track should always be drawn." />
+      <item value="Hints the Android System whether the view node associated with this View should be included in a view structure used for autofill purposes." />
+      <item value="When set to false, prevents the layout from aligning its children's baselines. This attribute is particularly useful when the children use different values for gravity. The default value is true." />
       <item value="No Submit" />
       <item value="lateinit' modifier is not allowed on properties of primitive types" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (requestSuccess(LjavautilList;)V):" />
@@ -51,15 +55,11 @@
       <item value="Constant" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="A numeric only field. Corresponds to {@link android.text.InputTypeTYPE_CLASS_NUMBER} | {@link android.text.InputTypeTYPE_NUMBER_VARIATION_NORMAL}." />
-      <item value="Text that is for phonetic pronunciation, such as a phonetic name field in a contact entry. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_PHONETIC}." />
-      <item value="tel" />
-      <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
-      <item value="Base application theme." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1292" />
-        <entry key="ENGLISH" value="1293" />
+        <entry key="CHINESE" value="1293" />
+        <entry key="ENGLISH" value="1294" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
