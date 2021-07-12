@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="409" />
+    <option name="newTranslationDialogWidth" value="407" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Accidental override: The following declarations have the same JVM signature (getTaskId()I):" />
       <item value="submits" />
       <item value="Defines whether the vertical scrollbar track should always be drawn." />
       <item value="Hints the Android System whether the view node associated with this View should be included in a view structure used for autofill purposes." />
@@ -54,7 +55,6 @@
       <item value="login time" />
       <item value="Constant" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
-      <item value="A numeric only field. Corresponds to {@link android.text.InputTypeTYPE_CLASS_NUMBER} | {@link android.text.InputTypeTYPE_NUMBER_VARIATION_NORMAL}." />
     </histories>
     <option name="languageScores">
       <map>
