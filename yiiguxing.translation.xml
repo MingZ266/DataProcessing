@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="No Submit" />
       <item value="lateinit' modifier is not allowed on properties of primitive types" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (requestSuccess(LjavautilList;)V):" />
       <item value="作业" />
@@ -54,12 +55,11 @@
       <item value="tel" />
       <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
       <item value="Base application theme." />
-      <item value="focus" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1292" />
-        <entry key="ENGLISH" value="1292" />
+        <entry key="ENGLISH" value="1293" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
