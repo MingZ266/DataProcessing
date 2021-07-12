@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="417" />
+    <option name="newTranslationDialogWidth" value="415" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="lateinit' modifier is not allowed on properties of primitive types" />
       <item value="Platform declaration clash: The following declarations have the same JVM signature (requestSuccess(LjavautilList;)V):" />
       <item value="作业" />
       <item value="A view that displays one child at a time and lets the user pick among them. The items in the Spinner come from the Adapter associated with this view. See the Spinners guide." />
@@ -54,7 +55,6 @@
       <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
       <item value="Base application theme." />
       <item value="focus" />
-      <item value="Entry name 'classes.dex' collided" />
     </histories>
     <option name="languageScores">
       <map>
