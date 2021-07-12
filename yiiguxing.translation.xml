@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="421" />
+    <option name="newTranslationDialogWidth" value="419" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="A view that displays one child at a time and lets the user pick among them. The items in the Spinner come from the Adapter associated with this view. See the Spinners guide." />
       <item value="android.widget.Adapter How many items are in the data set represented by this Adapter." />
       <item value="Returns a fixed-size list backed by the specified array. (Changes to the returned list &quot;write through&quot; to the array.) This method acts as bridge between array-based and collection-based APIs, in combination with Collection.toArray. The returned list is serializable and implements RandomAccess. This method also provides a convenient way to create a fixed-size list initialized to contain several elements" />
       <item value="if the add operation is not supported by this list" />
@@ -54,7 +55,6 @@
       <item value="Entry name 'classes.dex' collided" />
       <item value="A failure occurred while executing com.android.build.gradle.tasks.PackageAndroidArtifactIncrementalSplitterRunnable" />
       <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
-      <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}" />
     </histories>
     <option name="languageScores">
       <map>
