@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目文件" />
-    <option name="defaultScopeName" value="项目文件" />
+    <option name="customScope" value="模块 'ScanningApp.app'" />
+    <option name="defaultScopeName" value="模块 'ScanningApp.app'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="项目文件" />
+    <option name="SEARCH_SCOPE" value="模块 'ScanningApp.app'" />
   </component>
 </application>

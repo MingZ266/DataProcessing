@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="please Login" />
       <item value="Data class must have at least one primary constructor parameter" />
       <item value="TRY HARDER" />
       <item value="15 rows spaced 132 apart is roughly the middle half of the image" />
@@ -54,12 +55,11 @@
       <item value="Returns a new map containing all key-value pairs matching the given predicate. The returned map preserves the entry iteration order of the original map." />
       <item value="whole" />
       <item value="plurals" />
-      <item value="There should be at least one quantity string in this &lt;plural&gt; definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1304" />
-        <entry key="ENGLISH" value="1305" />
+        <entry key="CHINESE" value="1305" />
+        <entry key="ENGLISH" value="1306" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
