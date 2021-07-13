@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="request Fail And Exit" />
       <item value="Unreachable code" />
       <item value="please Login" />
       <item value="Data class must have at least one primary constructor parameter" />
@@ -54,7 +55,6 @@
       <item value="Returns a read-only Set of all keys in this map." />
       <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the elements collection." />
       <item value="Returns a new map containing all key-value pairs matching the given predicate. The returned map preserves the entry iteration order of the original map." />
-      <item value="whole" />
     </histories>
     <option name="languageScores">
       <map>
