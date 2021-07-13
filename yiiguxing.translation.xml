@@ -1,18 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="391" />
+    <option name="newTranslationDialogWidth" value="387" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Multi Format One D Reader" />
+      <item value="Spend more time to try to find a barcode; optimize for accuracy, not speed. Doesn't matter what it maps to; use" />
+      <item value="CODABAR 1D format." />
+      <item value="Image is known to be of one of a few possible formats. Maps to a List of BarcodeFormats." />
       <item value="Bar Code" />
       <item value="UPCEAN extension format. Not a stand-alone format." />
       <item value="Interleaved Two of Five" />
       <item value="ITF (Interleaved Two of Five) 1D format." />
-      <item value="CODABAR 1D format." />
       <item value="Aztec 2D barcode format." />
       <item value="Enumerates barcode formats known to this package. Please keep alphabetized. Author: Sean Owen All Implemented Interfaces: Serializable , Comparable &lt;BarcodeFormat&gt;" />
-      <item value="Image is known to be of one of a few possible formats. Maps to a List of BarcodeFormats." />
       <item value="raw text encoded by the barcode" />
       <item value="条形码" />
       <item value="check Task Over" />
@@ -53,13 +55,11 @@
       <item value="if the class of an element of the specified collection prevents it from being added to this list" />
       <item value="if the addAll operation is not supported by this list" />
       <item value="The Collection to add at the end of the array." />
-      <item value="Adds the specified Collection at the end of the array." />
-      <item value="Remove all elements from the list." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1296" />
-        <entry key="ENGLISH" value="1297" />
+        <entry key="CHINESE" value="1297" />
+        <entry key="ENGLISH" value="1298" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
