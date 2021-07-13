@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="387" />
+    <option name="newTranslationDialogWidth" value="383" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="TRY HARDER" />
+      <item value="15 rows spaced 132 apart is roughly the middle half of the image" />
+      <item value="Look at the whole image, not just the center" />
+      <item value="rowNumber - row number from top of the row row - the blackwhite pixel data of the row hints - decode hints Returns:" />
+      <item value="escription copied from class: OneDReader Attempts to decode a one-dimensional barcode format given a single row of an image. Specified by: decodeRow in class OneDReader" />
       <item value="Multi Format One D Reader" />
+      <item value="Inverted Luminance Source" />
+      <item value="Hybrid Binarizer" />
+      <item value="RGB Luminance Source" />
       <item value="Spend more time to try to find a barcode; optimize for accuracy, not speed. Doesn't matter what it maps to; use" />
       <item value="CODABAR 1D format." />
       <item value="Image is known to be of one of a few possible formats. Maps to a List of BarcodeFormats." />
@@ -47,19 +55,11 @@
       <item value="plurals" />
       <item value="There should be at least one quantity string in this &lt;plural&gt; definition" />
       <item value="Returns a list containing only elements matching the given predicate." />
-      <item value="Extended Adapter that is the bridge between a Spinner and its data. A spinner adapter allows to define two different views: one that shows the data in the spinner itself and one that shows the data in the drop down list when the spinner is pressed." />
-      <item value="Sets the SpinnerAdapter used to provide the data which backs this Spinner. If this Spinner has a popup theme set in XML via the popupTheme attribute, the adapter should inflate drop-down views using the same theme. The easiest way to achieve this is by using getPopupContext() to obtain a layout inflater for use in SpinnerAdapter.getDropDownView(int, View, ViewGroup). Spinner overrides Adapter.getViewTypeCount() on the Adapter associated with this view. Calling getItemViewType(int) on the object returned from getAdapter() will always return 0. Calling getViewTypeCount() will always return 1. On API Build.VERSION_CODES.LOLLIPOP and above, attempting to set an adapter with more than one view type will throw an IllegalArgumentException." />
-      <item value="Don't include android.R here; use a fully qualified name for each usage instead" />
-      <item value="Constructor" />
-      <item value="if the specified collection contains one or more null elements and this list does not permit null elements, or if the specified collection is null" />
-      <item value="if the class of an element of the specified collection prevents it from being added to this list" />
-      <item value="if the addAll operation is not supported by this list" />
-      <item value="The Collection to add at the end of the array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1297" />
-        <entry key="ENGLISH" value="1298" />
+        <entry key="CHINESE" value="1304" />
+        <entry key="ENGLISH" value="1305" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
