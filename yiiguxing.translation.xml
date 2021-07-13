@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Bar Code" />
       <item value="UPCEAN extension format. Not a stand-alone format." />
       <item value="Interleaved Two of Five" />
       <item value="ITF (Interleaved Two of Five) 1D format." />
@@ -54,12 +55,11 @@
       <item value="The Collection to add at the end of the array." />
       <item value="Adds the specified Collection at the end of the array." />
       <item value="Remove all elements from the list." />
-      <item value="Notifies the attached observers that the underlying data has been changed and any View reflecting the data set should refresh itself." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1295" />
-        <entry key="ENGLISH" value="1296" />
+        <entry key="CHINESE" value="1296" />
+        <entry key="ENGLISH" value="1297" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
