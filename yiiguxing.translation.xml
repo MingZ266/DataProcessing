@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="raw text encoded by the barcode" />
       <item value="条形码" />
       <item value="check Task Over" />
       <item value="This is an internal kotlinx.coroutines API that should not be used from outside of kotlinx.coroutines. No compatibility guarantees are provided.It is recommended to report your use-case of internal API to kotlinx.coroutines issue tracker, so stable API could be provided instead" />
@@ -54,7 +55,6 @@
       <item value="Returns an Observable that mirrors the current Observable, but notifies observers of a TimeoutException if an item emitted by the current Observable doesn't arrive within a window of time after the emission of the previous item, where that period of time is measured by an ObservableSource that is a function of the previous item." />
       <item value="item Timeout Indicator" />
       <item value="Only classes are allowed on the left hand side of a class literal" />
-      <item value="Toast" />
     </histories>
     <option name="languageScores">
       <map>
