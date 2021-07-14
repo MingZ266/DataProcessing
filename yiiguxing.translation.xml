@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Decode Runnable" />
       <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
       <item value="single Thread Pool" />
       <item value="Finalizable Delegated Executor Service" />
@@ -54,12 +55,11 @@
       <item value="When set to false, prevents the layout from aligning its children's baselines. This attribute is particularly useful when the children use different values for gravity. The default value is true." />
       <item value="No Submit" />
       <item value="lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="Platform declaration clash: The following declarations have the same JVM signature (requestSuccess(LjavautilList;)V):" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1315" />
-        <entry key="ENGLISH" value="1316" />
+        <entry key="CHINESE" value="1316" />
+        <entry key="ENGLISH" value="1317" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
