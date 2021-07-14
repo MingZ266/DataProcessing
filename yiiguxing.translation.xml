@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="rotate" />
+      <item value="旋转" />
       <item value="request Fail And Exit" />
       <item value="Unreachable code" />
       <item value="please Login" />
@@ -53,13 +55,11 @@
       <item value="Control whether methods that change the list (add, addAll(Collection), addAll(Object[]), insert, remove, clear, sort(Comparator)) automatically call notifyDataSetChanged. If set to false, caller must manually call notifyDataSetChanged() to have the changes reflected in the attached view. The default is true, and calling notifyDataSetChanged() resets the flag to true." />
       <item value="Indicates whether or not {@link notifyDataSetChanged()} must be called whenever {@link mObjects} is modified." />
       <item value="Returns a read-only Set of all keys in this map." />
-      <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the elements collection." />
-      <item value="Returns a new map containing all key-value pairs matching the given predicate. The returned map preserves the entry iteration order of the original map." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1305" />
-        <entry key="ENGLISH" value="1306" />
+        <entry key="CHINESE" value="1306" />
+        <entry key="ENGLISH" value="1307" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
