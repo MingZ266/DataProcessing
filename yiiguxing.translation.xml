@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="update Cache Picture" />
       <item value="rotate" />
       <item value="旋转" />
       <item value="request Fail And Exit" />
@@ -54,12 +55,11 @@
       <item value="Spinner adapter view type count must be 1" />
       <item value="Control whether methods that change the list (add, addAll(Collection), addAll(Object[]), insert, remove, clear, sort(Comparator)) automatically call notifyDataSetChanged. If set to false, caller must manually call notifyDataSetChanged() to have the changes reflected in the attached view. The default is true, and calling notifyDataSetChanged() resets the flag to true." />
       <item value="Indicates whether or not {@link notifyDataSetChanged()} must be called whenever {@link mObjects} is modified." />
-      <item value="Returns a read-only Set of all keys in this map." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1306" />
-        <entry key="ENGLISH" value="1307" />
+        <entry key="CHINESE" value="1307" />
+        <entry key="ENGLISH" value="1308" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
