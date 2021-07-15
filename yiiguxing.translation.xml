@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="377" />
+    <option name="newTranslationDialogWidth" value="375" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="stack Top" />
+      <item value="stack Trace" />
+      <item value="The (optional) fully-qualified name for a subclass of {@link android.app.Application} that the system instantiates before any other class when an app's process starts. Most applications don't need this attribute. If it's not specified, the system instantiates the base Application class instead." />
       <item value="Const 'val' has type 'FileLog.Companion.CrashThrowable'. Only primitives and String are allowed" />
       <item value="Do not place Android context classes in static fields (static reference to FileLog which has field context pointing to Context); this is a memory leak" />
       <item value="Decode Runnable" />
@@ -52,14 +55,11 @@
       <item value="Return an Observable that schedules the downstream Observers' dispose calls aimed at the current Observable on the given Scheduler." />
       <item value="Accidental override: The following declarations have the same JVM signature (getTaskId()I):" />
       <item value="submits" />
-      <item value="Defines whether the vertical scrollbar track should always be drawn." />
-      <item value="Hints the Android System whether the view node associated with this View should be included in a view structure used for autofill purposes." />
-      <item value="When set to false, prevents the layout from aligning its children's baselines. This attribute is particularly useful when the children use different values for gravity. The default value is true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1316" />
-        <entry key="ENGLISH" value="1317" />
+        <entry key="CHINESE" value="1318" />
+        <entry key="ENGLISH" value="1319" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
