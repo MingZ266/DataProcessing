@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Checksum mismatch for dex base.apk!classes2.dex" />
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="readLoop mReadIndex finish" />
       <item value="set Fan Mode" />
       <item value="sensor paper out" />
@@ -53,13 +55,11 @@
       <item value="Interleaved Two of Five" />
       <item value="ITF (Interleaved Two of Five) 1D format." />
       <item value="Aztec 2D barcode format." />
-      <item value="Enumerates barcode formats known to this package. Please keep alphabetized. Author: Sean Owen All Implemented Interfaces: Serializable , Comparable &lt;BarcodeFormat&gt;" />
-      <item value="raw text encoded by the barcode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1325" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="CHINESE" value="1327" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
