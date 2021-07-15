@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="readLoop mReadIndex finish" />
+      <item value="set Fan Mode" />
+      <item value="sensor paper out" />
+      <item value="Capturer" />
+      <item value="uevent_next_event nr:1" />
+      <item value="Build fingerprint: 'HuagoScanrk3288rk3288:8.1.0OPM8.181205.001095200:userdebugtest-keys'" />
+      <item value="SEGV MAPERR" />
+      <item value="SIGSEGV" />
+      <item value="Fatal signal 11 (SIGSEGV), code 1, fault addr 0x84380000 in tid 3635 (pool-2-thread-1), pid 3537 (ple.scanningapp)" />
       <item value="stack Top" />
       <item value="stack Trace" />
       <item value="The (optional) fully-qualified name for a subclass of {@link android.app.Application} that the system instantiates before any other class when an app's process starts. Most applications don't need this attribute. If it's not specified, the system instantiates the base Application class instead." />
@@ -46,24 +55,16 @@
       <item value="Aztec 2D barcode format." />
       <item value="Enumerates barcode formats known to this package. Please keep alphabetized. Author: Sean Owen All Implemented Interfaces: Serializable , Comparable &lt;BarcodeFormat&gt;" />
       <item value="raw text encoded by the barcode" />
-      <item value="条形码" />
-      <item value="check Task Over" />
-      <item value="This is an internal kotlinx.coroutines API that should not be used from outside of kotlinx.coroutines. No compatibility guarantees are provided.It is recommended to report your use-case of internal API to kotlinx.coroutines issue tracker, so stable API could be provided instead" />
-      <item value="You specify which Scheduler this operator will use. &quot;Island size&quot; indicates how large chunks the unbounded buffer allocates to store the excess elements waiting to be consumed on the other side of the asynchronous boundary." />
-      <item value="This operator keeps emitting as many signals as it can on the given Scheduler's worker thread, which may result in a longer than expected occupation of this thread. In other terms, it does not allow per-signal fairness in case the worker runs on a shared underlying thread. If such fairness and signalwork interleaving is preferred, use the delay operator with zero time instead." />
-      <item value="Returns an Observable to perform the current Observable's emissions and notifications on a specified Scheduler, asynchronously with an unbounded buffer with Flowable.bufferSize() &quot;island size&quot;. Note that onError notifications will cut ahead of onNext notifications on the emission thread if Scheduler is truly asynchronous. If strict event ordering is required, consider using the observeOn(Scheduler, boolean) overload." />
-      <item value="Return an Observable that schedules the downstream Observers' dispose calls aimed at the current Observable on the given Scheduler." />
-      <item value="Accidental override: The following declarations have the same JVM signature (getTaskId()I):" />
-      <item value="submits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1318" />
-        <entry key="ENGLISH" value="1319" />
+        <entry key="CHINESE" value="1325" />
+        <entry key="ENGLISH" value="1326" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="2" />
