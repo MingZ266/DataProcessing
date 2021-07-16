@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Context of the app under test." />
+      <item value="dlopen failed: library &quot;systemliblibopencv_java4.so&quot; needed or dlopened by &quot;systemliblibnativeloader.so&quot; is not accessible for the namespace &quot;classloader-namespace&quot;" />
+      <item value="bad ELF magic" />
+      <item value="release" />
       <item value="constructor" />
       <item value="fingerprint" />
       <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
@@ -51,15 +55,11 @@
       <item value="Multi Format One D Reader" />
       <item value="Inverted Luminance Source" />
       <item value="Hybrid Binarizer" />
-      <item value="RGB Luminance Source" />
-      <item value="Spend more time to try to find a barcode; optimize for accuracy, not speed. Doesn't matter what it maps to; use" />
-      <item value="CODABAR 1D format." />
-      <item value="Image is known to be of one of a few possible formats. Maps to a List of BarcodeFormats." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1330" />
-        <entry key="ENGLISH" value="1331" />
+        <entry key="CHINESE" value="1334" />
+        <entry key="ENGLISH" value="1335" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
