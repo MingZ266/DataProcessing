@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="constructor" />
       <item value="fingerprint" />
       <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
       <item value="failed to get memory consumption info: -1" />
@@ -54,7 +55,6 @@
       <item value="Spend more time to try to find a barcode; optimize for accuracy, not speed. Doesn't matter what it maps to; use" />
       <item value="CODABAR 1D format." />
       <item value="Image is known to be of one of a few possible formats. Maps to a List of BarcodeFormats." />
-      <item value="Bar Code" />
     </histories>
     <option name="languageScores">
       <map>
