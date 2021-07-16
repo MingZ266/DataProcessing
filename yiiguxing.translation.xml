@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="375" />
+    <option name="newTranslationDialogWidth" value="371" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="fingerprint" />
+      <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
       <item value="failed to get memory consumption info: -1" />
       <item value="Couldn't load memtrack module" />
       <item value="Checksum mismatch for dex base.apk!classes2.dex" />
@@ -53,13 +55,11 @@
       <item value="CODABAR 1D format." />
       <item value="Image is known to be of one of a few possible formats. Maps to a List of BarcodeFormats." />
       <item value="Bar Code" />
-      <item value="UPCEAN extension format. Not a stand-alone format." />
-      <item value="Interleaved Two of Five" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1330" />
+        <entry key="CHINESE" value="1330" />
+        <entry key="ENGLISH" value="1331" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625981092706" />
+    <option name="lastTrimTime" value="1626413195815" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
