@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Links the target library to the log library included in the NDK." />
+      <item value="Specifies the target library." />
+      <item value="Specifies libraries CMake should link to your target library. You can link multiple libraries, such as libraries you define in this build script, prebuilt third-party libraries, or system libraries." />
+      <item value="Searches for a specified prebuilt library and stores the path as a variable. Because CMake includes system libraries in the search path by default, you only need to specify the name of the public NDK library you want to add. CMake verifies that the library exists before completing its build." />
+      <item value="Specifies the name of the NDK library that you want CMake to locate." />
+      <item value="Sets the name of the path variable." />
+      <item value="Sets the name of the library." />
+      <item value="Provides a relative path to your source file(s)." />
+      <item value="Sets the library as a shared library." />
+      <item value="Creates and names a library, sets it as either STATIC or SHARED, and provides the relative paths to its source code. You can define multiple libraries, and CMake builds them for you. Gradle automatically packages shared libraries with your APK." />
+      <item value="Declares and names the project." />
+      <item value="For more information about using CMake with Android Studio, read the documentation: https:d.android.comstudioprojectsadd-native-code.html Sets the minimum version of CMake required to build the native library." />
       <item value="Context of the app under test." />
       <item value="dlopen failed: library &quot;systemliblibopencv_java4.so&quot; needed or dlopened by &quot;systemliblibnativeloader.so&quot; is not accessible for the namespace &quot;classloader-namespace&quot;" />
       <item value="bad ELF magic" />
@@ -43,23 +55,11 @@
       <item value="update Cache Picture" />
       <item value="rotate" />
       <item value="旋转" />
-      <item value="request Fail And Exit" />
-      <item value="Unreachable code" />
-      <item value="please Login" />
-      <item value="Data class must have at least one primary constructor parameter" />
-      <item value="TRY HARDER" />
-      <item value="15 rows spaced 132 apart is roughly the middle half of the image" />
-      <item value="Look at the whole image, not just the center" />
-      <item value="rowNumber - row number from top of the row row - the blackwhite pixel data of the row hints - decode hints Returns:" />
-      <item value="escription copied from class: OneDReader Attempts to decode a one-dimensional barcode format given a single row of an image. Specified by: decodeRow in class OneDReader" />
-      <item value="Multi Format One D Reader" />
-      <item value="Inverted Luminance Source" />
-      <item value="Hybrid Binarizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1334" />
-        <entry key="ENGLISH" value="1335" />
+        <entry key="CHINESE" value="1349" />
+        <entry key="ENGLISH" value="1350" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
