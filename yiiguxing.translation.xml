@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="finish" />
+      <item value="analysis Finish" />
+      <item value="await Task" />
+      <item value="await Or Do Task" />
       <item value="no Decode Result" />
       <item value="on Decode Result" />
       <item value="Code Result" />
@@ -51,15 +55,11 @@
       <item value="String Builder" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="may be corrupted." />
-      <item value="finalize" />
-      <item value="Cannot initialize return object of type 'jint' (aka 'int') with an rvalue of type 'jstring' (aka '_jstring ')" />
-      <item value="cannot initialize return object of type 'jint' (aka 'int') with an rvalue of type 'jstring' (aka '_jstring ')" />
-      <item value="Specifies the target library." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1389" />
-        <entry key="ENGLISH" value="1390" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1394" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
