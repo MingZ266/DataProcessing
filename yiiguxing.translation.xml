@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="367" />
+    <option name="newTranslationDialogWidth" value="365" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Clears the content of this string builder making it empty and returns this instance." />
+      <item value="single" />
+      <item value="create Line Segment Detector" />
       <item value="No implementation found for void" />
       <item value="NONE" />
       <item value="String Builder" />
@@ -52,14 +55,11 @@
       <item value="The (optional) fully-qualified name for a subclass of {@link android.app.Application} that the system instantiates before any other class when an app's process starts. Most applications don't need this attribute. If it's not specified, the system instantiates the base Application class instead." />
       <item value="Const 'val' has type 'FileLog.Companion.CrashThrowable'. Only primitives and String are allowed" />
       <item value="Do not place Android context classes in static fields (static reference to FileLog which has field context pointing to Context); this is a memory leak" />
-      <item value="Decode Runnable" />
-      <item value="Proceed in 3 steps: 1. If fewer than corePoolSize threads are running, try to start a new thread with the given command as its first task. The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false. 2. If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method. So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none. 3. If we cannot queue task, then we try to add a new thread. If it fails, we know we are shut down or saturated and so reject the task." />
-      <item value="single Thread Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1357" />
-        <entry key="ENGLISH" value="1358" />
+        <entry key="CHINESE" value="1359" />
+        <entry key="ENGLISH" value="1360" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
