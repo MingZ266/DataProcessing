@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Preferences Activity" />
+      <item value="handle Decode" />
       <item value="send Reply Message" />
       <item value="Inactivity Timer" />
       <item value="Ambient Light Manager" />
@@ -53,13 +55,11 @@
       <item value="set Fan Mode" />
       <item value="sensor paper out" />
       <item value="Capturer" />
-      <item value="uevent_next_event nr:1" />
-      <item value="Build fingerprint: 'HuagoScanrk3288rk3288:8.1.0OPM8.181205.001095200:userdebugtest-keys'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1367" />
-        <entry key="ENGLISH" value="1368" />
+        <entry key="CHINESE" value="1369" />
+        <entry key="ENGLISH" value="1370" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
