@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="PULL PAPER" />
+      <item value="on Destory" />
       <item value="adjust Bitmap" />
       <item value="regulate" />
       <item value="correction" />
@@ -53,13 +55,11 @@
       <item value="android:statusBarColor has already been defined in this &lt;style&gt;" />
       <item value="Links the target library to the log library included in the NDK." />
       <item value="Specifies libraries CMake should link to your target library. You can link multiple libraries, such as libraries you define in this build script, prebuilt third-party libraries, or system libraries." />
-      <item value="Searches for a specified prebuilt library and stores the path as a variable. Because CMake includes system libraries in the search path by default, you only need to specify the name of the public NDK library you want to add. CMake verifies that the library exists before completing its build." />
-      <item value="Specifies the name of the NDK library that you want CMake to locate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1383" />
-        <entry key="ENGLISH" value="1384" />
+        <entry key="CHINESE" value="1385" />
+        <entry key="ENGLISH" value="1386" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
