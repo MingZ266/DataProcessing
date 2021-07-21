@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Could not create an instance of type sync_studio_tooling1492_9bz1fim877w6hgbtbf1jmi8rp. &gt; Could not initialize class org.codehaus.groovy.reflection.ReflectionCache" />
+      <item value="Could not open cp_init generic class cache for initialization script" />
       <item value="is not accessible for the namespace" />
       <item value="dlopen failed" />
       <item value="Clears the content of this string builder making it empty and returns this instance." />
@@ -53,13 +55,11 @@
       <item value="SIGSEGV" />
       <item value="Fatal signal 11 (SIGSEGV), code 1, fault addr 0x84380000 in tid 3635 (pool-2-thread-1), pid 3537 (ple.scanningapp)" />
       <item value="stack Top" />
-      <item value="stack Trace" />
-      <item value="The (optional) fully-qualified name for a subclass of {@link android.app.Application} that the system instantiates before any other class when an app's process starts. Most applications don't need this attribute. If it's not specified, the system instantiates the base Application class instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1361" />
-        <entry key="ENGLISH" value="1362" />
+        <entry key="CHINESE" value="1363" />
+        <entry key="ENGLISH" value="1364" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
