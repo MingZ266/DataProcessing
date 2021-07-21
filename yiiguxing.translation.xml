@@ -1,15 +1,25 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="361" />
+    <option name="newTranslationDialogWidth" value="349" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Decode an image using the state set up by calling setHints() previously. Continuous scan clients will get a large speed increase by using this instead of decode(). Parameters: image - The pixel data to decode Returns: The contents of the image Throws: NotFoundException - Any errors which occurred" />
+      <item value="raw" />
+      <item value="This class implements a local thresholding algorithm, which while slower than the GlobalHistogramBinarizer, is fairly efficient for what it does. It is designed for high frequency images of barcodes with black data on white backgrounds. For this application, it does a much better job than a global blackpoint with severe shadows and gradients. However it tends to produce artifacts on lower frequency images and is therefore not a good general purpose binarizer for uses outside ZXing. This class extends GlobalHistogramBinarizer, using the older histogram approach for 1D readers, and the newer local approach for 2D readers. 1D decoding using a per-row histogram is already inherently local, and only fails for horizontal gradients. We can revisit that problem later, but for now it was not a win to use local blocks for 1D. This Binarizer is the default for the unit tests and the recommended class for library users." />
+      <item value="This Binarizer implementation uses the old ZXing global histogram approach. It is suitable for low-end mobile devices which don't have enough CPU or memory to use a local thresholding algorithm. However, because it picks a global black point, it cannot handle difficult shadows and gradients. Faster mobile devices and all desktop applications should probably use HybridBinarizer instead." />
+      <item value="This class hierarchy provides a set of methods to convert luminance data to 1 bit data. It allows the algorithm to vary polymorphically, for example allowing a very expensive thresholding technique for servers and a fast one for mobile. It also permits the implementation to vary, e.g. a JNI version for Android and a Java fallback version for other platforms." />
+      <item value="Hybrid Binarizer" />
+      <item value="stride" />
+      <item value="A wrapper implementation of LuminanceSource which inverts the luminances it returns -- black becomes white and vice versa, and each value becomes (255-value)." />
+      <item value="This class is used to help decode images from files which arrive as RGB data from an ARGB pixel array. It does not support rotation." />
+      <item value="get Framing Rect In Preview" />
+      <item value="BATTERY CHANGED" />
       <item value="Pushes a message onto the end of the message queue after all pending messages before the current time. It will be received in {@link handleMessage}, in the thread attached to this handler. @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting." />
       <item value="native Wake" />
       <item value="what – Value to assign to the returned Message.what field. arg1 – Value to assign to the returned Message.arg1 field. arg2 – Value to assign to the returned Message.arg2 field. obj – Value to assign to the returned Message.obj field." />
       <item value="Acquires in shared mode, aborting if interrupted. Implemented by first checking interrupt status, then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
-      <item value="get Framing Rect In Preview" />
       <item value="ambient Light Manager" />
       <item value="Planar YUV Luminance Source" />
       <item value="Multi Format Reader" />
@@ -45,21 +55,11 @@
       <item value="Sets the name of the library." />
       <item value="Provides a relative path to your source file(s)." />
       <item value="Sets the library as a shared library." />
-      <item value="Creates and names a library, sets it as either STATIC or SHARED, and provides the relative paths to its source code. You can define multiple libraries, and CMake builds them for you. Gradle automatically packages shared libraries with your APK." />
-      <item value="Declares and names the project." />
-      <item value="For more information about using CMake with Android Studio, read the documentation: https:d.android.comstudioprojectsadd-native-code.html Sets the minimum version of CMake required to build the native library." />
-      <item value="Context of the app under test." />
-      <item value="dlopen failed: library &quot;systemliblibopencv_java4.so&quot; needed or dlopened by &quot;systemliblibnativeloader.so&quot; is not accessible for the namespace &quot;classloader-namespace&quot;" />
-      <item value="bad ELF magic" />
-      <item value="release" />
-      <item value="constructor" />
-      <item value="fingerprint" />
-      <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1375" />
-        <entry key="ENGLISH" value="1376" />
+        <entry key="CHINESE" value="1380" />
+        <entry key="ENGLISH" value="1381" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626413195815" />
+    <option name="lastTrimTime" value="1626845279586" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -91,6 +91,7 @@
         <option name="appId" value="20200918000568375" />
       </app-key>
     </option>
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2f2d5e6a9f7e1244" />
