@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="365" />
+    <option name="newTranslationDialogWidth" value="361" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="what – Value to assign to the returned Message.what field. arg1 – Value to assign to the returned Message.arg1 field. arg2 – Value to assign to the returned Message.arg2 field. obj – Value to assign to the returned Message.obj field." />
+      <item value="Acquires in shared mode, aborting if interrupted. Implemented by first checking interrupt status, then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
+      <item value="get Framing Rect In Preview" />
+      <item value="ambient Light Manager" />
       <item value="Planar YUV Luminance Source" />
       <item value="Multi Format Reader" />
       <item value="Preferences Activity" />
@@ -51,15 +55,11 @@
       <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
       <item value="failed to get memory consumption info: -1" />
       <item value="Couldn't load memtrack module" />
-      <item value="Checksum mismatch for dex base.apk!classes2.dex" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="readLoop mReadIndex finish" />
-      <item value="set Fan Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1371" />
-        <entry key="ENGLISH" value="1372" />
+        <entry key="CHINESE" value="1373" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
