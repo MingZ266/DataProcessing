@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Extension property cannot be initialized because it has no backing field" />
       <item value="Analysis Result" />
       <item value="'public' property exposes its 'private' type argument Task" />
       <item value="share Interpolator" />
@@ -54,7 +55,6 @@
       <item value="Inactivity Timer" />
       <item value="Ambient Light Manager" />
       <item value="set Volume Control Stream" />
-      <item value="Could not create an instance of type sync_studio_tooling1492_9bz1fim877w6hgbtbf1jmi8rp. &gt; Could not initialize class org.codehaus.groovy.reflection.ReflectionCache" />
     </histories>
     <option name="languageScores">
       <map>
