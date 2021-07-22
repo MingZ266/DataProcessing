@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="347" />
+    <option name="newTranslationDialogWidth" value="345" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Show Image" />
+      <item value="no Spot" />
+      <item value="Spot" />
+      <item value="idtitle can overlap ImageView-5 if @idtitle grows due to localized text expansion" />
       <item value="When set to false, prevents the layout from aligning its children's baselines. This attribute is particularly useful when the children use different values for gravity. The default value is true." />
       <item value="finish" />
       <item value="analysis Finish" />
@@ -51,15 +55,11 @@
       <item value="Clears the content of this string builder making it empty and returns this instance." />
       <item value="single" />
       <item value="create Line Segment Detector" />
-      <item value="No implementation found for void" />
-      <item value="NONE" />
-      <item value="String Builder" />
-      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1393" />
-        <entry key="ENGLISH" value="1394" />
+        <entry key="CHINESE" value="1396" />
+        <entry key="ENGLISH" value="1397" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
