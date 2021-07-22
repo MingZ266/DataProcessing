@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="share Interpolator" />
+      <item value="on Animation Repeat" />
       <item value="last Do" />
       <item value="to Left" />
       <item value="Show Image" />
@@ -53,13 +55,11 @@
       <item value="Could not create an instance of type sync_studio_tooling1492_9bz1fim877w6hgbtbf1jmi8rp. &gt; Could not initialize class org.codehaus.groovy.reflection.ReflectionCache" />
       <item value="Could not open cp_init generic class cache for initialization script" />
       <item value="is not accessible for the namespace" />
-      <item value="dlopen failed" />
-      <item value="Clears the content of this string builder making it empty and returns this instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1398" />
-        <entry key="ENGLISH" value="1399" />
+        <entry key="CHINESE" value="1400" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
