@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="345" />
+    <option name="newTranslationDialogWidth" value="341" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="analysis Fail" />
+      <item value="Label is redundant, because it can not be referenced in either ''break'', ''continue'', or ''return'' expression" />
+      <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
+      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
+      <item value="The label '@exist' does not denote a loop" />
+      <item value="exist" />
       <item value="front" />
       <item value="Extension property cannot be initialized because it has no backing field" />
       <item value="Analysis Result" />
@@ -49,17 +55,11 @@
       <item value="Acquires in shared mode, aborting if interrupted. Implemented by first checking interrupt status, then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
       <item value="ambient Light Manager" />
       <item value="Planar YUV Luminance Source" />
-      <item value="Multi Format Reader" />
-      <item value="Preferences Activity" />
-      <item value="handle Decode" />
-      <item value="send Reply Message" />
-      <item value="Inactivity Timer" />
-      <item value="Ambient Light Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1402" />
-        <entry key="ENGLISH" value="1403" />
+        <entry key="CHINESE" value="1404" />
+        <entry key="ENGLISH" value="1405" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
