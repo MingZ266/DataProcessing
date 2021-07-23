@@ -3,7 +3,7 @@
     <property name="created">2020-09-18T13:01:40</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2021-02-23T16:04:02</property>
+    <property name="modified">2021-07-23T16:35:42</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <colors>
@@ -1199,7 +1199,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="93a1a1" />
-        <option name="ERROR_STRIPE_COLOR" value="b58900" />
+        <option name="ERROR_STRIPE_COLOR" value="858988" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

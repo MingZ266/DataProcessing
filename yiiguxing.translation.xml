@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="init TCP Server" />
+      <item value="init Broadcast" />
       <item value="failed" />
       <item value="guest" />
       <item value="analysis Fail" />
@@ -53,13 +55,11 @@
       <item value="BATTERY CHANGED" />
       <item value="Pushes a message onto the end of the message queue after all pending messages before the current time. It will be received in {@link handleMessage}, in the thread attached to this handler. @return Returns true if the message was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting." />
       <item value="native Wake" />
-      <item value="what – Value to assign to the returned Message.what field. arg1 – Value to assign to the returned Message.arg1 field. arg2 – Value to assign to the returned Message.arg2 field. obj – Value to assign to the returned Message.obj field." />
-      <item value="Acquires in shared mode, aborting if interrupted. Implemented by first checking interrupt status, then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1406" />
-        <entry key="ENGLISH" value="1407" />
+        <entry key="CHINESE" value="1408" />
+        <entry key="ENGLISH" value="1409" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
