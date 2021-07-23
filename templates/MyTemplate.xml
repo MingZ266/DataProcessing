@@ -14,4 +14,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="fiiv" value="$var$ = $view$.findViewById(R.id.$var$)&#10;$end$" description="从view中获取组件" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
