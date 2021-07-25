@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Tried to dismissDialog() but the Dialog's window was already destroyed!" />
+      <item value="There is no onDestroy in Dialog, so we simulate it from dismiss()" />
       <item value="Using 'sort((T, T) -&gt; Int): Unit' is an error. Use sortWith(Comparator(comparison)) instead." />
       <item value="Useless Leaf" />
       <item value="stop Scan" />
@@ -53,13 +55,11 @@
       <item value="PULL PAPER" />
       <item value="on Destory" />
       <item value="adjust Bitmap" />
-      <item value="regulate" />
-      <item value="correction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1414" />
-        <entry key="ENGLISH" value="1415" />
+        <entry key="CHINESE" value="1416" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
