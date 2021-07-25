@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Useless Leaf" />
       <item value="stop Scan" />
       <item value="save Object To File" />
       <item value="Coroutine" />
@@ -54,12 +55,11 @@
       <item value="regulate" />
       <item value="correction" />
       <item value="Task already scheduled or cancelled" />
-      <item value="Decode an image using the state set up by calling setHints() previously. Continuous scan clients will get a large speed increase by using this instead of decode(). Parameters: image - The pixel data to decode Returns: The contents of the image Throws: NotFoundException - Any errors which occurred" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1413" />
-        <entry key="ENGLISH" value="1414" />
+        <entry key="CHINESE" value="1414" />
+        <entry key="ENGLISH" value="1415" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
