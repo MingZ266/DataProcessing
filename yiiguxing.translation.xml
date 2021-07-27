@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="329" />
+    <option name="newTranslationDialogWidth" value="327" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Target label does not denote a function" />
       <item value="dated" />
       <item value="Returns true if this resource has been disposed. Returns: true if this resource has been disposed" />
       <item value="Tried to dismissDialog() but the Dialog's window was already destroyed!" />
@@ -54,7 +55,6 @@
       <item value="on Decode Result" />
       <item value="Code Result" />
       <item value="Multi Format One D Reader" />
-      <item value="PULL PAPER" />
     </histories>
     <option name="languageScores">
       <map>
