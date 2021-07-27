@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Broken pipe" />
       <item value="has leaked window DecorView@a56c3a[] that was originally added here" />
       <item value="Target label does not denote a function" />
       <item value="dated" />
@@ -54,12 +55,11 @@
       <item value="await Or Do Task" />
       <item value="no Decode Result" />
       <item value="on Decode Result" />
-      <item value="Code Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1418" />
-        <entry key="ENGLISH" value="1419" />
+        <entry key="CHINESE" value="1419" />
+        <entry key="ENGLISH" value="1420" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
