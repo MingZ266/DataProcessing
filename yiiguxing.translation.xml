@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="release" />
       <item value="Specifies extra space on the top and bottom sides of this view. Specifying layout_marginVertical is equivalent to specifying layout_marginTop and layout_marginBottom with that same value. If both layout_marginVertical and eitherboth of layout_marginTop and layout_marginBottom are also specified, the layout_marginVertical value will take precedence over the edge-specific values. Also, layout_margin will always take precedence over any of these values, including layout_marginVertical. This space is outside this view's bounds. Margin values should be positive." />
       <item value="Specifies the fixed width for each column." />
       <item value="Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling" />
@@ -54,12 +55,11 @@
       <item value="no Spot" />
       <item value="Spot" />
       <item value="idtitle can overlap ImageView-5 if @idtitle grows due to localized text expansion" />
-      <item value="When set to false, prevents the layout from aligning its children's baselines. This attribute is particularly useful when the children use different values for gravity. The default value is true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
-        <entry key="ENGLISH" value="1421" />
+        <entry key="CHINESE" value="1421" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
