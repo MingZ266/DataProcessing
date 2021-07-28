@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="325" />
+    <option name="newTranslationDialogWidth" value="321" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Specifies extra space on the top and bottom sides of this view. Specifying layout_marginVertical is equivalent to specifying layout_marginTop and layout_marginBottom with that same value. If both layout_marginVertical and eitherboth of layout_marginTop and layout_marginBottom are also specified, the layout_marginVertical value will take precedence over the edge-specific values. Also, layout_margin will always take precedence over any of these values, including layout_marginVertical. This space is outside this view's bounds. Margin values should be positive." />
+      <item value="Specifies the fixed width for each column." />
+      <item value="Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling" />
       <item value="If the current Observable completes after emitting a single item, return that item, otherwise throw a NoSuchElementException." />
       <item value="Suspend function 'await' should be called only from a coroutine or another suspend function" />
       <item value="Connection reset" />
@@ -52,9 +55,6 @@
       <item value="Spot" />
       <item value="idtitle can overlap ImageView-5 if @idtitle grows due to localized text expansion" />
       <item value="When set to false, prevents the layout from aligning its children's baselines. This attribute is particularly useful when the children use different values for gravity. The default value is true." />
-      <item value="finish" />
-      <item value="analysis Finish" />
-      <item value="await Task" />
     </histories>
     <option name="languageScores">
       <map>
