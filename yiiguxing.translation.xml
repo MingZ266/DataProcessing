@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="321" />
+    <option name="newTranslationDialogWidth" value="319" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Label is redundant, because it can not be referenced in either ''break'', ''continue'', or ''return'' expression" />
       <item value="Using implicit label for this lambda is prohibited" />
       <item value="swap" />
       <item value="record" />
@@ -44,7 +45,6 @@
       <item value="failed" />
       <item value="guest" />
       <item value="analysis Fail" />
-      <item value="Label is redundant, because it can not be referenced in either ''break'', ''continue'', or ''return'' expression" />
       <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="The label '@exist' does not denote a loop" />
