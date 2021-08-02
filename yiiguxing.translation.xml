@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="319" />
+    <option name="newTranslationDialogWidth" value="317" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="if json is not a valid representation for an object of type classOfT" />
       <item value="fail Until Next" />
       <item value="first Pic" />
       <item value="Suspension functions can be called only within coroutine body" />
@@ -54,7 +55,6 @@
       <item value="exist" />
       <item value="front" />
       <item value="Extension property cannot be initialized because it has no backing field" />
-      <item value="Analysis Result" />
     </histories>
     <option name="languageScores">
       <map>
