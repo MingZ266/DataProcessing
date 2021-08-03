@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="trying to use a recycled bitmap android.graphics.Bitmap@77fd87e" />
       <item value="Bitmap Pack" />
       <item value="confirm Double Side" />
       <item value="if json is not a valid representation for an object of type classOfT" />
@@ -54,12 +55,11 @@
       <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="The label '@exist' does not denote a loop" />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1429" />
-        <entry key="ENGLISH" value="1430" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1431" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
