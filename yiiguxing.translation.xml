@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="There is more than one label with such a name in this scope" />
       <item value="failed" />
       <item value="not upload" />
       <item value="DIR NO UPLOAD" />
@@ -54,7 +55,6 @@
       <item value="Whether to split the track and leave a gap for the thumb drawable." />
       <item value="Unexpected text found in layout file: &quot;android:height=&quot;@dimendp_10&quot;&gt;&quot;" />
       <item value="Shallow" />
-      <item value="Shoal" />
     </histories>
     <option name="languageScores">
       <map>
