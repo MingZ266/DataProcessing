@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="317" />
+    <option name="newTranslationDialogWidth" value="315" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Can be joined with assignment" />
       <item value="Transport endpoint is not connected" />
       <item value="trying to use a recycled bitmap android.graphics.Bitmap@77fd87e" />
       <item value="Bitmap Pack" />
@@ -54,7 +55,6 @@
       <item value="guest" />
       <item value="analysis Fail" />
       <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
-      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
     </histories>
     <option name="languageScores">
       <map>
