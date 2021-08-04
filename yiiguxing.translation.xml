@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="failed" />
+      <item value="not upload" />
+      <item value="DIR NO UPLOAD" />
+      <item value="no upload" />
+      <item value="UPLOAD" />
+      <item value="UNUPLOAD" />
+      <item value="DIR UNUPLOAD" />
       <item value="cut File" />
       <item value="Unsafe use of a nullable receiver of type Array&lt;(out) String!&gt;?" />
       <item value="Can be joined with assignment" />
@@ -48,27 +55,20 @@
       <item value="Unexpected text found in layout file: &quot;android:height=&quot;@dimendp_10&quot;&gt;&quot;" />
       <item value="Shallow" />
       <item value="Shoal" />
-      <item value="Drawable to use as the &quot;thumb&quot; that switches back and forth." />
-      <item value="Drawable to use as the &quot;track&quot; that the switch thumb slides within." />
-      <item value="Use SwitchCompat from AppCompat or SwitchMaterial from Material library" />
-      <item value="init TCP Server" />
-      <item value="init Broadcast" />
-      <item value="failed" />
-      <item value="guest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1432" />
-        <entry key="ENGLISH" value="1433" />
+        <entry key="CHINESE" value="1435" />
+        <entry key="ENGLISH" value="1436" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
-        <entry key="GERMAN" value="8" />
+        <entry key="GERMAN" value="9" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
-        <entry key="CATALAN" value="2" />
+        <entry key="CATALAN" value="3" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="2" />
