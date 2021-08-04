@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Unsafe use of a nullable receiver of type Array&lt;(out) String!&gt;?" />
       <item value="Can be joined with assignment" />
       <item value="Transport endpoint is not connected" />
       <item value="trying to use a recycled bitmap android.graphics.Bitmap@77fd87e" />
@@ -54,7 +55,6 @@
       <item value="failed" />
       <item value="guest" />
       <item value="analysis Fail" />
-      <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
     </histories>
     <option name="languageScores">
       <map>
