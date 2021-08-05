@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="There's a cycle in the inheritance hierarchy for this type" />
+      <item value="set Canceled On Touch Outside" />
+      <item value="on End" />
+      <item value="Callback" />
       <item value="secondary Progress" />
       <item value="Tint to apply to the indeterminate progress indicator." />
       <item value="Tint to apply to the progress indicator background." />
@@ -51,15 +55,11 @@
       <item value="If the current Observable completes after emitting a single item, return that item, otherwise throw a NoSuchElementException." />
       <item value="Suspend function 'await' should be called only from a coroutine or another suspend function" />
       <item value="Connection reset" />
-      <item value="Broken pipe" />
-      <item value="has leaked window DecorView@a56c3a[] that was originally added here" />
-      <item value="Target label does not denote a function" />
-      <item value="dated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1443" />
-        <entry key="ENGLISH" value="1444" />
+        <entry key="CHINESE" value="1445" />
+        <entry key="ENGLISH" value="1446" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="13" />
