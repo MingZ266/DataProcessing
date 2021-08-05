@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Getter visibility must be the same as property visibility" />
       <item value="There's a cycle in the inheritance hierarchy for this type" />
       <item value="set Canceled On Touch Outside" />
       <item value="on End" />
@@ -54,7 +55,6 @@
       <item value="Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling" />
       <item value="If the current Observable completes after emitting a single item, return that item, otherwise throw a NoSuchElementException." />
       <item value="Suspend function 'await' should be called only from a coroutine or another suspend function" />
-      <item value="Connection reset" />
     </histories>
     <option name="languageScores">
       <map>
