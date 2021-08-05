@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="monitor Job" />
       <item value="on Task Over" />
       <item value="on Get Server Info" />
       <item value="splice Dir" />
@@ -54,12 +55,11 @@
       <item value="Returns true if this resource has been disposed. Returns: true if this resource has been disposed" />
       <item value="Tried to dismissDialog() but the Dialog's window was already destroyed!" />
       <item value="There is no onDestroy in Dialog, so we simulate it from dismiss()" />
-      <item value="Using 'sort((T, T) -&gt; Int): Unit' is an error. Use sortWith(Comparator(comparison)) instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1441" />
-        <entry key="ENGLISH" value="1442" />
+        <entry key="CHINESE" value="1442" />
+        <entry key="ENGLISH" value="1443" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="13" />
