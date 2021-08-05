@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="There is more than one label with such a name in this scope" />
       <item value="Type mismatch" />
       <item value="inferred type is Boolean? but Boolean was expected" />
       <item value="Getter visibility must be the same as property visibility" />
@@ -25,7 +26,6 @@
       <item value="Uploaded" />
       <item value="no Uploaded" />
       <item value="not Uploaded" />
-      <item value="There is more than one label with such a name in this scope" />
       <item value="failed" />
       <item value="not upload" />
       <item value="DIR NO UPLOAD" />
