@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="313" />
+    <option name="newTranslationDialogWidth" value="311" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Conflicting overloads: public abstract suspend fun run(): Unit defined in com.example.scanningapp.scan.ScanAnalysis.MyRunnable, public abstract fun run(): Unit defined in java.lang.Runnable" />
       <item value="There is more than one label with such a name in this scope" />
       <item value="Type mismatch" />
       <item value="inferred type is Boolean? but Boolean was expected" />
@@ -54,7 +55,6 @@
       <item value="release" />
       <item value="Specifies extra space on the top and bottom sides of this view. Specifying layout_marginVertical is equivalent to specifying layout_marginTop and layout_marginBottom with that same value. If both layout_marginVertical and eitherboth of layout_marginTop and layout_marginBottom are also specified, the layout_marginVertical value will take precedence over the edge-specific values. Also, layout_margin will always take precedence over any of these values, including layout_marginVertical. This space is outside this view's bounds. Margin values should be positive." />
       <item value="Specifies the fixed width for each column." />
-      <item value="Unconditional layout inflation from view adapter: Should use View Holder pattern (use recycled view passed into this method as the second parameter) for smoother scrolling" />
     </histories>
     <option name="languageScores">
       <map>
