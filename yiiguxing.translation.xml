@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="AUTO CORRECT COLOR" />
+      <item value="CLEAR WHEEL PAGES" />
+      <item value="NOTIFY FRAME DONE" />
+      <item value="CORRECT COLOR" />
+      <item value="Bitmap Pack" />
       <item value="Conflicting overloads: public abstract suspend fun run(): Unit defined in com.example.scanningapp.scan.ScanAnalysis.MyRunnable, public abstract fun run(): Unit defined in java.lang.Runnable" />
       <item value="There is more than one label with such a name in this scope" />
       <item value="Type mismatch" />
@@ -39,7 +44,6 @@
       <item value="Can be joined with assignment" />
       <item value="Transport endpoint is not connected" />
       <item value="trying to use a recycled bitmap android.graphics.Bitmap@77fd87e" />
-      <item value="Bitmap Pack" />
       <item value="confirm Double Side" />
       <item value="if json is not a valid representation for an object of type classOfT" />
       <item value="fail Until Next" />
@@ -51,15 +55,11 @@
       <item value="swap" />
       <item value="record" />
       <item value="'var' on secondary constructor parameter is not allowed" />
-      <item value="pos" />
-      <item value="release" />
-      <item value="Specifies extra space on the top and bottom sides of this view. Specifying layout_marginVertical is equivalent to specifying layout_marginTop and layout_marginBottom with that same value. If both layout_marginVertical and eitherboth of layout_marginTop and layout_marginBottom are also specified, the layout_marginVertical value will take precedence over the edge-specific values. Also, layout_margin will always take precedence over any of these values, including layout_marginVertical. This space is outside this view's bounds. Margin values should be positive." />
-      <item value="Specifies the fixed width for each column." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1447" />
-        <entry key="ENGLISH" value="1448" />
+        <entry key="CHINESE" value="1452" />
+        <entry key="ENGLISH" value="1453" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="13" />
