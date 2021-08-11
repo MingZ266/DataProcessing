@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Preferences" />
+      <item value="Shared Preferences" />
       <item value="height Measure Spec" />
       <item value="width Measure Spec" />
       <item value="Measure Spec" />
@@ -53,13 +55,11 @@
       <item value="if json is not a valid representation for an object of type classOfT" />
       <item value="fail Until Next" />
       <item value="first Pic" />
-      <item value="Suspension functions can be called only within coroutine body" />
-      <item value="guess Double List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1457" />
-        <entry key="ENGLISH" value="1458" />
+        <entry key="CHINESE" value="1459" />
+        <entry key="ENGLISH" value="1460" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="13" />
