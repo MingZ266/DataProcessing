@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="420" />
-    <option name="newTranslationDialogWidth" value="311" />
+    <option name="newTranslationDialogWidth" value="307" />
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Needs more information and examples once the API is more baked." />
+      <item value="Alpha level for the action button text, to allow for adjusting the lightness or darkness of the theme color used for Snackbar text buttons (e.g., colorPrimary)." />
+      <item value="If set, the status bar will be drawn such that it is compatible with a light status bar background. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to setting {@link android.view.ViewSYSTEM_UI_FLAG_LIGHT_STATUS_BAR} on the decor view." />
+      <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
       <item value="Preferences" />
       <item value="Shared Preferences" />
       <item value="height Measure Spec" />
@@ -51,15 +55,11 @@
       <item value="Can be joined with assignment" />
       <item value="Transport endpoint is not connected" />
       <item value="trying to use a recycled bitmap android.graphics.Bitmap@77fd87e" />
-      <item value="confirm Double Side" />
-      <item value="if json is not a valid representation for an object of type classOfT" />
-      <item value="fail Until Next" />
-      <item value="first Pic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1459" />
-        <entry key="ENGLISH" value="1460" />
+        <entry key="CHINESE" value="1460" />
+        <entry key="ENGLISH" value="1461" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="13" />
