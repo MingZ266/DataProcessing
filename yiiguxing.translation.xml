@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="is Available" />
       <item value="Accidental override: The following declarations have the same JVM signature (getContext()LandroidcontentContext;):" />
       <item value="entries" />
       <item value="Reference to an array resource that will populate a listadapter." />
@@ -54,12 +55,11 @@
       <item value="on Task Over" />
       <item value="on Get Server Info" />
       <item value="splice Dir" />
-      <item value="format Dir" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1471" />
-        <entry key="ENGLISH" value="1472" />
+        <entry key="CHINESE" value="1472" />
+        <entry key="ENGLISH" value="1473" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
