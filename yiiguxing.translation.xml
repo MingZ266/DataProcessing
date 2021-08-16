@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Accidental override: The following declarations have the same JVM signature (getContext()LandroidcontentContext;):" />
       <item value="entries" />
       <item value="Reference to an array resource that will populate a listadapter." />
       <item value="Would like to have the screen in a portrait orientation: that is, with the display taller than it is wide, ignoring sensor data. Corresponds to {@link android.content.pm.ActivityInfoSCREEN_ORIENTATION_PORTRAIT}." />
@@ -54,7 +55,6 @@
       <item value="on Get Server Info" />
       <item value="splice Dir" />
       <item value="format Dir" />
-      <item value="standard Dir" />
     </histories>
     <option name="languageScores">
       <map>
