@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="check Debug Duplicate Classes" />
       <item value="serial Version UID" />
       <item value="logical And" />
       <item value="super' is not an expression, it can only be used on the left-hand side of a dot ('.')" />
@@ -54,12 +55,11 @@
       <item value="no upload" />
       <item value="UPLOAD" />
       <item value="UNUPLOAD" />
-      <item value="DIR UNUPLOAD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1463" />
-        <entry key="ENGLISH" value="1464" />
+        <entry key="CHINESE" value="1464" />
+        <entry key="ENGLISH" value="1465" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="13" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628471860943" />
+    <option name="lastTrimTime" value="1629076350202" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
