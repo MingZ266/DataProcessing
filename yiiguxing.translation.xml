@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Denotes that the annotated element of integer type, represents a logical type and that its value should be one of the explicitly named constants. If the IntDefflag() attribute is set to true, multiple constants can be combined." />
       <item value="Required" />
       <item value="Type mismatch. Required: Int Found: Array&lt;Int&gt;" />
-      <item value="Denotes that the annotated element of integer type, represents a logical type and that its value should be one of the explicitly named constants. If the IntDefflag() attribute is set to true, multiple constants can be combined." />
       <item value="Expected annotation identifier after '@'" />
       <item value="frame Corner Color" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
