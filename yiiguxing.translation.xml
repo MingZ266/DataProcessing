@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Nested weights are bad for performance" />
       <item value="Illegal Argument Exception" />
       <item value="corner Stroke Width" />
       <item value="Denotes that the annotated element of integer type, represents a logical type and that its value should be one of the explicitly named constants. If the IntDefflag() attribute is set to true, multiple constants can be combined." />
@@ -54,7 +55,6 @@
       <item value="CLEAR WHEEL PAGES" />
       <item value="NOTIFY FRAME DONE" />
       <item value="CORRECT COLOR" />
-      <item value="Bitmap Pack" />
     </histories>
     <option name="languageScores">
       <map>
