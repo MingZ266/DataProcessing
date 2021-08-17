@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Required" />
+      <item value="Type mismatch. Required: Int Found: Array&lt;Int&gt;" />
+      <item value="Denotes that the annotated element of integer type, represents a logical type and that its value should be one of the explicitly named constants. If the IntDefflag() attribute is set to true, multiple constants can be combined." />
       <item value="Expected annotation identifier after '@'" />
       <item value="frame Corner Color" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
@@ -52,9 +55,6 @@
       <item value="Bitmap Pack" />
       <item value="Conflicting overloads: public abstract suspend fun run(): Unit defined in com.example.scanningapp.scan.ScanAnalysis.MyRunnable, public abstract fun run(): Unit defined in java.lang.Runnable" />
       <item value="There is more than one label with such a name in this scope" />
-      <item value="Type mismatch" />
-      <item value="inferred type is Boolean? but Boolean was expected" />
-      <item value="Getter visibility must be the same as property visibility" />
     </histories>
     <option name="languageScores">
       <map>
