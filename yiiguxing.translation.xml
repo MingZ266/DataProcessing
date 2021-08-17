@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Expected annotation identifier after '@'" />
+      <item value="frame Corner Color" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
       <item value="CLEARTEXT communication to 120.26.108.209 not permitted by network security policy" />
       <item value="Reference to a drawable that will be drawn under the insertion cursor." />
@@ -53,13 +55,11 @@
       <item value="Type mismatch" />
       <item value="inferred type is Boolean? but Boolean was expected" />
       <item value="Getter visibility must be the same as property visibility" />
-      <item value="There's a cycle in the inheritance hierarchy for this type" />
-      <item value="set Canceled On Touch Outside" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1479" />
-        <entry key="ENGLISH" value="1480" />
+        <entry key="CHINESE" value="1480" />
+        <entry key="ENGLISH" value="1481" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
