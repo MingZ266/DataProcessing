@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Available" />
+      <item value="is Available Data" />
       <item value="Personal Fragment" />
       <item value="is Available" />
       <item value="Accidental override: The following declarations have the same JVM signature (getContext()LandroidcontentContext;):" />
@@ -53,13 +55,11 @@
       <item value="Tint to apply to the indeterminate progress indicator." />
       <item value="Tint to apply to the progress indicator background." />
       <item value="monitor Job" />
-      <item value="on Task Over" />
-      <item value="on Get Server Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1473" />
-        <entry key="ENGLISH" value="1474" />
+        <entry key="CHINESE" value="1475" />
+        <entry key="ENGLISH" value="1476" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
