@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="use Camera Exception" />
       <item value="Unable to instantiate fragment com.xinya.xinyahomework.home.view.impl.PersonalFragment: could not find Fragment constructor" />
       <item value="config" />
       <item value="display Metrics" />
@@ -54,12 +55,11 @@
       <item value="logical And" />
       <item value="super' is not an expression, it can only be used on the left-hand side of a dot ('.')" />
       <item value="reference" />
-      <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1495" />
-        <entry key="ENGLISH" value="1496" />
+        <entry key="CHINESE" value="1496" />
+        <entry key="ENGLISH" value="1497" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
