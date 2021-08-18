@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="confirm" />
       <item value="Getter visibility must be the same as property visibility" />
       <item value="get Effective Width" />
       <item value="get Effective Area" />
@@ -54,7 +55,6 @@
       <item value="If set, the status bar will be drawn such that it is compatible with a light status bar background. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to setting {@link android.view.ViewSYSTEM_UI_FLAG_LIGHT_STATUS_BAR} on the decor view." />
       <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
       <item value="Preferences" />
-      <item value="Shared Preferences" />
     </histories>
     <option name="languageScores">
       <map>
