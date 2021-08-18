@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Getter visibility must be the same as property visibility" />
+      <item value="get Effective Width" />
+      <item value="get Effective Area" />
+      <item value="get Effective" />
       <item value="prepare Open Camera" />
       <item value="ready Open Camera" />
       <item value="permission" />
@@ -51,15 +55,11 @@
       <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
       <item value="Preferences" />
       <item value="Shared Preferences" />
-      <item value="height Measure Spec" />
-      <item value="width Measure Spec" />
-      <item value="Measure Spec" />
-      <item value="Extend Task Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1487" />
-        <entry key="ENGLISH" value="1488" />
+        <entry key="CHINESE" value="1490" />
+        <entry key="ENGLISH" value="1491" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
