@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="add Upload Task And Only One" />
+      <item value="add Upload Task But Only One" />
       <item value="confirm" />
       <item value="confrim" />
       <item value="current" />
@@ -53,13 +55,11 @@
       <item value="on Nothing Selected" />
       <item value="Use of setter method instead of property access syntax" />
       <item value="filter Invalid Data" />
-      <item value="Available" />
-      <item value="is Available Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1513" />
-        <entry key="ENGLISH" value="1514" />
+        <entry key="CHINESE" value="1514" />
+        <entry key="ENGLISH" value="1515" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
