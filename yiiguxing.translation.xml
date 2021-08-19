@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="confirm" />
+      <item value="confrim" />
       <item value="current" />
       <item value="When the screen is turned off and turned back on, the SurfaceTexture is already available, and &quot;onSurfaceTextureAvailable&quot; will not be called. In that case, we can open a camera and start preview from here (otherwise, we wait until the surface is ready in the SurfaceTextureListener)." />
       <item value="set Aspect Ratio" />
@@ -28,7 +30,6 @@
       <item value="display Metrics" />
       <item value="No default implementation" />
       <item value="init Camera Option" />
-      <item value="confirm" />
       <item value="Getter visibility must be the same as property visibility" />
       <item value="get Effective Width" />
       <item value="get Effective Area" />
@@ -54,7 +55,6 @@
       <item value="filter Invalid Data" />
       <item value="Available" />
       <item value="is Available Data" />
-      <item value="Personal Fragment" />
     </histories>
     <option name="languageScores">
       <map>
