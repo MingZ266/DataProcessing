@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="concurrent Camera Ids" />
       <item value="use Camera Exception" />
       <item value="Unable to instantiate fragment com.xinya.xinyahomework.home.view.impl.PersonalFragment: could not find Fragment constructor" />
       <item value="config" />
@@ -54,12 +55,11 @@
       <item value="serial Version UID" />
       <item value="logical And" />
       <item value="super' is not an expression, it can only be used on the left-hand side of a dot ('.')" />
-      <item value="reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1496" />
-        <entry key="ENGLISH" value="1497" />
+        <entry key="CHINESE" value="1497" />
+        <entry key="ENGLISH" value="1498" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
