@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Removes all of the mappings from this map. The map will be empty after this call returns." />
       <item value="add Upload Task And Only One" />
       <item value="add Upload Task But Only One" />
       <item value="confirm" />
@@ -54,7 +55,6 @@
       <item value="Reference to a drawable that will be drawn under the insertion cursor." />
       <item value="on Nothing Selected" />
       <item value="Use of setter method instead of property access syntax" />
-      <item value="filter Invalid Data" />
     </histories>
     <option name="languageScores">
       <map>
