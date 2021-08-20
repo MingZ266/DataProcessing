@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="The tint is drawn above the drawable, but with the drawable’s alpha channel masking the result. [Da, Sc Da + (1 - Sa) Dc]" />
+      <item value="sure Pic" />
+      <item value="sure The Pic" />
+      <item value="This namespace declaration is redundant" />
+      <item value="The color for the status bar. If the color is not opaque, consider setting {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_STABLE} and {@link android.view.ViewSYSTEM_UI_FLAG_LAYOUT_FULLSCREEN}. For this to take effect, the window must be drawing the system bar backgrounds with {@link android.R.attrwindowDrawsSystemBarBackgrounds} and the status bar must not have been requested to be translucent with {@link android.R.attrwindowTranslucentStatus}. Corresponds to {@link android.view.WindowsetStatusBarColor(int)}." />
       <item value="image Crop" />
       <item value="Whether any other values are allowed. Normally this is not the case, but this allows you to specify a set of expected constants, which helps code completion in the IDE and documentation generation and so on, but without flagging compilation warnings if other values are specified." />
       <item value="Denotes that the annotated element should only be called on the given API level or higher. This is similar in purpose to the older @TargetApi annotation, but more clearly expresses that this is a requirement on the caller, rather than being used to &quot;suppress&quot; warnings within the method that exceed the minSdkVersion." />
@@ -50,16 +55,11 @@
       <item value="prepare Open Camera" />
       <item value="ready Open Camera" />
       <item value="permission" />
-      <item value="check Back Camera" />
-      <item value="LENS FACING FRONT" />
-      <item value="Nested weights are bad for performance" />
-      <item value="Illegal Argument Exception" />
-      <item value="corner Stroke Width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1520" />
-        <entry key="ENGLISH" value="1521" />
+        <entry key="CHINESE" value="1522" />
+        <entry key="ENGLISH" value="1523" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
