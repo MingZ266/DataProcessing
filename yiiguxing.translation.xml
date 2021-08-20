@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="postion" />
+      <item value="Flag indicating whether this Window is responsible for drawing the background for the system bars. If true and the window is not floating, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link android.R.attrstatusBarColor} and {@link android.R.attrnavigationBarColor}. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS}." />
       <item value="The tint is drawn above the drawable, but with the drawable’s alpha channel masking the result. [Da, Sc Da + (1 - Sa) Dc]" />
       <item value="sure Pic" />
       <item value="sure The Pic" />
@@ -53,8 +55,6 @@
       <item value="get Effective Area" />
       <item value="get Effective" />
       <item value="prepare Open Camera" />
-      <item value="ready Open Camera" />
-      <item value="permission" />
     </histories>
     <option name="languageScores">
       <map>

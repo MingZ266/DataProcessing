@@ -1,0 +1,28 @@
+<templateSet group="MyTemplateJava">
+  <template name="fii" value="$VAR$ = findViewById(R.id.$VAR$);&#10;$END$" description="快速使用findViewById" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="iv" value="private void initView() {&#10;    $END$&#10;}" description="初始化UI组件的方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="listener" value="private void myListener() {$END$&#10;}" description="集中设置监听的方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="public static $END$" description="public static" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psv" value="public static void $END$" description="public static void" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

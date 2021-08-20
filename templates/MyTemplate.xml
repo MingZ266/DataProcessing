@@ -1,14 +1,8 @@
 <templateSet group="MyTemplate">
-  <template name="fii" value="$VAR$ = findViewById(R.id.$VAR$)&#10;$END$" description="快速使用findViewById" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
   <template name="fiiv!" value="$var0$.$var1$ = $view$!!.findViewById(R.id.$var1$)&#10;$end$" description="从view中获取组件赋值于ViewHolder" toReformat="false" toShortenFQNames="true">
-    <variable name="var0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var0" expression="" defaultValue="viewHolder" alwaysStopAt="true" />
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="item[postion]" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
@@ -16,20 +10,16 @@
   </template>
   <template name="fiiv" value="$var$ = $view$.findViewById(R.id.$var$)&#10;$end$" description="从view中获取组件" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="view" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="ps" value="public static $END$" description="public static" toReformat="false" toShortenFQNames="true">
+  <template name="fii" value="$VAR$ = findViewById(R.id.$VAR$)&#10;$END$" description="快速使用findViewById" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="psv" value="public static void $END$" description="public static void" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>
