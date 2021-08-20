@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="item list navigation button" />
+      <item value="Drawable or color to draw between list items." />
       <item value="Files Deleted" />
       <item value="on Files Deleted" />
       <item value="Removes all of the mappings from this map. The map will be empty after this call returns." />
@@ -53,8 +55,6 @@
       <item value="Expected annotation identifier after '@'" />
       <item value="frame Corner Color" />
       <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
-      <item value="CLEARTEXT communication to 120.26.108.209 not permitted by network security policy" />
-      <item value="Reference to a drawable that will be drawn under the insertion cursor." />
     </histories>
     <option name="languageScores">
       <map>
