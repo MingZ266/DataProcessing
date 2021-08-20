@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Whether any other values are allowed. Normally this is not the case, but this allows you to specify a set of expected constants, which helps code completion in the IDE and documentation generation and so on, but without flagging compilation warnings if other values are specified." />
+      <item value="Denotes that the annotated element should only be called on the given API level or higher. This is similar in purpose to the older @TargetApi annotation, but more clearly expresses that this is a requirement on the caller, rather than being used to &quot;suppress&quot; warnings within the method that exceed the minSdkVersion." />
+      <item value="Illegal Format Exception" />
+      <item value="set Style Use Dashed" />
+      <item value="set Divide Line Width" />
       <item value="item list navigation button" />
       <item value="Drawable or color to draw between list items." />
       <item value="Files Deleted" />
@@ -50,16 +55,11 @@
       <item value="Illegal Argument Exception" />
       <item value="corner Stroke Width" />
       <item value="Denotes that the annotated element of integer type, represents a logical type and that its value should be one of the explicitly named constants. If the IntDefflag() attribute is set to true, multiple constants can be combined." />
-      <item value="Required" />
-      <item value="Type mismatch. Required: Int Found: Array&lt;Int&gt;" />
-      <item value="Expected annotation identifier after '@'" />
-      <item value="frame Corner Color" />
-      <item value="Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 21 path .data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1516" />
-        <entry key="ENGLISH" value="1517" />
+        <entry key="CHINESE" value="1519" />
+        <entry key="ENGLISH" value="1520" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
