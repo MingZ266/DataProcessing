@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Same as startActivity(Intent, Bundle) with no options specified." />
       <item value="val' on secondary constructor parameter is not allowed" />
       <item value="Reference has a nullable type '((Intent) -&gt; Unit)?', use explicit '?.invoke()' to make a function-like call instead" />
       <item value="set Contents" />
@@ -54,7 +55,6 @@
       <item value="We don't use a front facing camera in this sample." />
       <item value="concurrent Camera Ids" />
       <item value="use Camera Exception" />
-      <item value="Unable to instantiate fragment com.xinya.xinyahomework.home.view.impl.PersonalFragment: could not find Fragment constructor" />
     </histories>
     <option name="languageScores">
       <map>
