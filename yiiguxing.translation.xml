@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="center" />
+      <item value="Color Select Palette" />
+      <item value="Color Select Wheel" />
+      <item value="hue" />
       <item value="saturation Paint" />
       <item value="hue Paint" />
       <item value="Color Wheel Palette" />
@@ -51,15 +55,11 @@
       <item value="Check if the flash is supported." />
       <item value="We fit the aspect ratio of TextureView to the size of preview we picked." />
       <item value="Pick the smallest of those big enough. If there is no one big enough, pick the largest of those not big enough." />
-      <item value="Collect the supported resolutions that are smaller than the preview Surface" />
-      <item value="Collect the supported resolutions that are at least as big as the preview Surface" />
-      <item value="choose Optimal Size" />
-      <item value="Danger, W.R.! Attempting to use too large a preview size could exceed the camera bus' bandwidth limitation, resulting in gorgeous previews but the storage of garbage capture data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1532" />
-        <entry key="ENGLISH" value="1533" />
+        <entry key="CHINESE" value="1535" />
+        <entry key="ENGLISH" value="1536" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
