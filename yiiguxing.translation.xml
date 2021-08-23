@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="saturation Paint" />
+      <item value="hue Paint" />
+      <item value="Color Wheel Palette" />
+      <item value="MAGENTA" />
       <item value="Same as startActivity(Intent, Bundle) with no options specified." />
       <item value="val' on secondary constructor parameter is not allowed" />
       <item value="Reference has a nullable type '((Intent) -&gt; Unit)?', use explicit '?.invoke()' to make a function-like call instead" />
@@ -51,15 +55,11 @@
       <item value="Collect the supported resolutions that are at least as big as the preview Surface" />
       <item value="choose Optimal Size" />
       <item value="Danger, W.R.! Attempting to use too large a preview size could exceed the camera bus' bandwidth limitation, resulting in gorgeous previews but the storage of garbage capture data." />
-      <item value="Find out if we need to swap dimension to get the preview size relative to sensor coordinate." />
-      <item value="We don't use a front facing camera in this sample." />
-      <item value="concurrent Camera Ids" />
-      <item value="use Camera Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1528" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="CHINESE" value="1532" />
+        <entry key="ENGLISH" value="1533" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
