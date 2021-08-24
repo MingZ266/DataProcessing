@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Waits for this thread to die. An invocation of this method behaves in exactly the same way as the invocation" />
       <item value="preset Area" />
       <item value="get System Service" />
       <item value="on Surface Texture Size Changed" />
@@ -54,7 +55,6 @@
       <item value="confirm" />
       <item value="confrim" />
       <item value="current" />
-      <item value="When the screen is turned off and turned back on, the SurfaceTexture is already available, and &quot;onSurfaceTextureAvailable&quot; will not be called. In that case, we can open a camera and start preview from here (otherwise, we wait until the surface is ready in the SurfaceTextureListener)." />
     </histories>
     <option name="languageScores">
       <map>
