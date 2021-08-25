@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Color Select Hue Selector" />
+      <item value="Color Select Hue Palette" />
       <item value="combine" />
       <item value="combine Measured States" />
       <item value="get Padding Left With Foreground" />
@@ -53,8 +55,6 @@
       <item value="hue" />
       <item value="saturation Paint" />
       <item value="hue Paint" />
-      <item value="Color Wheel Palette" />
-      <item value="MAGENTA" />
     </histories>
     <option name="languageScores">
       <map>
