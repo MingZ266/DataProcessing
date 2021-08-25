@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Clickable View Accessibility" />
+      <item value="update Hue Selector" />
+      <item value="on Size Changed" />
       <item value="radian" />
       <item value="palette Margin" />
       <item value="hue" />
@@ -52,14 +55,11 @@
       <item value="each C From RGB" />
       <item value="each" />
       <item value="for" />
-      <item value="Annotation Type Contract" />
-      <item value="center" />
-      <item value="Color Select Palette" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1580" />
-        <entry key="ENGLISH" value="1581" />
+        <entry key="CHINESE" value="1583" />
+        <entry key="ENGLISH" value="1584" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
