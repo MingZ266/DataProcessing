@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="ring Color" />
+      <item value="faint" />
+      <item value="dizzy" />
       <item value="Hue" />
       <item value="Color Select Slider" />
       <item value="measure Text Draw Param" />
@@ -52,14 +55,11 @@
       <item value="Illegal Format Exception" />
       <item value="set Style Use Dashed" />
       <item value="set Divide Line Width" />
-      <item value="item list navigation button" />
-      <item value="Drawable or color to draw between list items." />
-      <item value="Files Deleted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1548" />
-        <entry key="ENGLISH" value="1549" />
+        <entry key="CHINESE" value="1551" />
+        <entry key="ENGLISH" value="1552" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
