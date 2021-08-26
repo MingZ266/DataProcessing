@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="cos Angle" />
+      <item value="平方" />
       <item value="Return the visible drawing bounds of your view. Fills in the output rectangle with the values from getScrollX(), getScrollY(), getWidth(), and getHeight(). These bounds do not account for any transformation properties currently set on the view, such as setScaleX(float) or setRotation(float)." />
       <item value="move Hue Selector" />
       <item value="Clickable View Accessibility" />
@@ -53,12 +55,10 @@
       <item value="preset Area" />
       <item value="get System Service" />
       <item value="on Surface Texture Size Changed" />
-      <item value="rotate" />
-      <item value="each C From RGB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1584" />
+        <entry key="CHINESE" value="1585" />
         <entry key="ENGLISH" value="1585" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
@@ -68,7 +68,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="3" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MALAYALAM" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="NORWEGIAN" value="2" />
