@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="compute Hue" />
+      <item value="computer" />
+      <item value="computer Hue" />
       <item value="slope" />
       <item value="hue Initial" />
       <item value="Color Select Hue Palette" />
@@ -52,14 +55,11 @@
       <item value="measure Text Draw Param" />
       <item value="Color Select Observer" />
       <item value="buffer Rect" />
-      <item value="Conversion from screen rotation to JPEG orientation." />
-      <item value="This Surface should be freed up after use with release()" />
-      <item value="Waits for this thread to die. An invocation of this method behaves in exactly the same way as the invocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1587" />
-        <entry key="ENGLISH" value="1588" />
+        <entry key="CHINESE" value="1590" />
+        <entry key="ENGLISH" value="1591" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
