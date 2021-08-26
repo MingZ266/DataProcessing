@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="LOG AM" />
+      <item value="LOG AM ON CREATE CALLED" />
+      <item value="Dispatch onLowMemory() to all fragments." />
+      <item value="Open a private file associated with this Context's application package for reading." />
+      <item value="Delete the given private file associated with this Context's application package." />
+      <item value="The result of checkCallingOrSelfPermission is not used; did you mean to call enforceCallingOrSelfPermission(String,String)?" />
+      <item value="android.view.Window.Callback This hook is called whenever the content view of the screen changes (due to a call to Window.setContentView or Window.addContentView)." />
+      <item value="Programmatically opens the options menu. If the options menu is already open, this method does nothing." />
+      <item value="android.app.Activity Progammatically closes the options menu. If the options menu is already closed, this method does nothing." />
+      <item value="attach Base Context 2" />
+      <item value="get Delegate" />
+      <item value="LIGHT STATUS BARS" />
+      <item value="APPEARANCE LIGHT STATUS BARS" />
       <item value="This is the output Surface we need to start preview." />
       <item value="We configure the size of default buffer to be the size of camera preview we want." />
       <item value="set Default Buffer Size" />
@@ -42,24 +55,11 @@
       <item value="slider" />
       <item value="hue Bar Width" />
       <item value="base Palette" />
-      <item value="palette" />
-      <item value="splice Palette" />
-      <item value="splice" />
-      <item value="mixture" />
-      <item value="fusing" />
-      <item value="combination" />
-      <item value="compose" />
-      <item value="selector Radius Px" />
-      <item value="Throttled Touch Event Handler" />
-      <item value="should Propagate" />
-      <item value="Transparency" />
-      <item value="ring Transparency" />
-      <item value="ring Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1597" />
-        <entry key="ENGLISH" value="1598" />
+        <entry key="CHINESE" value="1603" />
+        <entry key="ENGLISH" value="1604" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
