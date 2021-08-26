@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Explicit concurrent copying GC freed 7546(399KB) AllocSpace objects, 0(0B) LOS objects, 50% free, 3MB6MB, paused 134us total 102.590ms" />
       <item value="If this start is requesting a result, we can avoid making the activity visible until the result is received. Setting this code during onCreate(Bundle savedInstanceState) or onResume() will keep the activity hidden during this time, to avoid flickering. This can only be done when a result is requested because that guarantees we will get information back when the activity is finished, no matter what happens to it." />
       <item value="LOG AM" />
       <item value="LOG AM ON CREATE CALLED" />
@@ -54,12 +55,11 @@
       <item value="add Base Palette" />
       <item value="palette Text Size" />
       <item value="slider" />
-      <item value="hue Bar Width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1604" />
-        <entry key="ENGLISH" value="1605" />
+        <entry key="CHINESE" value="1605" />
+        <entry key="ENGLISH" value="1606" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
