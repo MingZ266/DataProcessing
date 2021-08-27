@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="221" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="uevent_next_event nr" />
+      <item value="uevent_next_event nr:1" />
+      <item value="Can not open devsndcontrolC0 for card 0" />
+      <item value="open devsndcontrolC0 for card 0 2021-08-26 17:58:07.741 219-819? Dalsa_route: route_set_controls() set route 0" />
+      <item value="failed to get memory consumption info" />
       <item value="Explicit concurrent copying GC freed 7546(399KB) AllocSpace objects, 0(0B) LOS objects, 50% free, 3MB6MB, paused 134us total 102.590ms" />
       <item value="If this start is requesting a result, we can avoid making the activity visible until the result is received. Setting this code during onCreate(Bundle savedInstanceState) or onResume() will keep the activity hidden during this time, to avoid flickering. This can only be done when a result is requested because that guarantees we will get information back when the activity is finished, no matter what happens to it." />
       <item value="LOG AM" />
@@ -50,16 +55,11 @@
       <item value="combine" />
       <item value="combine Measured States" />
       <item value="get Padding Left With Foreground" />
-      <item value="no force left gravity" />
-      <item value="Called when something has changed which has invalidated the layout of a child of this view parent. This will schedule a layout pass of the view tree." />
-      <item value="add Base Palette" />
-      <item value="palette Text Size" />
-      <item value="slider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1605" />
-        <entry key="ENGLISH" value="1606" />
+        <entry key="CHINESE" value="1608" />
+        <entry key="ENGLISH" value="1609" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="15" />
